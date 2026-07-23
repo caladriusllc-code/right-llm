@@ -178,18 +178,6 @@ Etats parties est garantie à travers la reconnaissance et l’affirmation de la
 
 En effet, d’un point de vue de l’ordonnancement juridique, le Traité et les Actes uniformes qui en sont issus se placent au dessus des lois nationales. En vertu du principe de supranationalité, l’art. 10 contient une règle relative à l’abrogation du droit interne par les Actes uniformes. Sauf dérogation de tout texte législatif ou réglementaire de droit interne présent, ou l’interdiction de tout texte législatif ou réglementaire de droit interne présent ou'’ à venir. En
 
-!> V. Y. GUYON. Op. p. 60.
-
-!* V. Oumar SAMBE. Mamadou IBRA DIALLO, Le praticien comptable, système comptable Ohada, ECJ, Dakar, 2003. p.
-
-B, ph. Tiger, Le droit africain des affaires, que sais-je ?, éd. PUF, 1999, P.20
-
-- V. P. G. POUGOUE. Y. R. KALIEU ELONGO, Introduction critique à l’Ohada éd. PUA,
-Yaoundé, 2008, p. 62
-
-!! V. J. ISSA-Sayegh, Répertoire quinquennal Ohada (2000-2005), p. 670 ; CCJA, avis n° 1/2001/EP du 30 avril 2001, Recueil de jurisprudence CCJA, n° spécial, janvier 2003, p. 74.
-Ohada J-02-04 ; Babacar Gueye commentaires sous article 10 du Traité de l’Ohada, in Traité et Actes uniformes commentés et annotés. 3° éd. Juriscope, 2008, p. 31 et s.
-
 dehors de l’effet relatif à l’application directe et obligatoire des Actes uniformes dans les Etats membres et leur suprématie sur les dispositions de droit interne, antérieures ou postérieures, il y a lieu d’examiner l’effet de l’attractivité du droit Ohada à l’égard des investisseurs.
 
 #### b. L’attractivité de l’Ohada à l’égard des investisseurs
@@ -205,14 +193,6 @@ DE L’OHADA
 
 Elles portent à la fois sur les difficultés linguistiques et l’incompatibilité des cultures juridiques.
 
-3. Ph. TIGER, op. cit. p. 20 et s. Oumar SAMBE. Mamadou IBRA DIALLO, op. cit. p. 34 ;
-Moore DICKERSON et alii, Unified business laws for Africa, éd. GMB. P. 29 et s.
-
-19 V. Alsheini MOULOUL, op. cit. p. 10 et s.
-
-° L’ERSUMA : l’Ecole Régionale Supérieure de la Magistrature située à Porto-Novo au Bénin.
-?! Gilles CISTAC, « L’intégration juridique dans « tous » ses états : SADC et Ohada.
-
 ### Paragraphe 1. Les difficultés d’ordre linguistique
 
 Certes l’art. 53 du Traité révisé de l’Ohada permet à tout Etat africain ou non de devenir membre de l’Ohada. Mais les pesanteurs demeurent en ce qui concerne la langue de travail que nous avons évoquée plus haut. C’est la raison pour laquelle l’ouverture géographique envisagée”“ nécessite une ouverture linguistique. Et l’admission de trois autres langues de travail en dehors du français considéré naguère comme seule langue de travail de l’Ohada paraît répondre à l’exigence.
@@ -226,28 +206,15 @@ Elle se traduit par le choc des cultures juridiques, entre les Etats de traditio
 
 institution est appelée à s’imposer pour atteindre ses objectifs qui profitent également aux personnes assujetties.
 
-2. V. Honourable justice Mohamed Baba Idris, in Unified business laws for Africa, ed. GMB. P.
-42.
-
-23 V.P.G. POUGOUE, Y. R. Kalieu Elongo, Introduction critique à l’Ohada, éd. PUA, Yaoundé.
-2008. P. 92 et s.
-
-# V. Martha Simo Tumnde, Ohada as experienced in Cameroon : Addressing areas of particular
-concern common law in unified Business laws for Africa, ed. GMB, p. 71 et s.
-
-- V. P. G. POUGOUE, Y. R. Kalieu Elongo, op. cit, note n°151, p. 100
-
-6. P. G. POUGOUE. Y. R. KALIEU ELONGO, op. cit, p. 96 et s
-
 # CHAPITRE II
 
 LES PERSONNES ASSUJETTIES
 
-Le droit Ohada est déjà effectif sur le territoire africain à l’endroit des commerçants § 1; des sociétés commerciales § 2 et des groupements d’intérêt économique § 3.
+Le droit Ohada est déjà effectif sur le territoire africain à l’endroit des commerçants; des sociétés commerciales et des groupements d’intérêt économique.
 
 ## SECTION 1. LES COMMERÇANTS
 
-IIs sont visés dans le premier Acte uniforme de l’Ohada, qui réglemente entre autres, la qualité de commerçant et les incompatibilités.”’
+IIs sont visés dans le premier Acte uniforme de l’Ohada, qui réglemente entre autres, la qualité de commerçant et les incompatibilités.
 
 ### Paragraphe 1. La qualité de commerçant
 
@@ -257,13 +224,6 @@ Aux termes de l’art. 2 de l’'AUDCG « est commerçant celui qui fait de l’
 
 - Cependant toute personne qui remplit cette condition n’est pas commerçante si elle ne répond
 pas aux conditions légales. Par exemple l’artisan, les membres des professions libérales, les agricultures. etc.
-
-” V.J. NGUEBOU TOUKAM, Le droit commercial général dans l’acte uniforme Ohada, éd.
-PUA. 1998. p. 10 et s.
-
-° V. art. 169 et s. AUDCG
-
-- V.art. 7 AUDCG
 
 personne physique doit être majeur et capable.” Il ne doit pas souffrir d’incompatibilité pour l’exercice cumulé de certaines autres professions.
 
@@ -287,13 +247,6 @@ En effet, d’après la doctrine, certaines professions nécessitant généralem
 
 Toutes ces raisons font que l’interdiction de l’art. 9 AUDCG n’est pas toujours respectée. Cependant, en la violant, les personnes visées par cet article n’acquièrent pas la qualité de commerçant. Bien au contraire, comme l’affirment Messieurs AKUETE Pedro Santos et Jean YADO TOE, ils s’exposent aux sanctions d’ordre disciplinaire ou professionnel : selon les cas, il s’agira de révoquer le fonctionnaire, de destituer l’officier ministériel, de radier l’avocat ou l’expert-comptable de l’ordre, etc.” Ce qui n’est pas
 
-2. V. art. 6 AUDCG
-
-33 P. S. AKUETE, J. YADO TOE, Ohada, Droit commercial général, éd. Juriscope, 2002, p.
-105, n°175. Sur les incompatibilités. V. également Boris MARTOR et alii, Le droit uniforme africain des affaires issu de l’Ohada, éd. Litec. 2004. p. 37 ; Josette NGUEBOU TOUKAM, op.
-cit, p. 23 ; commercial (Ohada), éd. Souvenir, 2006, p. 55 et s.
-
-** P.S. AKUETE Jean YADO TOE, op. cit. p. 106, n°177
 
 toujours évident dans tous les Etats parties qui ne disposent pas toujours des moyens de contrôles et de répression efficaces.
 
@@ -312,16 +265,7 @@ Mais les sociétés pluripersonnelles diffèrent selon que les rapports entre as
 
 #### a. Les sociétés de personnes
 
-Elles sont fondées sur la considération de la personne. Les associés ne font partie d’une société de personne qu’en considération des qualités des coassociés : crédit, solvabilité, compétence. Il en existe deux : la société en nom collectif (SNC) et la société en commandite simple (SCS). La SNC est
-
-° Dans le même contexte, V. l’art 1" AUDCE ; Oumar AMBE, Mamadou IBRA DIALLO, Le praticien comptable système comptable Ohada, ECJ, Dakar, Dakar, 2003, p. 36, n°15.
-
-36 V. Marcel DOBILL, Comptabilité Ohada, TI, Comptabilité générale, éd. AECC-Karthala.
-2008. p. 35 et s
-
-7. Sur la genèse de la société unipersonnelle, v. Mamadou KONE, op. cit. p. 112 et s. n°189.
-
-celle dans laquelle tous les associés sont commerçants et répondent indéfiniment et solidairement des dettes sociales (art. 270). Tandis que la SCS est définie par l’art 293 AUSCGIE comme celle dans laquelle coexistent un ou plusieurs associés indéfiniment et solidairement responsables des dettes sociales dénommés « associés commandités » avec un ou plusieurs associés responsables des dettes sociales dans la limite de leurs apports dénommés « associés commanditaires » ou « associés en commandite », et dont le capital est divisé en parts sociales.
+Elles sont fondées sur la considération de la personne. Les associés ne font partie d’une société de personne qu’en considération des qualités des coassociés : crédit, solvabilité, compétence. Il en existe deux : la société en nom collectif (SNC) et la société en commandite simple (SCS). La SNC est celle dans laquelle tous les associés sont commerçants et répondent indéfiniment et solidairement des dettes sociales (art. 270). Tandis que la SCS est définie par l’art 293 AUSCGIE comme celle dans laquelle coexistent un ou plusieurs associés indéfiniment et solidairement responsables des dettes sociales dénommés « associés commandités » avec un ou plusieurs associés responsables des dettes sociales dans la limite de leurs apports dénommés « associés commanditaires » ou « associés en commandite », et dont le capital est divisé en parts sociales.
 
 Ici l’on pense que l’une des caractéristiques communes à ces deux sociétés demeure la qualité de commerçant reconnue aux associés de la SNC et de la SCS, sauf à l’endroit des commanditaires.°® Dans ces conditions le mineur non émancipé, les majeurs incapables et tous ceux qui sont frappés d’une interdiction de faire le commerce ou d’une incompatibilité ne peuvent en faire partie”°. Ce qui n’est totalement le cas pour les sociétés à risque limité.
 
@@ -455,11 +399,6 @@ L’Acte uniforme révisé a institué le statut de l’entreprenant à côté d
 
 Le RCCM est un répertoire de caractère officiel qui a pour objet de recevoir l’immatriculation des personnes physiques et morales commerçantes exerçant sur le territoire d’un Etat partie; de recevoir également les
 
-° V. Josette NGUEBOU TOUKAM, op. cit. p. 25 et s. Akuété Pedro SANTOS. J.Y ADO TOE ;
-Droit commercial général, éd. Juriscope, 2002 p. 42 et s; J. ISSA-SAYEGH, Répertoire quinquennal Ohada (2000-2005). p. 33
-
-69 V, par exemple l’art. 11-2 AUDCE ; art 13 AUDCE
-
 inscriptions relatives aux sûretés mobilières (art 19 AUDCG). Il constitue un moyen de publicité qui permet à toute personne de s’informer, avant de traiter avec un commerçant, de sa qualité et de son statut. Le RCCM est tenu par le greffe de la juridiction compétente. Les renseignements consignés dans les différents RCCM locaux sont centralisés dans un fichier national, avant d’être centralisés à leur tour dans un fichier régional tenu auprès de la CCJA.“ L’inscription au RCCM fait partie des obligations du commerçant. Elle lui permet d’acquérir la personnalité juridique, qu’il peut perdre en cas de radiation.
 
 #### c. Le fonds de commerce
@@ -474,23 +413,6 @@ Dans l’Acte uniforme relatif au droit commercial général, le législateur à
 
 IIs ont le pouvoir d’agir, ou entendent agir, habituellement et professionnellement pour le compte d’autres personnes, les mandataires, afin de conclure avec des tiers des contrats de vente à caractère commercial (art.
 137). Ils ont la qualité de commerçant. Il s’agit plus précisément du commissaire‘”, du courtier et de l’agent commercial‘’. Leurs pouvoirs vis-àvis des mandants et des tiers sont prévus par les articles 143 et suivants de l’Acte uniforme sur le droit commercial général, alors que les articles 153 et suivants du même Acte uniforme portent sur la cessation de leurs mandats.
-
-61 Y. art 36 AUDCG.
-
-62 V. art. 44 et s : J. ISSA-SAYEGH, J. LOHOUES-OBLE, op cit, p. 35 et s.
-63 V. art 138 et s AUDCG
-
-64 V. art 138 et s : art. 241 et s AUDCG
-
-65 V. art. 105 et s : art. 259 et s. AUDCG
-
-66 Y. art. 133 et s : art. 296 et s. AUDCG
-
-67 Y. art 192 et s AUDCG
-
-68 Y. art 208 et s AUDCG
-
-69 Y. art. 216 et s AUDCG
 
 2. L’Acte uniforme portant droit des sociétés commerciales et du
 groupement d’intérêt économique (AUSGIE)
@@ -510,14 +432,6 @@ en sociétés à risque limité (la SARL et la SA) et en sociétés non immatric
 
 Elle est relative au droit pénal des sociétés commerciales. À ce sujet, il existe des infractions à la constitution des sociétés : la déclaration notariée mensongère, la remise de fausses listes d’actionnaires ou bulletins de souscription, la majoration frauduleuse d’apport ou de versement, l’émission irrégulière d’actions ou de valeurs mobilières, les négociations interdites d’actions ; les infractions relatives au fonctionnement et à l’organisation des sociétés : la distribution de dividendes fictifs, la publication des états financiers inexacts, l’abus de biens ou de crédit de la société, les violations à la dissolution des sociétés, à savoir l’inobservation de l’information due aux tiers en cas de dissolution et de liquidation d’une société commerciale, les atteintes
 
-79 V. Babacar NGUEYE. Saïdou NOUNOU TALL, op. cit, p. 24
-
-"! V. P. G. OUGOUE et alii, Ohada, Droit des sociétés commerciales et du groupement d’intérêt économique, éd. Juriscope. 2002. p.18.
-
-- V. art 4. Ets AUSCGIE
-
-Bv. supra p. 20
-
 aux biens de l’entreprise dissoute ainsi qu’à ceux de ses actionnaires et créanciers.”*
 
 #### d. La quatrième partie
@@ -530,18 +444,9 @@ Adopté le 17 avril 1997, entré en vigueur le 1” janvier 1998, publié au Jou
 
 #### a. Les sûretés personnelles
 
-Nous rappelons que les sûretés ont déjà fait l’objet de notre ouvrage dans la même collection, sous le titre : Le droit des sûretés dans l’espace OHADA et que nous nous limitons, ici à des indications sommaires. Les sûretés personnelles sont celles par lesquelles une personne accepte de s’engager à côté du débiteur principal et d’apporter ainsi au créancier la garantie de son propre patrimoine ou d’un bien particulier (caution réelle).”° Le législateur Ohada en a prévu deux : le cautionnement, la garantie et contre garanties autonomes. Le cautionnement est un contrat par lequel la caution s’engage, envers le créancier qui accepte, à exécuter l’obligation du débiteur si celui-ci n’y satisfait pas lui-même. Cet engagement peut être contracté sans ordre du débiteur (art. 13 AUS).
+Nous rappelons que les sûretés ont déjà fait l’objet de notre ouvrage dans la même collection, sous le titre : Le droit des sûretés dans l’espace OHADA et que nous nous limitons, ici à des indications sommaires. Les sûretés personnelles sont celles par lesquelles une personne accepte de s’engager à côté du débiteur principal et d’apporter ainsi au créancier la garantie de son propre patrimoine ou d’un bien particulier (caution réelle).”° Le législateur Ohada en a prévu deux : le cautionnement, la garantie et contre garanties autonomes. Le cautionnement est un contrat par lequel la caution s’engage, envers le créancier qui accepte, à exécuter l’obligation du débiteur si celui-ci n’y satisfait pas lui-même. Cet engagement peut être contracté sans ordre du débiteur.
 
-La garantie autonome est l’engagement par lequel le garant s’oblige, en considération d’une obligation souscrite par le donneur d’ordre et sur instructions de ce donneur d’ordre, à payer une somme déterminée au bénéficiaire, soit sur première demande de la part de ce dernier, soit selon des modalités convenues. Alors que la contre-garantie autonome est l’engagement par lequel, le contre-garant s’oblige, en considération d’une obligation souscrite par le donneur d’ordre et sur instructions de ce donneur d’ordre, à payer une somme déterminée au garant, soit sur première demande de la part de ce dernier, soit selon des modalités convenues (art 39 AUS).”
-
-74 V. R. SOCKENG, Droit pénal des affaires, Ohada, 1*° édition, Presses MINSI Le competing,
-#### p. 140et s.
-
-75 V. art 906 et s AUSCGIE
-
-76 V.ISSA-SAYEGH et alii, Ohada, Les sûretés, éd. Juriscope, 2002, n°12
-
-"! Pour quelques explications, V. J. ISSA-SAYEGH, in Traité et Actes uniforme commentés et annotés, 3° éd. Juriscope. 2008. P.678 ; Moussa Samb, in Ohada, Les sûretés, éd. Juriscope, 2002, p. 45 et s :. Y. KALIEU ELONGO, Les sûretés personnelles, éd. PUA 2006, p. 59 et s.
+La garantie autonome est l’engagement par lequel le garant s’oblige, en considération d’une obligation souscrite par le donneur d’ordre et sur instructions de ce donneur d’ordre, à payer une somme déterminée au bénéficiaire, soit sur première demande de la part de ce dernier, soit selon des modalités convenues. Alors que la contre-garantie autonome est l’engagement par lequel, le contre-garant s’oblige, en considération d’une obligation souscrite par le donneur d’ordre et sur instructions de ce donneur d’ordre, à payer une somme déterminée au garant, soit sur première demande de la part de ce dernier, soit selon des modalités convenues.”
 
 #### b. Les sûretés réelles
 
@@ -567,40 +472,16 @@ Il fut adopté le 10 avril 1998, et entré en vigueur le 10 juillet 1998 (Journa
 
 Ces procédures, en principe, de nature rapide ont généralement pour trait caractéristique de commercer par une injonction du juge, lequel au vu des éléments de preuve fournis par le créancier, enjoint au débiteur d’avoir à exécuter son obligation dans un certain délai.”” Autrement dit, les procédures simplifiées de recouvrement débutent par une ordonnance rendue au pied d’une requête du créancier et prennent fin par l’apposition de la formule
 
-3 V.art71 ets. AUS
-
-79 V.B. Martor et alii, op cit, p. 194, n°919 et s
-
-- V. art 190 et s AUS.
-
-1. V. art 203 et s AUS
-
-“ V. H. SOLUS et R. PERROT, droit judiciaire privé, Tome 3 : Procédure de première instance, Sirey, 1991, p. 1185.
-
 exécutoire ou par une décision contentieuse rendue contradictoirement. Elles sont destinées à mettre à la disposition du créancier désarmé, l’autorité du juge à l’effet de vaincre la résistance de son débiteur ” Il en existe deux :
 l’injonction de payer et l’injonction de délivrer ou de restituer. Elles comportent une phase non contradictoire et une autre contradictoire. La première conduite unilatéralement par le créancier s’ouvre par le dépôt de la requête au greffe de la juridiction compétente et s’achève par la décision du Président du tribunal saisi. Elle se subdivise en deux étapes : les conditions préalables à la saisine du président du tribunal. En cas de réponse affirmative, le créancier engage la seconde étape qui porte sur l’une quelconque des trois procédures simplifiées de recouvrement““. Quant à la seconde phase dite contradictoire, elle se justifie parce qu’il est rare que l’instance sur opposition se déroule sans incident, précise le magistrat Michel ADZAKA car les procédures simplifiées de recouvrement, en raison des incident, perdent parfois de tout leur intérêts et se confondent à la procédure de droit commun.”
 
 #### b. Les voies d’exécution
 
-Ici encore renvoyons le lecteur à notre ouvrage dans la même collection, Traité congolais de procédure civile, commerciale, administrative, financière et des voies d’exécution. Lorsque l’exécution d’une obligation n’est pas spontanée de la part du débiteur, des mécanismes de droit s’offrent au créancier pour l’y contraindre. C’est pourquoi l’art 28 AUPSRE énonce que « À défaut d’exécution volontaire, tout créancier peut, quelle que soit la nature de sa créance.….. contraindre son débiteur à exécuter son obligation à son égard... ». C’est pourquoi dans ce contexte, le Pr. Anne-Marie ASSI-ESSO écrit que : « les voies d’exécution sont les procédures légales qui permettent à un créancier impayé de saisir et, dans certains cas, de vendre les biens de son débiteur afin de se payer sur le prix"° ». L’exécution forcée peut porter sur les biens meubles ou immeubles. Pour la première catégorie, il existe des saisies conservatoiresg7, les saisies mobilières, notamment la saisie-vente, la saisieattribution, la saisie des rémunérations, la saisie-appréhension. En dehors des saisies mobilières, il existe des saisies immobilières réglementées par les articles 246 et suivants de l’Acte uniforme.”*
-
-° V. M. ADZAKA, La pratique des procédures simplifiées de recouvrement de créances dans l’espace Ohada, 1* édition. Ets Soukoutou. p.7.
-
-4 V. M. M. ADZAKA op cit, p. 12et s.
-
-S Idem op cit. p. 74
-
-- V.A. M. ASSI-ASSO commentaire de l’AUPRVE, in Ohada, Traité et Actes uniformes
-commentés et annotés et. Juiriscope. 1999, p. 724.
-
-- V. art. 64 et s. AUPSVE
-
-Pour quelques commentaires, V. Joseph DIOGBENOU, Les saisies immobilières, p. 195 et s ;
-#### A. M. ASSI-ESSO. Ndiaw DIOUF, Le recouvrement des créances, éd. Juriscope, 2002 p. 191 et s.
+Ici encore renvoyons le lecteur à notre ouvrage dans la même collection, Traité congolais de procédure civile, commerciale, administrative, financière et des voies d’exécution. Lorsque l’exécution d’une obligation n’est pas spontanée de la part du débiteur, des mécanismes de droit s’offrent au créancier pour l’y contraindre. C’est pourquoi l’art 28 AUPSRE énonce que « À défaut d’exécution volontaire, tout créancier peut, quelle que soit la nature de sa créance.….. contraindre son débiteur à exécuter son obligation à son égard... ». C’est pourquoi dans ce contexte, le Pr. Anne-Marie ASSI-ESSO écrit que : « les voies d’exécution sont les procédures légales qui permettent à un créancier impayé de saisir et, dans certains cas, de vendre les biens de son débiteur afin de se payer sur le prix"° ». L’exécution forcée peut porter sur les biens meubles ou immeubles. Pour la première catégorie, il existe des saisies conservatoiresg7, les saisies mobilières, notamment la saisie-vente, la saisieattribution, la saisie des rémunérations, la saisie-appréhension. En dehors des saisies mobilières, il existe des saisies immobilières réglementées par les articles 246 et suivants de l’Acte uniforme.”
 
 2. L’Acte uniforme sur les procédures collectives
 
-Adopté le 10 avril 1998 et entré en vigueur le 1* janvier 1999 (journal Officiel Ohada n°7 datant du 1" juillet 1998), Cet Acte uniforme compte 258 articles qui organisent les procédures collectives d’apurement du passif sur décision et sous contrôle judiciaire et définissent les sanctions patrimoniales, professionnelles et pénales applicables au débiteur et aux dirigeants de l’entreprise (faillite personnelle et banqueroute). Les procédures collectives que nous allons étudier en profondeur dans la quatrième partie s’appliquent aux commerçants, aux personnes morales de droit privé non commerçant, ainsi qu’aux entreprises publiques revêtant la forme des personnes morales de droit privé.”
+Adopté le 10 avril 1998 et entré en vigueur le 1er janvier 1999 (journal Officiel Ohada n°7 datant du 1" juillet 1998), Cet Acte uniforme compte 258 articles qui organisent les procédures collectives d’apurement du passif sur décision et sous contrôle judiciaire et définissent les sanctions patrimoniales, professionnelles et pénales applicables au débiteur et aux dirigeants de l’entreprise (faillite personnelle et banqueroute). Les procédures collectives que nous allons étudier en profondeur dans la quatrième partie s’appliquent aux commerçants, aux personnes morales de droit privé non commerçant, ainsi qu’aux entreprises publiques revêtant la forme des personnes morales de droit privé.”
 
 #### C. L’Acte uniforme adopté à Ouagadougou
 
@@ -618,11 +499,6 @@ Les comptes du syscohada sont classés comme suit :
 
 Classe 1 à 5 : compte de bilan ;
 
-89 V. art. 2 AUPCAP ; F. M. SAWADOGO, note sous cet article in Traité et Actes uniformes commentés et annotés. 3° éd. Juriscope, 2008, p. 890 et s.
-
-° V.HA. BITSAMANA, op. Cit, p. 520 et s ; Ph. MEYER, in Ohada, Traité et Actes uniformes commentés et annotés. 3° édition, Juiriscope, 2008, p. 145 et s ; Ph. MEYER, Ohada, Droit de l’arbitrage. Ed. Juriscope, Bruxelles. 2002, p. 247 et s.
-
-*! V. également B. MARTOR et alii, op. CIT, n°755, p.154.
 
 Classe 6 à 7 : produits et charges hors activités ordinaires ;
 
@@ -651,10 +527,6 @@ il comporte 31 articles pour sept chapitres portant sur le champ d’application
 
 C’est le nouvel Acte uniforme sur le droit Ohada qui venait d’être adopté par son Conseil des Ministres courant dernier trimestre 2010, à Lomé au Togo, plus précisément le 15 décembre. Il comporte 397 articles contenus dans deux parties principales. La première concerne les dispositions générales sur la société coopérative. Ses différents titres réglementent la constitution de la société coopérative, son fonctionnement, l’action en responsabilité civile contre les dirigeants de cette société, les liens de droit entre les sociétés coopératives, la fusion et scission de la société coopérative, la dissolution et liquidation de la société coopérative, enfin la nullité de la société coopérative et des actes sociaux. La seconde partie porte sur les dispositions aux différentes catégories de sociétés coopératives, à savoir la société coopérative simplifiée et la société coopérative avec conseil d’administration.
 
-°2 V. Oumar SAMBE et Mamadou IBRA DIALLO, op. cit, n°15, p. 36 ; Souleymane SERE, note sous article 2 AUDACE in Ohada, Traité et Acte uniformes commentés et annotés, 3° édition, Juriscope, 9008, p. 601 et s.
-
-95.J. Issa SAYEGHI, Talfi BACHIR, op cit, p. 233 et s.; b ; Martor et alii op cit, p. 275 et s.
-
 ## SECTION 2. LES MATIÈRES À HARMONISER
 
 On distingue les matières en projet d’harmonisation et celles susceptibles de l’être.
@@ -681,14 +553,6 @@ Il s’agit d’un autre projet d’Acte uniforme en préparation, pour lequel l
 
 Ces matières ont été étendues par le Conseil des Ministres de l’Ohada, sur proposition de l’organe exécutif en mars 2001 à Bangui. Au nombre de ces matières ajoutées, il y a :
 
-°4 Par exemple le droit des sociétés, le droit comptable, le droit commercial général.
-“V.M. Kirsh, Le droit du travail en Afrique, Tome 1 éd. Ediéna, Paris, 1987, p. 12 et s.
-° V.art7ets.
-
-7 V.B. Martor et alii, op cit, p. 28, n°111
-
-° V. Martor B, op cit, p. 29, n°119
-
 1. Le droit de la concurrence
 
 Il s’agit d’un ensemble des règles juridiques gouvernant les rivalités entre agents économiques dans la recherche et la conservation d’une clientèle. C’est pourquoi, le Pr Henri Bebey MODI KOKO affirme que «le droit de la concurrence tend à concilier deux objectifs opposés. D’une part, il vise à maintenir sur un marché donné, une saine et loyale compétition entre le plus grand nombre d’acteur possibles. D’autres part, les règles établies doivent assurer le développement des structures capables de produire dans des conditions optimales, eu égard à la dimension même d’un marché »”
@@ -701,13 +565,7 @@ Ce droit a déjà connu d’importantes réformes législatives depuis une quinz
 
 En attendant son adoption, le droit bancaire Ohada portera certainement sur les supports de la relation bancaire, c’est-à-dire les comptes bancaires, les instruments bancaires'” ; ensuite sur le cadre juridique de l’activité bancaire, à savoir les types d’obligations : les obligations contractuelles et les obligations légales ; le sort des obligations qui concernent l’extinction de l’obligation et la transmission de l’obligation ; les droits réels, notamment le droit de propriété et les droits démembrés. Il y a aussi les techniques juridiques de l’activité
 
-” H. B. MODI KOKO, Droit communautaire des affaires (Ohada-CEMAC), TI, Droit commercial et droit de la concurrence, éd. Dianoïa, 2008, p. 123.
-
-°. , B. MODI KOKO, op. cit, p. 124.
-
-0.! V, P. G. POUGOUE, Y. R. KALIEU ELONGO, op. cit, p. 73
-
-- T1 s’agit des instruments de paiement: le chèque, le virement ; les instruments de
+- il s’agit des instruments de paiement: le chèque, le virement ; les instruments de
 mobilisation : la lettre de change et le billet à ordre.
 
 bancaire comme les techniques opératoires'”, les techniques diverses, les techniques sécuritaires portant sur le gage général des créanciers, les sûretés avec préférence'”*, les sûretés sans préférence (le cautionnement, les sûretés financières). Enfin le risque bancaire. ‘*
@@ -724,21 +582,6 @@ Dans nos ouvrages parus dans la même collection respectivement en 2008 et en 20
 
 ° On peut citer : le gage, l’hypothèque
 
-05 V., Didier Martin, Elément de droit bancaire, 4 édition, collection ITB, 1998, p. 375 et s. ;
-Sow OUSSEYNOU ; La sécurisation des engagements bancaires dans les Etats parties au Traité de l’Ohada. Imprimerie COPEF. 2010. P. 66 et s.
-
-06 V. J. ISSA-SAYEGH, J. LOHOUES OBLE, op. cit, p. 169
-
-7 Par exemple, v. F. TERRE, Introduction générale au droit, 5* éd. Dalloz 2000 ; Code civil, 108* édition Dalloz 2009, notamment les articles 1315 et s.
-
-° V, F. TERRE, op. cit. n°486 et s.
-
-°9 V. Idem, n°503 et s.
-
-- V. art. 5 AUDG ; 82 et s. AUDCG
-
-!! V.F. TERRE, op. cit, n° 513
-
 ### Paragraphe 2. Les matières susceptibles d’être harmonisées
 
 En dehors de ces disciplines complétées par le Conseil des Ministres de l’Ohada qui en est l’organe législatif, quelques chercheurs'"” sont arrivés à déduire qu’il existe d’autres matières susceptibles d’être harmonisées. C’est le
@@ -754,18 +597,6 @@ Quelques auteurs ont déjà eu à démontrer que le droit communautaire africain
 A côté de l’arbitrage' ° ayant déjà fait l’objet d’une harmonisation, on pourrait également songer à réglementer la médiation, la conciliation, le minitrial. En effet, la médiation consiste, dans le règlement des différends collectifs de travail, à demander l’avis d’un tiers qualifié, le médiateur, lequel doit formuler une recommandation devant les parties qui l’ont acceptée. Tandis que la conciliation est d’une part une phase obligatoire de l’instance prud’homale qui précède la procédure devant le bureau de jugement, pendant laquelle, deux juges tentent de mettre les parties d’accord. D’autre part, il s’agit d’un procédé de règlement amiable des conflits collectifs de travail. En ce sens, la procédure de conciliation est facultative, sauf convention la rendant obligatoire.""° Enfin, le mini-trial ou procédure simulée est une forme de conciliation organisée en deux étapes. La première à caractère procédural, se déroule comme une instance judiciaire dont elle présente toutes les garanties.
 Alors que la seconde est un processus transactionnel. Toutefois, l’extension du domaine matériel de l’Ohada n’est pas sans risque de démesure.
 
-2. P. G. POUGOUE, Y. R. KALIEU ELONGO, introduction critique à l’Ohada, éd. PUA.
-Yaoundé, 2008. p. 79
-
-113 Lire P.S. AKUETE, J. Yado TOE, Ohada, Droit commercial général, éd. Juriscope. 2002, p.
-273 et s.
-
-114 Lire V. E. BOKALI. D.C.SOSSA, op cit ; Souleymane SERE, D. W. KABRE, op. Cit
-
-LS v, Supra. p. 38
-
-H6 V.R. GUILLIEN. J. VINCENT J, Lexique de termes juridiques, 8 édition, Dalloz, Paris 1990, p. 115 et s.
-
 ### Paragraphe 3. Les risques de la démesure matérielle
 
 Il s’explique à travers les critiques faites par la doctrine, laquelle par ailleurs a fait quelques suggestions.
@@ -776,22 +607,13 @@ Elles portent sur les risques de conflit avec d’autres institutions ; ensuite 
 
 1. Les risques de conflit
 
-Ces risques de conflit concernent les matières harmonisées par l’Ohada et celles relevant d’autres institutions d’intégration économique en Afrique si jamais le domaine de l’Ohada peut s’étendre à l’infini. Telle est la réalité dans les zones CEMAC et UEMOA qui ont mené des réformes du droit bancaire, du droit de la concurrence''’. Par conséquent, une attention particulière paraît importante pour s’assurer que le cadre juridique du droit africain des affaires unifié, n’entre pas en conflit avec la réglementation issue de ces organisations, et qu’aucune confusion n’en résulte, afin d’identifier le système applicable.""*
+Ces risques de conflit concernent les matières harmonisées par l’Ohada et celles relevant d’autres institutions d’intégration économique en Afrique si jamais le domaine de l’Ohada peut s’étendre à l’infini. Telle est la réalité dans les zones CEMAC et UEMOA qui ont mené des réformes du droit bancaire, du droit de la concurrence''’. Par conséquent, une attention particulière paraît importante pour s’assurer que le cadre juridique du droit africain des affaires unifié, n’entre pas en conflit avec la réglementation issue de ces organisations, et qu’aucune confusion n’en résulte, afin d’identifier le système applicable.
 
 2. Les risques d’engloutissement du droit interne
 
 Certains auteurs n’hésitent pas à démontrer que le champ d’application du droit des affaires Ohada a déjà fait l’objet d’un dépassement au regard des dispositions de l’art. 2 du Traité révisé'"°, prévoyant son extension à l’infini.'” En effet, au regard des dispositions de cet article, il ressort que neuf matières ont déjà fait l’objet d’une unification pour un projet d’une quinzaine de disciplines, auxquelles on pourrait ajouter celles prévues par la doctrine. Ce qui ferait un total de vingt matières, sinon plus en tenant compte de la possibilité qu’accorde le législateur Ohada au Conseil des Ministres d’inclure toute autre matière qu’il déciderait, à l’unanimité, conformément à l’objet du Traité et aux dispositions de son article 8.”" C’est dire que le champ définitoire proprement dit du droit des affaires n’est pas respecté par le législateur Ohada'”’, en confirmant finalement l’assertion du Pr Mireille Delmas-Marty d’après laquelle « Le droit des affaires est une notion vague,
 
 dont aucun critère ne permet de tracer avec précision les limites. * »
-
-!" V. POUGOUE P. G. Kalieu ELONGO Y. R. op. cit, p. 73 et s.
-- B. MARTOR et alii, op. cit p. 20 n°122
-9. V.B. Martor et alii, op. cit, p. 30 n°121 ; J. ISSA-SAYEGH, « Quelques aspects techniques
-de l’intégration juridique : l’exemple des Actes uniformes de l’Ohada », Revue de droit uniforme, 1999-1, p. 5 et s.
-- P. G. POUGOUE, Y. R. KALIEU ELONGO, op. cit, p. 68 et s.
-*! V. art 2 du Traité de l’Ohada
-- Mamadou KONE, op. cit, p. 53
-VM DELMAS-MARTY, Droit pénal des affaires, Tome 1, éd. PUF, 1973, p. 4
 
 Dès lors, il y a risque d’engloutissement du droit interne, surtout du droit privé dont est dérivé le droit des affaires. Car par définition, le droit privé porte sur le droit civil, le droit pénal et des disciplines spécialisées.'”* Or le droit Ohada a prévu l’harmonisation des disciplines relevant des sousdisciplines du droit privé, par exemple le droit de la preuve, le droit de la vente, le droit du travail, le droit des contrats, le droit de la propriété intellectuelle... cela veut dire qu’en dehors du droit privé fondamental composé des matières comme le droit des biens, les obligations, le droit de la famille qui pourraient certainement résister à leur attraction par le droit des affaires, tout le droit privé risquerait de s’effacer au profit du droit des affaires en perpétuelle extension elle-même s’expliquant par l’évolution de la réalité économique. Pour éviter tous ces risques, quelques suggestions ont été déjà faites.
 
@@ -806,8 +628,6 @@ Il s’agit essentiellement des droits spécialisés § 1 ; ensuite du droit pé
 ### Paragraphe 1. Les droits spécialisés
 
 Ce sont des subdivisions du droit privé, détachées du droit civil et du droit commercial. Le cas du droit des transports (A), le droit des assurances (B), les instruments de paiement et de crédit (C).
-
-12* V M FONTAINE et alii, Dictionnaire de droit, éd. Foucher, 1996, p. 159 15 V. B. MARTOR et alii, op. cit, p. 30 n° 122 126 V P G. POUGOUE, Kalieu ELONGO, op. cit p. 80 et s.
 
 #### A. Le droit des transports
 
@@ -834,9 +654,6 @@ la mise en place de facilités permettant aux organismes d’assurance et ou de 
 * prendre également des dispositions appropriées en vue de permettre
 l’investissement local dans les meilleures conditions au profit de l’économie
 
-2" V.V.Æ. Bokali, D.C. SOSSA, op. cit ; Souleymane SERE, D. W. KABRE, op, cit ; J. ISSASAYEGH, Répertoire quinquennal Ohada (2000-2005), p. 235 et s.
-128 Souleymane SERE, D. WS. KABRE, op, cit, p. 26
-
 de leur pays ou de la région, des provisions techniques et mathématiques générées par les opérations d’assurance et de réassurance, sous réserve des impératifs techniques relatifs aux risques assurés et au genre de couverture en réassurance fournie ainsi que des critères de sécurité, de liquidité, de rentabilité et de diversité ;
 
 * créer des structures communes chargées de l’étude, de la définition et de
@@ -852,15 +669,7 @@ toutes l’amélioration du climat d’affaires en Afrique, à savoir la CIMA et
 Sous l’influence de la pratique des affaires et essentiellement des usages bancaires, le droit français a développé depuis longtemps, en s’inspirant souvent de pratiques suivies ailleurs, des instruments juridiques spécifiques destinés soit à assurer l’exécution d’une obligation de payer une somme d’argent, soit à permettre le financement à court terme d’opérations commerciales. Telles est d’une part, l’origine des instruments de paiement, d’autre part, celles des instruments de crédit que nous étudieront dans la sixième et la septième partie de cet ouvrage.'*°
 
 Le rôle pratique essentiel des instruments de paiement est d’éviter toute manipulation d’espèces monétaires. C’est ainsi que la création d’instruments spécifiques destinés à assurer l’exécution d’obligations de paiement monétaire est justifiée par un souci de simplification et de rationalisation. * Quant aux instruments de crédit, ils supposent que soit créé, à l’occasion d’une opération de crédit ou d’une opération commerciale, un titre qui permettra la mobilisation du crédit, le fournisseur de crédit pouvant ainsi se refinancer. II s’agit essentiellement des effets de commerce et du bordereau Dailly.
-Toutefois, comme l’a déjà fait remarquer depuis longtemps le Pr PH. TIGER «il apparaît que le domaine actuel de l’Ohada ne couvre pas non seulement l’ensemble de ce que l’on appelle communément droit des affaires, du fait de
-
-129 V. art 1° du Code CIMA, 3° édition, 2004
-
-130 V M JEANTIN, p. Le CANNU, th. GRANIER, Droit commercial, instruments de paiement et de crédit, 7° éd. Dalloz, Paris, 2005, p. 1.
-
-11 V. M. JEANTIN et alii, op. cit, p.5
-
-l’absence des instruments de paiement »'*”, mais aussi par le fait que le droit pénal des affaires n’était pas cité.
+Toutefois, comme l’a déjà fait remarquer depuis longtemps le Pr PH. TIGER «il apparaît que le domaine actuel de l’Ohada ne couvre pas non seulement l’ensemble de ce que l’on appelle communément droit des affaires, du fait de l’absence des instruments de paiement »'*”, mais aussi par le fait que le droit pénal des affaires n’était pas cité.
 
 ## SECTION 4. LE DROIT PÉNAL DES AFFAIRES
 
@@ -877,15 +686,7 @@ On peut distinguer les infractions relatives à l’inscription frauduleuse des 
 
 1. L’inscription frauduleuse des sûretés mobilières
 
-Dans l’exercice de son activité ; au niveau du greffe, le commerçant est appelé à se faire immatriculer'** pour jouir de la personnalité juridique ; il doit
-
-12 V. Ph. TIGER. Op. cit. p. 44
-
-133 V.R. SOCKENG, Droit pénal des affaires Ohada, éd. Presses Minsi Le Competing, Yaoundé, mars 2007, p. 3.
-
-14 V. P. S. AKUETE. J. YADO TOE, op. cit, p. cit, p. 125, n°204 et s ; P. S. AKUETE, in Traité et Acte uniformes commentés et annotés. 3° édition, Juriscope, Bruxelles, 2008, p. 26 et
-
-également s’occuper de l’inscription des sûretés mobilières, notamment le nantissement des actions et des parts sociales, le nantissement du fonds de commerce, les privilèges du Trésor, des Douanes et des institutions de sécurité sociale ; la clause de réserve de propriété. ”
+Dans l’exercice de son activité ; au niveau du greffe, le commerçant est appelé à se faire immatriculer'** pour jouir de la personnalité juridique ; il doit également s’occuper de l’inscription des sûretés mobilières, notamment le nantissement des actions et des parts sociales, le nantissement du fonds de commerce, les privilèges du Trésor, des Douanes et des institutions de sécurité sociale ; la clause de réserve de propriété. ”
 
 A ce sujet, le juge R. SOCKENG précise que «le délit est constitué à l’encontre de toute personne qui a procédé frauduleusement à l’inscription.
 L’infraction peut résulter du caractère inexact des informations données pour l’inscription."*° » Les informations concernent entre autres le titre constitutif de la sûreté ou la mentionnant, l’identité du commerçant, le numéro d’immatriculation, le montant des sommes dues du dernier jour précédent l’inscription, et le cas échéant, les conditions d’exigibilité de la dette…
@@ -900,18 +701,6 @@ L’article 140 AUDCG fait obligation au locataire-gérant d’indiquer en tête
 Tout commerçant, personne physique ou morale, doit tenir un journal enregistrant au jour ses opérations commerciales. Il doit également tenir un grand livre avec balance générale récapitulative, ainsi qu’un livre d’inventaire.
 Ces Livres doivent être tenus conformément aux dispositions de l’Acte uniforme relatif à l’organisation et à l’harmonisation des comptabilités des entreprises. Il doit en outre respecter, selon le cas, les dispositions prévues par l’Acte uniforme relatif au droit des sociétés commerciales et du groupement d’intérêt économique, et l’Acte uniforme relatif à l’organisation et l’harmonisation des comptabilités des sociétés et des entreprises *. De même, toute personne physique ayant la qualité de commerçant doit dans le premier
 
-s ; B. Martor et alii, op ; cit ; p. 40 ; J. ISSA-SAYEGH. Répertoire quinquennal Ohada (20002005), p. 35 ; J. NGUEBOU TOUKAM, op. cit, p. 31
-
-135 V. art 72 et s AUS.
-
-16 V SOCKENGR. Op. cit, p. 51.
-
-B7 V, art. 140 AUDCG
-
-18 V P.S. AKUETE, op. cit. p. 257 ; R. SOCKENG, op. Cit, p. 51
-
-19 Art. 13 AUDCG
-
 mois d’exploitation de son commerce, requérir du Greffe de la juridiction compétente dans le ressort de laquelle ce commerce est exploité, son immatriculation au RCCM. ”
 
 En revanche, les articles 52 et suivants AUDCG traitent des inscriptions modificatives complémentaires et secondaires, en ce sens que si l’assujetti subit ultérieurement des modifications qui exigent la rectification ou le complément des énonciations portées au RCCM, celui-ci doit formuler dans les trente jours de cette modification, une demande de mention rectificative ou complémentaire, ou encore s’il exploite des établissements commerciaux secondaires, ou des succursales, dans le ressort d’autres juridictions, de souscrire une déclaration dans le délai d’un mois à compter du début de l’exploitation. Enfin, l’article 55 AUDCG fait obligation à toute personne physique immatriculée, dans le délai de 30 jours à compter de la cessation de son activité commerciale, de demander sa radiation du registre du commerce et du crédit mobilier.
@@ -920,24 +709,15 @@ C’est ainsi que, précise l’article 43 AUDCG, toute personne tenue d’accom
 
 #### B. L’Acte uniforme sur la comptabilité des entreprises
 
-“
-
 Les infractions relatives à l’organisation et à l’harmonisation des comptabilités des entreprises sont prévues par les dispositions finales de l’AUDCE, à travers l’article 111, lequel fait état de deux infractions spécifiques : le défaut d’établissement ou-de présentation des documents comptables et la présentation des documents inexacts.
 
 1. Le défaut d’établissement ou de présentation de documents comptables
 
-Encourent une sanction pénale les entrepreneurs individuels et les dirigeants sociaux qui n’auront pas, pour chaque exercice social, dressé l’inventaire et établi les états financiers annuels ainsi que le cas échéant, le rapport de gestion et le bilan social.“” En d’autres termes il s’agit d’une part, du défaut d’établissement de la comptabilité ; et d’autre part, du défaut de présentation de la comptabilité ou des comptes annuels.'”
-
-140 Art. 44 s AUDCG
-
-141 V.P.S. AKUETE, op. cit, p. 228 ; R. SOCKENG, op. Cit, p. 54.
-142 Art. 111 al. l AUDCE
-
-15 V.R. SOCKENG, op. cit, p. 60 et s.
+Encourent une sanction pénale les entrepreneurs individuels et les dirigeants sociaux qui n’auront pas, pour chaque exercice social, dressé l’inventaire et établi les états financiers annuels ainsi que le cas échéant, le rapport de gestion et le bilan social.En d’autres termes il s’agit d’une part, du défaut d’établissement de la comptabilité ; et d’autre part, du défaut de présentation de la comptabilité ou des comptes annuels.
 
 ### Paragraphe 2. La présentation des documents inexacts
 
-Encourent une sanction pénale les entrepreneurs individuels et les dirigeants sociaux qui auront sciemment, établis et communiqués des états financiers ne délivrant pas une image fidèle du patrimoine, de la situation financière et du résultat de l’exercice.'* Il s’agit en réalité de l’inexactitude des comptes annuels qui peut résulter d’une erreur matérielle, d’une erreur de classement ou d’une erreur d’évaluation ; ensuite de la présentation ou de la publication, par exemple par la communication des comptes à l’assemblée générale des actionnaires ou associés ou encore d’un envoi à ceux-ci dans les quinze jours avant l’assemblée générale d’approbation des comptes.'”* Ces différentes infractions sont punies conformément aux dispositions du droit pénal en vigueur dans chaque Etat partie. À ce sujet, l’article 38 de la loi camerounaise du 10 juillet 2003 dispose que «les infractions relatives à l’harmonisation de la comptabilité des. entreprises sont punies d’un emprisonnement de trois mois à trois ans et d’une amende de 500.000F CFA à 5.000.000F CFA ou de l’une de ces deux peines seulement. »
+Encourent une sanction pénale les entrepreneurs individuels et les dirigeants sociaux qui auront sciemment, établis et communiqués des états financiers ne délivrant pas une image fidèle du patrimoine, de la situation financière et du résultat de l’exercice. Il s’agit en réalité de l’inexactitude des comptes annuels qui peut résulter d’une erreur matérielle, d’une erreur de classement ou d’une erreur d’évaluation ; ensuite de la présentation ou de la publication, par exemple par la communication des comptes à l’assemblée générale des actionnaires ou associés ou encore d’un envoi à ceux-ci dans les quinze jours avant l’assemblée générale d’approbation des comptes. Ces différentes infractions sont punies conformément aux dispositions du droit pénal en vigueur dans chaque Etat partie. À ce sujet, l’article 38 de la loi camerounaise du 10 juillet 2003 dispose que les infractions relatives à l’harmonisation de la comptabilité des. entreprises sont punies d’un emprisonnement de trois mois à trois ans et d’une amende de 500.000F CFA à 5.000.000F CFA ou de l’une de ces deux peines seulement.
 
 #### A. L’Acte uniforme sur le droit des sociétés commerciales
 
@@ -951,12 +731,6 @@ Concernant la modification du capital social, il y a l’augmentation du capital
 2. Les infractions relatives au fonctionnement des sociétés commerciales
 
 Il existe des infractions liées à la gestion de la société, celles portant sur sa comptabilité. Pour la première catégorie, on retient : l’abus des biens et du crédit de la société”Î les atteintes aux droits des associés.” En dehors de ces infractions liées aux abus dans la gestion de la société, d’autres relèvent du contrôle de gestion. C’est ainsi qu’on peut citer : l’obstacle à la désignation ou
-
-144 Art. 111 al. 2 AUDCE 45 V. R. SOCKENG, op. cit, P 62 et s.
-146 V, art. 891 AUSCGIE 147 V. art 892 AUSCGIE.
-
-N . . . 148 .. .
-à la convocation des commissaires aux comptes ”, l’obstacle aux vérifications
 
 ou le refus de communication de documentsl49, les informations mensongères'”°’, la non-révélation de faits délictieux'*', car d’après l’article 899 AUSCGIE « encourt une sanction pénale, tout commissaire aux comptes qui, soit en son nom personnel, soit à titre d’associé d’une société de commissaires aux comptes, aura sciemment donné ou confirmé des informations mensongères sur la situation de la société ou qui n’aura pas révélé au ministère public les faits délictueux dont il aura eu connaissance ».
 
@@ -982,22 +756,7 @@ l’approbation des états financiers de synthèse ayant fait paraître ces pert
 2. n’auront pas déposé au greffe du tribunal chargé des affaires
 commerciales, inscrit au registre du commerce et du crédit mobilier et publié dans un journal habilité à recevoir les annonces légales, la dissolution
 
-nep » apA 154 anticipée de la société.
 
-‘8 V. art. 897 AUSCGIE
-
-- V. art. 900 AUSCGIE
-
-0 V, art. 710 AUSCGIE
-
-°! V. Mamadou KONE, op. cit, n°237, p. 149
-
-°2 V. art. 889 AUSCGIE.
-
-°3 V. art 890 AUSCGIE ; R. SOCKENG, op. cit, p. 88 ; Abdoullah CISSE, op. cit, n°498, p.
-287 :
-
-°* Art. 901 AUSCGIE
 
 Eu égard à ce qui précède, on constate que trois infractions peuvent être commises pendant la dissolution de la société ; la perte de la moitié du capital social, le refus de consultation des associés, le défaut de publication de la décision de nomination du liquidateur.'*
 
@@ -1032,12 +791,7 @@ engagements jugés trop importants eu égard à sa situation lorsqu’elle les a
 2. si, dans l’intention de rétracter la constatation de la cessation des
 paiements, elle a fait des achats en vue d’une revente au-dessous du cours ou si, dans la même intention, elle a employé des moyens ruineux pour se procurer des fonds ;
 
-155 YV, R. SOKENG. Op. cit, p. 146 et s. Abdoullah CISSE, in Ohada, societies commerciales et GIE, édition Juircope. 2002. Bruxelles, p. 303 et s.
 
-156 Cass crim 7 mars 1968 ; cass crim, 8 décembre 1971. Bull crim n°346. Contra crim 4 octobre
-1975. Gaz pal 1978. Somm. P. 295 ; Rev. Sc. Crim. 1975, p. 623, obs. A. Vitu.
-
-157 V, F. M. SAWADOGO. Ohada, droit des entreprises en difficulté, édition Juriscope, Bruxelles, 2008, p. 349.
 
 3. si, sans excuse légitime, elle ne fait pas au greffe de la juridiction
 compétente la déclaration de son état de cessation des paiements dans le délai de trente jours ;
@@ -1079,13 +833,6 @@ Sont également punis des peines de banqueroute frauduleuse, les dirigeants vis�
 1. de mauvaise foi, présenté ou fait présenter un compte de résultat ou un
 bilan ou un état des créances et des dettes ou un état actif et passif des privilèges et sûretés, inexact ou incomplet ;
 
-158 Pour les commentaires de cet article, v. Abdoullah CISSE, op. cit, p. 295 et s; R.
-SOCKENG, op. cit, p. 160 et s ; J. R. GOMEZ, Ohada, Entreprises en difficulté, éd. BayagMeri, Paris, 2003, p. 282, n°248.
-
-159 V. art 230 AUPCAP.
-
-160 Art. 233 al. 1 AUPCAP
-
 2. sans autorisation du Président de la juridiction compétente, accompli un
 des actes interdits par l’article 11 (art. 233 al. 2 AUPCAP).
 
@@ -1123,10 +870,7 @@ Cette infraction est prévue par l’article 244 AUPCAP, lequel énumère les ac
 particuliers à raison de son vote dans les délibérations de la masse ;
 
 * fait un traité particulier duquel il résulterait en sa faveur un avantage à la
-charge de l’actif du débiteur à partir du jour de la décision d’ouverture de la procédure collective. “*
-
-161 V art 51 AUPCAP.
-162 Art. 243 AUPCAP 163 Art. 241 AUPCAP 164 Art. 244
+charge de l’actif du débiteur à partir du jour de la décision d’ouverture de la procédure collective.
 
 #### d. Les tiers
 
@@ -1155,8 +899,6 @@ Elles sont constatées en cas d’escroquerie, d’abus de confiance ou de fraud
 
 Elle est définie par l’article 405 du code pénal congolais qui précise que quiconque, soit en faisant usage de faux noms ou de fausses qualités, soit en employant des manœuvres frauduleuses, pour persuader l’existence de fausses entreprises, d’un pouvoir ou d’un crédit imaginaire ou pour faire naître l’espérance ou la crainte d’un succès, d’un accident ou de tout autre évènement chimérique, se sera fait remettre ou délivrer des fonds, des meubles ou des obligations, dispositions, billets, promesses, quittance ou décharges et aura, par un de ces moyens, escroqué ou tenté d’escroquer la totalité ou partie de la fortune d’autrui, sera puni d’un emprisonnement d’un an au moins et de cinq ans au plus et d’une amende de 240.000 francs au moins et de 2.400.000 francs au plus.
 
-165 V. SOCKENGR. op. cit. p. 170
-
 Ses éléments constitutifs comprennent :
 
 —les moyens frauduleux, tel l’usage d’un faux nom ou d’une fausse qualité ; le mensonge accompagné de manœuvres frauduleuses ;
@@ -1179,21 +921,7 @@ Elles concernent le piratage par l’atteinte aux données et aux systèmes, les
 
 #### B. Les atteintes à l’ordre financier
 
-En droit français, ces infractions sont prévues hors du code pénal, dans le cadre soit d’autres codes, soit de lois particulières.'”° Ainsi, on distingue les infractions à la législation des chèques : l’émission de chèque interdite ; la fraude fiscale'", l’absence de déclaration en douane dont les infractions se
-
-166 YV, M. delmas-marty, op. cit, p. 20 ets.
-
-167 V J. Pradel, Droit pénal général, 18* éd. Cujas, 2010, p. 309 et s.
-
-168 Art. 408 du code pénal congolais
-
-169 Par exemple le louage de choses, le dépôt, le montant, le nantissement, le prêt à usage, le travail salarié ou non
-
-7.) V, M. DELMAS-MARTY, op, p.116
-
-!! Tdem, p.127 et s ; v. les art 521 et s. du CGI qui sanctionnent tout contribuable qui tenterait de se soustraire frauduleusement du paiement des impositions mises à sa charge
-
-traduisent soit par le fait d’éluder le paiement des droits ou taxes, soit par l’obtention d’un avantage financier supérieur à celui légitimement dû, soit par la réalisation d’une opération normalement interdite.'””
+En droit français, ces infractions sont prévues hors du code pénal, dans le cadre soit d’autres codes, soit de lois particulières.'”° Ainsi, on distingue les infractions à la législation des chèques : l’émission de chèque interdite ; la fraude fiscale'", l’absence de déclaration en douane dont les infractions se traduisent soit par le fait d’éluder le paiement des droits ou taxes, soit par l’obtention d’un avantage financier supérieur à celui légitimement dû, soit par la réalisation d’une opération normalement interdite.'””
 
 #### C. Les atteintes à la concurrence
 
@@ -1205,11 +933,7 @@ Les actes constitutifs d’entrave sont : les voies de fait, violences ou menace
 
 #### E. Autres atteintes
 
-Il existe également la spéculation sur le prix qui est le fait d’avoir directement ou par personne interposée, opéré ou tenté d’opérer la hausse ou la baisse artificielle du prix des denrées ou marchandises ou des effets publics ou privés ; la participation frauduleuse à une entente illicite et l’exploitation abusive de position dominante ou de dépendance économique, le refus de contracter du fait des considérations raciales, religieuses ou sexuelles ; les infractions liées à l’incitation à la consommation, notamment la publicité mensongère, la publicité interdite, les ventes par envoi forcées, le démarchage et les ventes à domicile, les ventes au déballage”Î les ventes liées ou
-
-; 4 N : 176 N . 17e > jumelées, les ventes à distance ‘’, les ventes à prix illicites, le non respect des
-
-- Idem, p.142.
+Il existe également la spéculation sur le prix qui est le fait d’avoir directement ou par personne interposée, opéré ou tenté d’opérer la hausse ou la baisse artificielle du prix des denrées ou marchandises ou des effets publics ou privés ; la participation frauduleuse à une entente illicite et l’exploitation abusive de position dominante ou de dépendance économique, le refus de contracter du fait des considérations raciales, religieuses ou sexuelles ; les infractions liées à l’incitation à la consommation, notamment la publicité mensongère, la publicité interdite, les ventes par envoi forcées, le démarchage et les ventes à domicile, les ventes au déballage les ventes liées ou
 
 73. Sont pénalement incriminés les contrefaçons et autres atteintes portant sur les brevets
 d’invention, dessins et modèle, marques de fabrique, les logiciels. Néanmoins, dans la zone CEMAC. Ces atteintes sont règlementées par le Traité de Ndjamena du 16 mars 1994 et les conventions qui le complètent.
@@ -1233,8 +957,6 @@ rembourser un produit retourné par l’acheteur dans les conditions légales co
 
 77. Ces atteintes peuvent concerner la violation du droit de grève, du règlement intérieur, le
 marchandage, le prêt de main-d’œuvre dans un but lucratif, le non-respect des stipulations dérogatoires contenues dans une convention, le refus d’engager la négociation annuelle obligatoire, les conditions du travail des enfants, l’égalité professionnelle entre femmes et hommes étrangers et nationaux, valides et handicapés, le travail clandestin, le statut juridique des syndicats, les conditions d’hygiène et de sécurité.
-
-0669 LEZ L9L-E0Z9C'0"HS|-SH00 L688-99SHHE0 | LE-SUON-WIOD"XOAIEJOYOS"[BUONBWIQIUI
 
 # DEUXIÈME PARTIE
 
@@ -1283,8 +1005,6 @@ IIs sont principalement d’ordre administratif ou public. Les services administ
 
 Par ailleurs certains commerçants et industriels d’une grande notoriété et ayant contribué au développement du commerce extérieur dans leur pays et, à ce titre, chargés de renseigner l’Administration sur les problèmes d’exportation et d’importation de leurs confrères. Il convient d’ajouter à cette énumération les chambres de commerce, qui sont des associations de la loi de 1901 et qui représentent les intérêts commerciaux de certains pays désireux de faciliter leurs échanges avec le Congo.
 
-0669 LEZ L9L-E0Z9C'0"HS|-SH00 L688-99SHHE0 | LE-SUON-WIOD"XOAIEJOYOS"[BUONBWIQIUI
-
 # CHAPITRE II
 
 LES INSTITUTIONS COMMUNAUTAIRES
@@ -1320,13 +1040,9 @@ Le Secrétariat permanent (dirigé par un Secrétaire permanent nommé par le Co
 
 Le Traité (art. 41) institue également une école ayant pour mission la formation, le perfectionnement et la recherche en droit harmonisé. Dénommée, École régionale supérieure de la magistrature (ERSUMA), l’établissement est dirigé par un Directeur général nommé par le Conseil des Ministres pour un mandat de quatre ans, renouvelable une fois. L'ERSUMA a son siège à PortoNovo (Bénin).
 
-0669 LEZ L9L-E0Z9C'0"HS|-SH00 L688-99SHHE0 | LE-SUON-WIOD"XOAIEJOYOS"[BUONBWIQIUI
-
 # TROISIÈME PARTIE
 
 LES ACTEURS DE LA VIE DES AFFAIRES
-
-0669 LEZ L9L-E0Z9C'0"HS|-SH00 L688-99SHHE0 | LE-SUON-WIOD"XOAIEJOYOS"[BUONBWIQIUI
 
 # CHAPITRE I
 
@@ -1392,11 +1108,7 @@ Le commerçant qui néglige de se faire immatriculer (dans le délai de deux moi
 
 ### Paragraphe 3. La publicité du régime matrimonial
 
-“
-
 Ajoutons ici que les personnes physiques sont commerçantes à quatre conditions : avoir été émancipé expressément ou par mariage ; être âgé de dixhuit ans au moins ; avoir été autorisé, par les personnes qui disposent sur lui de
-
-179 Art. 44-48 AUDCG
 
 l’autorité paternelle, à exercer un commerce déterminé ou le commerce en général ; avoir mentionné cette autorisation au registre du commerce et du crédit mobilier. À défaut d’habilitation régulière, ses actes peuvent être frappés de nullité. Et cette nullité ne peut être invoquée que par l’intéressé lui-même à l’exclusion des tiers avec lesquels il a contracté. Cependant, le mineur non habilité s’oblige par les délits et quasi-délits qu’il commet.
 
@@ -1417,11 +1129,6 @@ La loi interdit l’accès au commerce à certaines personnes en vue de protége
 2° à titre temporaire ou définitif selon les cas, des personnes condamnées pour atteinte à la probité et à la moralité, pour délits fiscaux, économiques et financiers, ou frappées de déchéances commerciales.'“°’ En outre, la loi peut soumettre l’accès d’une profession commerciale déterminée à l’obtention d’un
 
 diplôme (pharmacien) ou à l’achat d’une charge (agent de change, courtier). *"
-
-80. Voir règlement judiciaire, liquidation des biens et faillite personnelle
-18 Art. 6-11 AUDCG
-
-0669 LEZ L9L-E0Z9C'0"HS|-SH00 L688-99SHHE0 | LE-SUON-WIOD"XOAIEJOYOS"[BUONBWIQIUI
 
 # CHAPITRE II
 
@@ -1457,11 +1164,7 @@ Elles comprennent d’abord celles de tout contrat synallagmatique et ensuite le
 
 À. Il faut d’abord que chaque associé donne son consentement à l’acte constitutif de société
 
-Cette volonté de contracter est différente selon que l’associé sera indéfiniment et personnellement responsable sur ses biens du passif de la société ou, au contraire, n’aura qu’une responsabilité limitée au montant de son apport individuel. Pour devenir associé en nom ou commandité, il faut la capacité d’être commerçant ; au contraire, la qualité d’actionnaire d’une société anonyme, de société à responsabilité limitée n’entraîne pas celle du commerçant. D’autre part, les époux qui ont la faculté de se trouver simultanément associés dans une société et de participer séparément ou ensemble à sa gestion ne peuvent toutefois être ensemble indéfiniment et solidairement responsables dans une société commerciale ; en outre, s’ils participent à sa constitution, leurs apports doivent être effectués par acte notarié, sous peine d’être considérés comme nuls, parce que constituant une
-
-“
-
-donation déguisée ; enfin, les parts de société à responsabilité limitée ne peuvent être cédées par l’un des époux à l’autre ou à un tiers que par acte authentique c’est à dire par acte notarié uniquement. Il faut ensuite que la société ait une cause licite, c’est-à-dire un objet social qui ne soit pas contraire à la morale ou à la loi (serait nulle une société ayant pour objet la contrebande ou l’exploitation d’un office de courtier maritime). Il faut, enfin, que la société ait un objet certain, c’est-à-dire un apport mutuel.
+Cette volonté de contracter est différente selon que l’associé sera indéfiniment et personnellement responsable sur ses biens du passif de la société ou, au contraire, n’aura qu’une responsabilité limitée au montant de son apport individuel. Pour devenir associé en nom ou commandité, il faut la capacité d’être commerçant ; au contraire, la qualité d’actionnaire d’une société anonyme, de société à responsabilité limitée n’entraîne pas celle du commerçant. D’autre part, les époux qui ont la faculté de se trouver simultanément associés dans une société et de participer séparément ou ensemble à sa gestion ne peuvent toutefois être ensemble indéfiniment et solidairement responsables dans une société commerciale ; en outre, s’ils participent à sa constitution, leurs apports doivent être effectués par acte notarié, sous peine d’être considérés comme nuls, parce que constituant une donation déguisée ; enfin, les parts de société à responsabilité limitée ne peuvent être cédées par l’un des époux à l’autre ou à un tiers que par acte authentique c’est à dire par acte notarié uniquement. Il faut ensuite que la société ait une cause licite, c’est-à-dire un objet social qui ne soit pas contraire à la morale ou à la loi (serait nulle une société ayant pour objet la contrebande ou l’exploitation d’un office de courtier maritime). Il faut, enfin, que la société ait un objet certain, c’est-à-dire un apport mutuel.
 
 #### B. Le contrat de société doit également respecter trois conditions de
 fond
@@ -1523,7 +1226,7 @@ Plusieurs textes législatifs postérieurs devront modifier l’Acte uniforme su
 * tentative de rapprochement de la législation de chaque pays de celle des
 autres pays membres du Marché commun, ce qui donne lieu à la partie la plus originale du nouveau texte concernant la gestion possible des sociétés anonymes par un directoire contrôlé par un conseil de surveillance ;
 
-—effort d’assainissement, se manifestant par le souci de renforcer la protection des tiers et des associés, le contrôle des sociétés et la publicité de leurs opérations, et par la règlementation des opérations de liquidation.
+— effort d’assainissement, se manifestant par le souci de renforcer la protection des tiers et des associés, le contrôle des sociétés et la publicité de leurs opérations, et par la règlementation des opérations de liquidation.
 
 Cet effort se traduit enfin par une extension considérable du droit pénal spécial des sociétés. D’ailleurs, tout l’Acte uniforme est fortement marqué par la notion d’ordre public, puisque, d’une part, de nombreuses dispositions prévoient que les clauses des statuts contraires aux règles seront réputées non écrites et que, d’autre part, tous les manquements aux obligations légales feront désormais l’objet d’une sanction pénale. Bien que le texte fasse cinquante-quatre renvois à de futurs décrets et deux renvois à des règlements d’administration publique, il ne se contente pas de fixer des principes généraux, mais il entre dans le détail de la règlementation des sociétés commerciales, dont chaque type particulier fait l’objet d’un chapitre spécial.
 AUDSCGE.
@@ -1558,8 +1261,6 @@ La réunion du capital social en une seule main n’entraîne pas de plein droit
 ### Paragraphe 4. Les fusions de sociétés
 
 Les fusions de sociétés, devenues particulièrement nombreuses ces dernières années, ont reçu un commencement de règlementation dans la loi française du 24 juillet 1966 et le décret du 23 mars 1967, qui comportent notamment en ce qui concerne les sociétés anonymes une certaine protection des actionnaires et des obligataires. L’Acte uniforme de l’'OHADA n’a fait que les répéter.
-
-OZLZLEZL9L-E0Z 9C'0"HSL-SH00 L689: L LZÿ8 LEGH L-SUON-WIOD"XOAIEJOYOS"[BUORBWIQIUI
 
 # CHAPITRE IV
 
@@ -1638,8 +1339,6 @@ La liquidation de la société de personnes, qui suit sa dissolution, est l’œ
 
 Les sociétés par actions présentent sur les sociétés par intérêts le double avantage d’une durée indépendante des évènements qui peuvent atteindre les associés et d’un mode de financement qui permet de grouper des capitaux importants. Elles constituent donc un facteur d’emploi efficace de l’épargne ainsi qu’un instrument de développement des affaires sur une vaste échelle. À l’inverse, la liquidation des biens peut avoir des conséquences désastreuses.
 Aussi, l’objectif de la législation Communautaire est-il de protéger les épargnants-actionnaires sans toutefois gêner le fonctionnement des entreprises qui sont saines.
-
-182 Voir en ce sens, H. D. Amboulou, Les libéralités et les successions en droit congolais, L’Harmattan, 2009
 
 ### Paragraphe 1. La société anonyme
 
@@ -1991,14 +1690,11 @@ de la cessation des paiements, toute hypothèque et tout droit de nantissement c
 
 ## SECTION 3. LE RÈGLEMENT JUDICIAIRE
 
-Lorsqu’il estime que le débiteur est en mesure de proposer un concordat sérieux, le tribunal prononce le règlement judiciaire. Il désigne un jugecommissaire chargé de surveiller et d’accélérer les opérations (ce jugecommissaire est habilité à nommer, à toute époque, un ou deux contrôleurs pris parmi les créanciers), et un ou plusieurs (au maximum trois) syndics, sans accomplir d’actes d’administration ou de disposition de ses biens ; le syndic tient régulièrement informé le procureur de la République du déroulement des opérations. Lorsque le débiteur ou les dirigeants sociaux refusent de faire un acte nécessaire à la sauvegarde du patrimoine, le syndic peut y procéder seul avec l’autorisation du juge-commissaire."*S
+Lorsqu’il estime que le débiteur est en mesure de proposer un concordat sérieux, le tribunal prononce le règlement judiciaire. Il désigne un jugecommissaire chargé de surveiller et d’accélérer les opérations (ce jugecommissaire est habilité à nommer, à toute époque, un ou deux contrôleurs pris parmi les créanciers), et un ou plusieurs (au maximum trois) syndics, sans accomplir d’actes d’administration ou de disposition de ses biens ; le syndic tient régulièrement informé le procureur de la République du déroulement des opérations. Lorsque le débiteur ou les dirigeants sociaux refusent de faire un acte nécessaire à la sauvegarde du patrimoine, le syndic peut y procéder seul avec l’autorisation du juge-commissaire.
 
 ## SECTION 4. LA MASSE ET L’ÉTAT DES CRÉANCES
 
 Les créanciers sont constitués en masse, au profit de laquelle le syndic est tenu de faire inscrire immédiatement une hypothèque sur ces biens et sur ceux qu’il acquerra par la suite. Les créanciers privilégiés ou non doivent produire leurs créances entre les mains du syndic, qui les vérifie. Le syndic dresse un état des créances comportant des propositions d’admission ou de rejet ; cet état est vérifié par le juge-commissaire puis déposé au greffe (tout intéressé dispose d’un certain délai pour formuler une réclamation).'“°’ Les créances qui n’ont pas fait l’objet d’une réclamation sont admises ; le juge-commissaire qui établit l’état des créances peut admettre en tout ou partie et à titre provisoire les créances contestées, ces dernières étant portées devant le tribunal après la réunion de l’assemblée concordataire. Les créances des salariés sont garanties par les privilèges des arts. 47 a et 47 b du livre 1” du Code du travail et par les privilèges des articles 2101 (4°) et 2104 (2°) du Code civil ; cependant, dans les dix jours du jugement, un versement provisionnel égal à un mois de salaire impayé est effectué par le syndic s’il dispose des fonds nécessaires.
-
-87. Art, 15 et s. de l’Acte uniforme portant organisation des procédures collectives d’apurement
-du passif !§ 8 Art. 48 et s. de l’Acte uniforme portant organisation des procédures collectives d’apurement du passif 159 Art. 67 et s. de l’Acte uniforme portant organisation des procédures collectives d’apurement du passif
 
 ## SECTION 5. LA CONTINUATION DE L’ACTIVITÉ DE L’ENTREPRISE
 
@@ -2013,7 +1709,7 @@ Le concordat est soumis à l’homologation du tribunal, qui l’accorde si cert
 
 190 Art. 115 et s. de l’Acte uniforme portant organisation des procédures collectives d’apurement du passif
 
-(ou annulation) ne peuvent être annulés qu’en cas de fraude aux droits des créanciers. *
+(ou annulation) ne peuvent être annulés qu’en cas de fraude aux droits des créanciers.
 
 ## SECTION 7. LA CONVERSION DU RÈGLEMENT JUDICIAIRE
 
@@ -2031,8 +1727,6 @@ Dans les trois mois du jugement qui a prononcé la liquidation des biens, le syn
 
 Selon une innovation du législateur de l’Acte Uniforme, le tribunal peut, à la demande du débiteur, d’un créancier ou du syndic, autoriser ce dernier à
 
-191 Art. 119 et s. de l’Acte uniforme portant organisation des procédures collectives d’apurement du passif
-
 traiter à forfait de tout ou partie de l’actif mobilier ou immobilier et à l’aliéner (la législation antérieure de la faillite subordonnait cette autorisation à des conditions de majorité au sein de l’union des créanciers, assez difficiles à réunir).192
 
 ### Paragraphe 2. La subsistance du débiteur
@@ -2048,8 +1742,6 @@ MORALES ET À LEURS DIRIGEANTS
 
 Lorsque le règlement judiciaire ou la liquidation des biens d’une personne morale fait apparaître une insuffisance d’actif, le tribunal peut décider que les dettes sociales seront en tout ou en partie supportées avec ou sans solidarité par tous les dirigeants sociaux, de droit ou de fait, apparents ou occultes, rémunérés ou non, ou par certains d’entre eux seulement ; pour dégager leur responsabilité, les dirigeants impliqués doivent faire la preuve devant le tribunal qu’ils ont apporté à la gestion des affaires sociales toute l’activité et la diligence nécessaires. Le tribunal prononce le règlement judiciaire ou la liquidation des biens de ceux des dirigeants qui ont soit fait des actes de commerce dans un intérêt personnel sous le couvert de la personne morale, soit disposé des biens sociaux comme des leurs propres, ou poursuivi abusivement et dans un intérêt personnel une exploitation déficitaire qui ne pouvait conduire qu’à la cessation des paiements de la personne morale, ou reçu la charge par le tribunal de tout ou partie du passif social et qui n’exécutent pas cette dette. Le passif du règlement judiciaire ou de la liquidation de biens prononcés dans ces conditions comprend, outre le passif personnel, le passif de la personne morale.
 
-192 Art. 170 et s. de l’Acte uniforme portant organisation des procédures collectives d’apurement du passif
-
 ## SECTION 10. LA FAILLITE PERSONNELLE
 
 Le législateur de l'OHADA a voulu distinguer les effets patrimoniaux de l’état de cessation de paiements des sanctions civiles antérieurement attachées au règlement judiciaire et à la faillite. Ces sanctions civiles sont désormais rassemblées sous la dénomination de faillite personnelle. Le débiteur commerçant, ou, s’il s’agit d’une personne morale, les gérants, administrateurs, directeurs généraux, liquidateurs et dirigeants de droit ou de fait, rémunérés ou non, dont la faillite personnelle est prononcée sont soumis aux déchéances et interdictions qui étaient antérieurement applicables aux personnes déclarées en état de faillite. Il leur est notamment fait interdiction de diriger, gérer, administrer ou contrôler une entreprise commerciale individuelle ou sociale.'°*
@@ -2059,8 +1751,6 @@ Le législateur de l'OHADA a voulu distinguer les effets patrimoniaux de l’ét
 A toute époque de la procédure consécutive à l’état de cessation de paiements, le tribunal doit prononcer la faillite personnelle du débiteur commerçant ou des animateurs (de droit ou de fait, apparents ou occultes) de la personne morale intéressée, lorsqu’ils ont soustrait la comptabilité de l’entreprise, détourné ou dissimilé une partie de son actif ou reconnu frauduleusement des dettes qui n’existaient pas, ou bien qui ont exercé une activité commerciale personnelle (soit par personne interposée, soit sous le couvert d’une société), ou bien qui ont usé des biens sociaux comme de biens propres, ou bien encore qui ont, par leur dol, obtenu pour leur entreprise ou pour eux-mêmes un concordat par la suite annulé, ou bien, enfin, qui ont commis des actes de mauvaise foi ou des imprudences inexcusables ou qui ont enfreint gravement les règles et usages du commerce.
 
 Le tribunal peut prononcer soit la faillite personnelle, soit la simple interdiction de diriger, gérer, administrer ou contrôler une entreprise commerciale (ou simplement une personne morale), lorsque le débiteur commerçant ou l’animateur de la personne morale a commis d’autres fautes prouvant son incompétence manifeste, ou bien n’a pas déclaré la cessation de ses paiements dans les quinze jours, ou encore qui a été mis en état de liquidation de ses biens, ou, enfin, qui n’a pas exécuté la dette d’une personne morale mise à sa charge par un jugement de règlement judiciaire ou de liquidation des biens. Les dirigeants sociaux ainsi frappés perdent tout droit de vote dans les assemblées des personnes morales en état de règlement judiciaire ou de liquidation des biens emportent de plein droit contre le débiteur commerçant ou l’animateur de personne morale l’incapacité d’exercer une fonction élective.
-
-1P3 Art. 194 et s. de l’Acte uniforme portant organisation des procédures collectives d’apurement du passif
 
 ### Paragraphe 2. La réhabilitation
 
@@ -2112,17 +1802,13 @@ b) a détourné ou dissipé tout ou partie de son actif ;
 
 c) s’est frauduleusement reconnu débiteur de sommes qu’il ne devrait pas.
 
-Diverses personnes coupables de complicité peuvent également être frappées de la banqueroute frauduleuse. Le cas des animateurs de personnes morales. Les dirigeants de personnes morales commerçantes et de personnes morales de droit privé non commerçantes (à l’exclusion de celles qui n’ont pas d’objet économique et qui ne poursuivent ni en droit ni en fait un but lucratif) peuvent être punis des peines de la banqueroute simple ou frauduleuse.!””
-
-196 Art. 227 et s. de l’Acte uniforme portant organisation des procédures collectives d’apurement du passif 197 Art. 227 et s. de l’Acte uniforme portant organisation des procédures collectives d’apurement du passif
+Diverses personnes coupables de complicité peuvent également être frappées de la banqueroute frauduleuse. Le cas des animateurs de personnes morales. Les dirigeants de personnes morales commerçantes et de personnes morales de droit privé non commerçantes (à l’exclusion de celles qui n’ont pas d’objet économique et qui ne poursuivent ni en droit ni en fait un but lucratif) peuvent être punis des peines de la banqueroute simple ou frauduleuse.
 
 CINQUIÈME PARTIE
 
 LE FONDS DE COMMERCE ET LES CONTRATS COMMERCIAUX
 
 La forme physique ou morale de la personne commerçante ne suffit pas à constituer une entreprise commerciale. Le commerçant doit aussi rassembler et organiser certains biens (que l’Acte uniforme ne définit pas, mais énumère) désignés en pratique sous l’expression de fonds de commerce. Pour assurer le fonctionnement de son entreprise, le commerçant passe des contrats commerciaux et a recours à des opérations de crédit variées.
-
-LOYLLEZL9L-E0C'9C'0"YS|-SH00L688-EHHEESGO L LE-SUON-UIOO"XOAIBJOUOS"JBUORBUIGIUI
 
 # CHAPITRE I
 
@@ -2181,13 +1867,9 @@ Les brevets d’invention, les marques de fabrique, les dessins et les modèles 
 Elle protège le fonds de commerce, notamment l’enseigne commerciale.
 Par ailleurs, les commerçants ont obtenu que soit reconnue par le législateur l’importance d’un local stable pour la prospérité du commerce (fidélité de la clientèle, amortissement des investissements) ; c’est ainsi que l’Acte uniforme portant sur le droit commercial général a donné le droit au commerçant locataire d’obtenir le renouvèlement de son bail. Ce droit est appelé
 
-18 C£, H.D. Amboulou, le mariage et les régimes matrimoniaux en droit congolais, l’Harmattan
-
 improprement encore propriété commerciale. Les dispositions de cet Acte ont règlementé les modalités et les conditions de ce renouvèlement, à son locataire, d’une indemnité d’éviction (dont le montant correspond généralement à la valeur même du fonds), sauf si le non-renouvèlement est motivé par une faute grave du commerçant locataire ou la démolition de l’immeuble qu’il occupe. L’Acte uniforme fixe également avec précision les conditions de révision des baux commerciaux, de la cession du bail et de la sous-location du local par le locataire.
 
 Il faut également signaler que les pouvoirs publics ont réservé la possibilité de donner un fonds de commerce en location-gérance à celui qui, ayant été commerçant pendant sept ans, a lui-même exploité ce même fonds durant au moins deux années ; en posant ce principe, le législateur communautaire a voulu diminuer la spéculation sur les fonds de commerce, longtemps considérés comme des valeurs-refuges contre la dépréciation de la monnaie. ”
-
-19 Décret de 1953, puis loi du 20 mars 1956
 
 # CHAPITRE II
 
@@ -2204,11 +1886,7 @@ Les contrats commerciaux obéissent, en principe aux règles du droit communzœ,
 
 ### Paragraphe 1. La vente
 
-Définition du contrat de vente. La vente est un contrat par lequel une personne s’engage à livrer une chose et l’autre à la payer. La vente est effectuée lorsque le vendeur et l’acheteur sont d’accord sur la chose et sur le prix, même si la chose n’est pas encore livrée ni le prix payé. Cet accord peut être réalisé à l’amiable, de gré à gré, soit directement par les deux contractants en présence, soit par correspondance, soit par l’intermédiaire d’un
-
-200 Art. 1101 et suivants du Code civil
-
-représentant. Il peut être réalisé par enchères, la marchandise étant cédé au plus offrant.
+Définition du contrat de vente. La vente est un contrat par lequel une personne s’engage à livrer une chose et l’autre à la payer. La vente est effectuée lorsque le vendeur et l’acheteur sont d’accord sur la chose et sur le prix, même si la chose n’est pas encore livrée ni le prix payé. Cet accord peut être réalisé à l’amiable, de gré à gré, soit directement par les deux contractants en présence, soit par correspondance, soit par l’intermédiaire d’un. représentant. Il peut être réalisé par enchères, la marchandise étant cédé au plus offrant.
 
 La promesse de vente suffit pour que la vente soit conclue. Elle peut être faite avec versement d’une somme d’argent appelée arrhes. Dans ce cas, chacune des parties conserve la faculté de ne pas conclure définitivement le marché. Celui qui verse les arrhes le perd, celui qui les a reçus en restitue le double. Dans ce cas arrhes est synonyme de débit. Dans la vente à réméré, le vendeur de réserve le droit de reprendre la chose vendue dans un délai maximum de cinq ans moyennant la restitution du prix et le remboursement des frais de vente et des dépenses ayant augmenté la valeur de la chose.
 
@@ -2263,7 +1941,7 @@ Souvent, le débiteur n’est pas en mesure de se déposséder du bien qu’il d
 4° l’hypothèque des navires et des aéronefs ;
 
 5° le nantissement des biens d’équipement professionnel, neufs ou d’occasion (autres que les véhicules). Ce.nantissement joue comme un privilège sur la valeur du matériel pour la sûreté de la créance et de deux annuités d’intérêt. Ce privilège s’exerce avant tout autre, y compris celui du fisc. Pour être valablement constitué, il doit être constaté par acte écrit, enregistré et inscrit au greffe du tribunal de commerce dans les quinze jours de la livraison de la chose sous peine de nullité. Il produit effet pendant cinq ans.
-Le créancier n’a droit de suite, en cas d’aliénation du matériel grevé (celle-ci étant, en tout état de cause, soumise à l’accord du créancier nanti), que si une plaque y a été apposée. Le créancier est théoriquement le vendeur, mais, en pratique, s’est porté caution de la bonne fin du crédit d’équipement de crédit) ;
+Le créancier n’a droit de suite, en cas d’aliénation du matériel grevé (celle-ci étant, en tout état de cause, soumise à l’accord du créancier nanti), que si une plaque y a été apposée. Le créancier est théoriquement le vendeur, mais, en pratique, s’est porté caution de la bonne fin du crédit d’équipement de crédit ;
 
 6° le nantissement des créances que possèdent les entreprises de travaux publics ou de fournitures au titre des marchés passés avec l’Etat et les collectivités publique. Le nantissement de marché public constitue pour de telles entreprises un moyen important de crédit bancaire ;
 
@@ -2447,8 +2125,6 @@ L’endossement est, sauf clause contraire, garant de l’acceptation et du paye
 
 L’endossement postérieur à l’échéance produit les mêmes effets qu’un endossement antérieur. Toutefois, l’endossement postérieur au protêt faute de payement, ou fait après l’expiration du délai fixé pour dresser le protêt, ne produit que les effets d’une cession ordinaire. Sauf preuve contraire, l’endossement sans date est cessé avoir été fait avant l’expiration du délai fixé
 
-24 [. n°66-380 du 16.6.1966 205 Art.117-120. D-L du 30-1935
-
 pour dresser le protêt. Il est défendu d’antidater les ordres à peine de faux. La lettre de change peut être, jusqu’à l’échéance, présentée à l’acceptation du tiré, au lieu de son domicile, par le porteur ou même un simple détenteur. Dans toute lettre de change, le tireur peut stipuler qu’elle devra être présentée à l’acceptation, avec ou sans fixation de délai. Il peut interdire dans la lettre que la présentation à l’acceptation ne pourra avoir lieu avant un terme indiqué.
 Tout endosseur peut stipuler que la lettre devra être présentée à l’acceptation, avec ou sans fixation de délai, à moins qu’elle n’ait été déclarée non acceptable par le tireur. Les lettres de change à un certain délai de vue doivent être présentées à l’acceptation dans le délai d’un an à partir de leur date.
 
@@ -2457,8 +2133,6 @@ Le porteur n’est pas obligé de se dessaisir, entre les mains du tiré, de la 
 Toutefois, l’accepteur est tenu dans les termes de son acceptation.
 
 Quand le tireur a indiqué dans la lettre de change un lieu de payement autre que celui du domicile du tiré, sans désigner un tiers chez qui le payement doit être effectué, le tiré peut l’indiquer lors de l’acceptation. À défaut de cette indication, l’accepteur est réputé s’être obligé à payer lui-même au lieu du payement. Si la lettre est payable au domicile du tiré, celui-ci peut, dans l’acceptation, indiquer une adresse du même lieu où le payement doit être effectué. Par l’acceptation, le tiré s’oblige à payer la lettre de change à
-
-206 D.L. du 02.05.1938
 
 l’échéance. A défaut de payement, le porteur, même s’il est le tireur, a contre l’accepteur une action directe résultant de la lettre de change pour tout ce qui peut être exigé en vertu des articles 152 et 153. Si le tiré, qui a revêtu la lettre de change de son acceptation a biffé celle-ci avant la restitution de la lettre, l’acceptation est censée refusée. Sauf preuve contraire, la radiation est réputée avoir été faite avant la restitution du titre. Toutefois, si le tiré a fait connaître son acceptation par écrit au porteur ou à un signataire quelconque, il est tenu envers ceux-ci dans les termes de son acceptation.””
 
@@ -2471,11 +2145,7 @@ il est signé par le donneur d’aval. Il est considéré comme résultant de la
 
 Une lettre de change peut être tirée :
 
-ÀA vue. À un certain délai de vue. À un certain délai de date. À jour fixe. Les lettres de change, tirées soit à d’autres échéances, soit à échéances successives, sont nulles. La lettre de change à vue est payable à sa présentation. Elle doit être présentée au payement dans le délai d’un an à partir de sa date. Le tireur peut prescrire qu’une lettre de change payable à vue ne doit pas être présentée au payement avant un terme indiqué. Dans ce cas, le délai de présentation part de ce terme. L’échéance d’une lettre de change à un certain délai de vues est déterminée, soit par la date de l’acceptation, soit par celle du protêt. En l’absence du protêt, l’acceptation non datée est réputée, à l’égard de
-
-207 Art. 121-129 D-L du 30-10-1935 208 Art. 140-146. D-L du 30-10-1935
-
-l’accepteur, avoir été donnée le dernier jour du délai prévu pour la présentation à l’acceptation. L’échéance d’une lettre de change tirée à un ou plusieurs mois de date ou de vue a lieu à la date correspondante du mois où le dernier jour du délai prévu pour la présentation à l’acceptation. Quand une lettre de change est tirée à un ou plusieurs mois et demi de date ou de vue, on compte d’abord les mois entiers. Si l’échéance est fixée au commencement, au milieu (mi-janvier, mi-février, etc.) ou à la fin du mois entiers. L’expression ‘’huit jours’”’ ou ‘’quinze jours’’ s’entendent, non d’une ou deux semaines, mais d’un délai de huit ou quinze jours effectifs. L’expression ‘’demi-mois’’ indique un délai de quinze jours.
+ÀA vue. À un certain délai de vue. À un certain délai de date. À jour fixe. Les lettres de change, tirées soit à d’autres échéances, soit à échéances successives, sont nulles. La lettre de change à vue est payable à sa présentation. Elle doit être présentée au payement dans le délai d’un an à partir de sa date. Le tireur peut prescrire qu’une lettre de change payable à vue ne doit pas être présentée au payement avant un terme indiqué. Dans ce cas, le délai de présentation part de ce terme. L’échéance d’une lettre de change à un certain délai de vues est déterminée, soit par la date de l’acceptation, soit par celle du protêt. En l’absence du protêt, l’acceptation non datée est réputée, à l’égard de l’accepteur, avoir été donnée le dernier jour du délai prévu pour la présentation à l’acceptation. L’échéance d’une lettre de change tirée à un ou plusieurs mois de date ou de vue a lieu à la date correspondante du mois où le dernier jour du délai prévu pour la présentation à l’acceptation. Quand une lettre de change est tirée à un ou plusieurs mois et demi de date ou de vue, on compte d’abord les mois entiers. Si l’échéance est fixée au commencement, au milieu (mi-janvier, mi-février, etc.) ou à la fin du mois entiers. L’expression ‘’huit jours’”’ ou ‘’quinze jours’’ s’entendent, non d’une ou deux semaines, mais d’un délai de huit ou quinze jours effectifs. L’expression ‘’demi-mois’’ indique un délai de quinze jours.
 
 Quand une lettre de change est payable à jour fixe dans un lieu où le calendrier est différent de celui du lieu de l’émission, la date de l’échéance est considérée comme fixée d’après le calendrier du lieu de payement. Quand une lettre de change tirée entre deux places ayant des calendriers différents est payable à un certain délai de date, le jour de l’émission est ramené au jour correspondant du calendrier du lieu de payement et l’échéance est fixée en conséquence. Les délais de présentation des lettres de change sont calculés conformément aux règles de l’alinéa précédent. Ces règles ne sont pas applicables si une clause de la lettre de change, ou même les simples énonciations du titre, indiquent que l’intention a été d’adopter des règles différentes.
 
@@ -2503,19 +2173,13 @@ En cas de cessation de payement du tiré, accepteur ou non, ou en cas de saisie 
 
 Lorsque le porteur consent à recevoir en paiement, soit un chèque ordinaire, soit un mandat de virement sur la Banque, soit un chèque postal, le chèque ou le mandat doit indiquer le nombre et l’échéance des effets ainsi payés ; cette indication n’est toutefois pas imposée pour les chèques ou mandats de virement créés pour le règlement entre banquiers du soldes des opérations effectuées entre eux par l’intermédiaire d’une chambre de compensation. Si le règlement est effectué au moyen d’un chèque ordinaire et que celui-ci ne soit pas payé, notification du protêt faute de paiement dudit chèque est faite au domicile de paiement de la lettre de change dans le délai prévu à l’article 41 du décret du 30 octobre 1935 unifiant le droit en matière de chèque. Le protêt faute de paiement du chèque et la notification sont faits par un seul et même exploit, sauf dans le cas où, pour des raisons de compétence territoriale, l’intervention de deux officiers ministériels est nécessaire.*!° ‘ Si le règlement est effectué au moyen d’un mandat de virement et que celui-ci soit rejeté par la Banque, ou au moyen d’un chèque postal et que celui-ci soit rejeté par le centre de chèques postaux détenteur du compte à débiter, la nonexécution fait l’objet d’un acte de notification au domicile de l’émetteur dudit mandant ou dudit chèque postal dans les huit jours à compter de la date de l’émission. Cet acte est dressé par un huissier ou par un notaire.
 
-‘’Lorsque le dernier jour du délai accordé pour l’accomplissement de l’acte de notification de la non-exécution du mandat de virement ou du chèque postal est un jour férié légal, ce délai est prorogé jusqu’au premier jour ouvrable qui
+‘’Lorsque le dernier jour du délai accordé pour l’accomplissement de l’acte de notification de la non-exécution du mandat de virement ou du chèque postal est un jour férié légal, ce délai est prorogé jusqu’au premier jour ouvrable qui en suit l’expiration. Les jours fériés intermédiaires sont compris dans la computation du délai. Aux jours fériés légaux sont assimilés les jours où, aux termes des lois en vigueur, aucun paiement ne peut-être exigé ni aucun protêt dressé.”’
 
-209 Art. 147-148 —D-L du 30-10-1935 710 Art 148 B. (L. n°59-1301 du 18.11.1959).
-
-en suit l’expiration. Les jours fériés intermédiaires sont compris dans la computation du délai. Aux jours fériés légaux sont assimilés les jours où, aux termes des lois en vigueur, aucun paiement ne peut-être exigé ni aucun protêt dressé.”’
-
-’Le tiré de la lettre de change qui reçoit la notification doit, s’il ne paye pas la lettre de change ainsi que les frais de notification et, s’il y a lieu, du protêt du chèque, restituer la lettre de change à l’officier ministériel instrumentaire. Celui-ci dresse immédiatement le protêt faute de payement de la lettre de change.”’ Si le tiré ne restitue pas la lettre de change, un acte de protestation est aussitôt dressé. Le défaut de restitution y est constaté. Le tiers porteur est, en ce cas, dispensé de se conformer aux dispositions des articles 142 et 143 du code de commerce. Le défaut de restitution de la lettre de change constitue un délit passible des peines prévues par l’article 408 du Code pénal.”""!
+’Le tiré de la lettre de change qui reçoit la notification doit, s’il ne paye pas la lettre de change ainsi que les frais de notification et, s’il y a lieu, du protêt du chèque, restituer la lettre de change à l’officier ministériel instrumentaire. Celui-ci dresse immédiatement le protêt faute de payement de la lettre de change.”’ Si le tiré ne restitue pas la lettre de change, un acte de protestation est aussitôt dressé. Le défaut de restitution y est constaté. Le tiers porteur est, en ce cas, dispensé de se conformer aux dispositions des articles 142 et 143 du code de commerce. Le défaut de restitution de la lettre de change constitue un délit passible des peines prévues par l’article 408 du Code pénal.
 
 Le porteur doit donner avis du défaut d’acceptation ou de payement à son endosseur dans les quatre jours ouvrables qui suivent le jour du protêt ou celui de la présentation en cas de clause de retour sans frais. Les notaires et les huissiers sont tenus, à peine de dommages-intérêts, lorsque l’effet indiquera les noms et domicile du tireur de la lettre de change, de prévenir celui-ci dans les quarante-huit heures qui suivent l’enregistrement, par la poste et par lettre recommandée, des motifs du refus de payer. Cette lettre donne lieu, au profit du notaire ou de l’huissier, à un honoraire de (vingt-cinq centimes) en sus des frais d’affranchissement et de recommandation. Chaque endosseur doit, dans les deux jours ouvrables qui suivent le jour où il a reçu l’avis, faire connaître à son endosseur l’avis qu’il a reçu, en indiquant les noms et les adresses de ceux qui ont donné les avis précédents, et ainsi de suite, en remontant jusqu’au tireur. Les délais ci-dessus indiqués courent de la réception de l’avis précédent. Lorsqu’en conformité de l’alinéa précédent, un avis est donné à un signataire de la lettre de change, le même avis doit être donné dans le même délai à son avaliseur. Dans le cas où un endosseur n’a pas indiqué son adresse ou l’a indiquée d’une façon illisible, il suffit que l’avis soit donné à l’endosseur qui le précède.
 
 Il doit prouver qu’il a donné l’avis dans le délai imparti. Ce délai sera considéré comme observé si une lettre missive donnant l’avis a été mise à la poste dans ledit délai. Celui qui ne donne pas l’avis dans le délai ci-dessus indiqué n’encourt pas de déchéance ; il est responsable, s’il y a lieu, du préjudice causé par sa négligence, sans que les dommages-intérêts puissent dépasser le montant de la lettre de change. Le tireur, un endosseur ou un avaliseur peut, par la clause ‘’retour sans frais”’,’’sans protêt’” ou tout autre clause équivalente inscrite sur le titre et signée, dispenser le porteur de faire dresser, pour exercer ses recours, un protêt faute d’acceptation ou faute de payement. Cette clause ne dispense pas le porteur de la présentation de la lettre
-
-2 (D. L du 29.07.1939).
 
 de change dans des délais prescrits ni des avis à donner. La preuve de l’inobservation des délais incombe à celui qui s’en prévaut contre le porteur.
 Si la clause est inscrite par le tireur, elle produit ses effets à l’égard de tous les signataires ; si elle est inscrite par un endosseur ou un avaliseur, elle produit ses effets seulement à l’égard de celui-ci. Si, malgré la clause inscrite par le tireur, le porteur fait dresser le protêt, les frais en restent à sa charge. Quand la clause émane d’un endosseur, ou d’un avaliseur, les frais du protêt, s’il en est dressé un, peuvent être recouvrés contre tous les signataires.
@@ -2547,8 +2211,6 @@ pour la présentation au payement en cas de clause de retour sans frais ;
 Le porteur est déchu de ses droits contre.les endosseurs, contre le tireur et contre les autres obligés, à l’exception de l’accepteur. Toutefois, la déchéance n’a lieu à l’égard du tireur que s’il justifie qu’il a fait provision à l’échéance.
 Le porteur, en ce cas, ne conserve d’action que contre celui sur qui la lettre de change a été tirée. À défaut de présentation à l’acceptation dans le délai stipulé
 
-22 Art. 150-151. D. L. du 30-10-1935
-
 par le tireur, le porteur est déchu de ses droits de recours, tant pour défaut d’acceptation, à moins qu’il ne résulte des termes de la stipulation que le tireur n’a entendu s’exonérer que de la garantie d’acceptation. Si la stipulation d’un délai pour la présentation est contenue dans un endossement, l’endosseur seul peut s’en prévaloir.”"”
 
 ### Paragraphe 2. Le cas de force majeure
@@ -2564,11 +2226,7 @@ Indépendamment des formalités prescrites pour exercice de l’action en garant
 
 Les protêts faute d’acceptation ou de payement sont faits par un notaire ou par un huissier. Le protêt doit être fait :
 
-Au domicile de celui sur qui la lettre de change était payable, ou à son dernier domicile connu ; au domicile des personnes indiquées par la lettre de change pour la payer au besoin ; au domicile du tiers qui a accepté par
-
-213 Art. 152-156. D. L du 30-10-1935 214 Art. 157-158 D. L. du 30-10-1935
-
-intervention ; le tout par un seul et même acte. En cas de fausse indication de domicile, le protêt est précédé d’un acte de perquisition. L’acte de protêt contient la transcription littérale de la lettre de change, de l’acceptation, des endossements et des recommandations de payer le montant de la lettre de change. Il énonce la présence ou l’absence de celui qui doit payer, les motifs du refus de payer et l’impuissance ou le refus de signer. Nul acte de la part du porteur de la lettre de change ne peut suppléer l’acte de protêt, hors les cas prévus par les articles 141 et suivants et par l’article 148 B du code de commerce.
+Au domicile de celui sur qui la lettre de change était payable, ou à son dernier domicile connu ; au domicile des personnes indiquées par la lettre de change pour la payer au besoin ; au domicile du tiers qui a accepté par intervention ; le tout par un seul et même acte. En cas de fausse indication de domicile, le protêt est précédé d’un acte de perquisition. L’acte de protêt contient la transcription littérale de la lettre de change, de l’acceptation, des endossements et des recommandations de payer le montant de la lettre de change. Il énonce la présence ou l’absence de celui qui doit payer, les motifs du refus de payer et l’impuissance ou le refus de signer. Nul acte de la part du porteur de la lettre de change ne peut suppléer l’acte de protêt, hors les cas prévus par les articles 141 et suivants et par l’article 148 B du code de commerce.
 
 Les notaires et les huissiers sont tenus à peine des destitutions, dépens, dommages-intérêts envers les parties, de laisser copie exacte des protêts. Sous les mêmes sanctions, ils sont également tenus de remettre contre récépissé au greffier du tribunal de commerce ou du travail de grande instance statuant commercialement du domicile du débiteur, ou de lui adresser par lettre recommandée avec accusé réception, une copie exacte des protêts faute de payement des traites acceptées des billets à ordre ; cette formalité doit être accomplie dans la quinzaine de l’acte.*”
 
@@ -2579,9 +2237,7 @@ Toute personne ayant le droit d’exercer un recours peut, sauf stipulation cont
 Le rechange se règle, uniformément comme suit :
 
 Un quart pour cent sur les chefs-lieux de départements, demi pour cent sur les chefs-lieux d’arrondissements, trois quarts pour cent sur toute autre place.
-En aucun cas, il n’y aura lieu à rechange dans le même département. Les rechanges ne peuvent être cumulés. Chaque endosseur n’en supporte qu’un seul ainsi que le tireur.”“
-
-215 Art-159-162-D-L. du 30-10-1935 216 Art. 163-165. D-L. du 30-10-1935
+En aucun cas, il n’y aura lieu à rechange dans le même département. Les rechanges ne peuvent être cumulés. Chaque endosseur n’en supporte qu’un seul ainsi que le tireur.
 
 ## SECTION 9. L’INTERVENTION
 
@@ -2591,15 +2247,11 @@ Le tireur, un endosseur ou un avaliseur peut indiquer une personne pour accepter
 
 L’acceptation par intervention peut avoir lieu dans tous les cas où des recours sont ouverts avant l’échéance au porteur d’une lettre de change acceptable. Lorsqu’il a été indiqué sur la lettre de change une personne pour l’accepter ou la payer au besoin au lieu du payement, le porteur ne peut exercer avant l’échéance ses droits de recours contre celui qui a apposé l’indication et contre les signataires subséquents à moins qu’il n’ait présenté la lettre de change à la personne désignée et que, celle-ci ayant refusé l’acceptation, ce refus n’ait été constaté par un protêt. Dans les autres cas d’intervention, le porteur peut refuser l’acceptation par intervention. Toutefois, s’il l’admet, il perd les recours qui lui appartiennent avant l’échéance contre celui pour qui l’acceptation a été donnée et contre les signataires subséquents.
 L’acceptation par intervention est mentionnée sur la lettre de change ; elle est signée par l’intervenant. Elle indique pour le compte de qui elle a lieu ; à défaut de cette indication, l’acceptation est réputée donnée par le tireur.
-L’accepteur par intervention est obligé envers le porteur et envers les endosseurs postérieurs à celui pour le compte duquel il est intervenu, de la même manière que celui-ci. Malgré l’acceptation par intervention, celui pour lequel elle a été faite et ses garants peuvent exiger du porteur, contre remboursement de la somme indiquée à l’article 152, la remise de la lettre de change, du protêt et d’un compte acquitté, s’il y a lieu. ”*
+L’accepteur par intervention est obligé envers le porteur et envers les endosseurs postérieurs à celui pour le compte duquel il est intervenu, de la même manière que celui-ci. Malgré l’acceptation par intervention, celui pour lequel elle a été faite et ses garants peuvent exiger du porteur, contre remboursement de la somme indiquée à l’article 152, la remise de la lettre de change, du protêt et d’un compte acquitté, s’il y a lieu.
 
 ### Paragraphe 2. Le paiement par intervention
 
-Le paiement par intervention peut avoir lieu dans tous les cas où, soit à l’échéance, soit avant l’échéance, des recours sont ouverts au porteur. Le payement doit comprendre toute la somme qu’aurait à acquitter celui pour lequel il a lieu. Il doit être fait au plus tard le lendemain du dernier jour admis pour la confection du protêt faute de payement. Si la lettre de change a été
-
-217 Art 166 -D-L. du 30-10-1935 218 Art. 167 D-L du 30-10-1935
-
-acceptée par des intervenants ayant leur domicile au lieu de payement ou si des personnes ayant leur domicile dans ce même lieu ont été indiquées pour payer au besoin, le porteur doit présenter la lettre à toutes ces personnes et faire dresser, s’il y a lieu, un protêt faute de payement au plus tard le lendemain du dernier jour admis pour la confection du protêt. À défaut de protêt dressé dans ce délai, celui qui a indiqué le besoin ou pour le compte de qui la lettre a été acceptée et les endosseurs postérieurs cessent d’être obligés.
+Le paiement par intervention peut avoir lieu dans tous les cas où, soit à l’échéance, soit avant l’échéance, des recours sont ouverts au porteur. Le payement doit comprendre toute la somme qu’aurait à acquitter celui pour lequel il a lieu. Il doit être fait au plus tard le lendemain du dernier jour admis pour la confection du protêt faute de payement. Si la lettre de change a été acceptée par des intervenants ayant leur domicile au lieu de payement ou si des personnes ayant leur domicile dans ce même lieu ont été indiquées pour payer au besoin, le porteur doit présenter la lettre à toutes ces personnes et faire dresser, s’il y a lieu, un protêt faute de payement au plus tard le lendemain du dernier jour admis pour la confection du protêt. À défaut de protêt dressé dans ce délai, celui qui a indiqué le besoin ou pour le compte de qui la lettre a été acceptée et les endosseurs postérieurs cessent d’être obligés.
 Le porteur qui refuse le payement par intervention perd ses recours contre ceux qui auraient été libérés.
 
 Le payement par intervention doit être constaté par un acquit donné sur la lettre de change, avec indication de celui pour qui il est fait. À défaut de cette indication, le payement est considéré comme fait pour le tireur. La lettre de change et le protêt, s’il en a été dressé un, doivent être remis au payeur par intervention. Le payeur par intervention acquiert les droits résultants de la lettre de change contre celui pour lequel il a payé et contre ceux qui sont tenus Vis-à-vis de ce dernier en vertu de la lettre de change. Toutefois, il ne peut endosser la lettre de change à nouveau. Les endosseurs postérieurs au signataire pour qui le payement a eu lieu sont libérés. En cas de concurrence pour le payement par intervention, celui qui opère le plus de libération est préféré. Celui qui intervient, en connaissance de cause, contrairement à cette règle, perd ses recours contre ceux qui auraient été libérés.”"°
@@ -2610,8 +2262,6 @@ Le payement par intervention doit être constaté par un acquit donné sur la le
 
 La lettre de change peut être tirée en plusieurs exemplaires identiques. Ces exemplaires doivent être numérotés dans le texte même du titre ; faute de quoi, chacun d’eux est considéré comme une lettre de change distincte. T'out porteur d’une lettre n’indiquant pas qu’elle a été tirée en un exemplaire unique peut exiger à ses frais la délivrance de plusieurs exemplaires. À cet effet, il doit s’adresser à son endosseur immédiat qui est tenu de lui prêter ses soins pour agir contre son propre endosseur et ainsi de suite en remontant jusqu’au tireur.
 Les endosseurs sont tenus de reproduire les endossements sur les nouveaux exemplaires. Le payement fait sur un des exemplaires est libératoire, alors même qu’il n’est pas stipulé que ce payement annule l’effet des autres exemplaires. Toutefois, le tiré reste tenu à raison de chaque exemplaire. Celleci est tenue de le remettre au porteur légitime d’un autre exemplaire. Si elle s’y refuse, le porteur ne peut exercer de recours qu’après avoir fait constater par un protêt :
-
-219 Art. 168-172. D. L du 30-10-1935
 
 1° que l’exemplaire envoyé à l’acceptation ne lui a pas été remis sur sa demande ;
 
@@ -2628,22 +2278,14 @@ En cas d’altération du texte d’une lettre de change, les signataires posté
 ### Paragraphe 4. La prescription
 
 Toutes actions résultant de la lettre de change contre l’accepteur se prescrivent par trois ans à compter de la date de l’échéance. Les actions du porteur contre les endosseurs et contre le tireur se prescrivent par un an à partir de la date du protêt dressé en temps utile ou de celle de l’échéance, en cas de clause de retour sans frais. Les actions des endosseurs les uns contre les autres et contre le tireur se prescrivent par six mois à partir du jour où l’endosseur a remboursé la lettre ou du jour où il a été lui-même actionné. Les prescriptions, en cas d’action exercée en justice, ne courent que du jour de la dernière poursuite judiciaire. Elles ne s’appliquent pas s’il y a eu condamnation, ou si la dette a été reconnue par acte séparé. L’interruption de la prescription n’a d’effet que contre celui a l’égard duquel l’acte interruptif a été fait.
-Néanmoins, les prétendus débiteurs seront tenus, s’ils en sont requis,
-
-220 Art. 173-174 D.L. du 30-10-1935 2 Art. 178. D.L. du 30-10-1935 22 Art. 178. D.L. du 30-10-1935
-
-d’affirmer, sous serment, qu’ils ne sont plus redevables ; et leurs veuves, Ln ; ; x 223 héritiers ou ayants cause, qu’il n’est plus rien dû.
+Néanmoins, les prétendus débiteurs seront tenus, s’ils en sont requis, d’affirmer, sous serment, qu’ils ne sont plus redevables ; et leurs veuves, Ln ; ; x 223 héritiers ou ayants cause, qu’il n’est plus rien dû.
 
 ### Paragraphe 5. Les dispositions générales
 
 Le payement d’une lettre de change dont l’échéance est un jour férié légal, ne peut être exigé que le premier jour ouvrable qui suit. De même, tous autres actes relatifs à la lettre de change, notamment la présentation à l’acceptation et le protêt, ne peuvent être faits qu’un jour ouvrable. Lorsqu’un de ces actes doit être accompli dans un certain délai dont le dernier jour est un jour férié légal, ce délai est prorogé jusqu’au premier jour ouvrable qui en suit l’expiration.
 Les jours fériés intermédiaires sont compris dans la computation du délai.
 
-Aux jours fériés légaux sont assimilés les jours où, aux termes des lois en vigueur, aucun payement ne peut être exigé ni aucun protêt dressé. Les délais légaux ou conventionnels ne comprennent pas le jour qui leur sert de point de départ. Aucun jour de grâce ni légal ni juridique n’est admis sauf dans les cas prévus par les articles 147 et 145.”*
-
-223 Art. 179. D.L. du 30-10-1935 24 Art. 180-182. D.L. du 30-10-1935
-
-LL6ZLEZL9L-E0OZ'9C'0'VS|-GSHO0L688-IHVEESGO L LE-SUON:WIOIXOAIEJOYOS"[BUORELIQIUI
+Aux jours fériés légaux sont assimilés les jours où, aux termes des lois en vigueur, aucun payement ne peut être exigé ni aucun protêt dressé. Les délais légaux ou conventionnels ne comprennent pas le jour qui leur sert de point de départ. Aucun jour de grâce ni légal ni juridique n’est admis sauf dans les cas prévus par les articles 147 et 145.
 
 # CHAPITRE II
 
@@ -2682,42 +2324,6 @@ Les altérations”” ; la prescription”“ ; La prescription””° ; Les j
 Sont aussi applicables au billet à ordre les dispositions concernant la lettre de change payable chez un tiers ou dans une localité autre que celle du domicile du tiréz37, la stipulation d’intérêts238, les différences d’énonciations relatives à la somme à payer”°, les conséquences de l’apposition d’une signature dans les conditions visées à l’article 114, celles de la signature d’une personne qui agit sans pouvoirs ou en dépassant ses pouvoirs.”’ Sont également applicables au billet à ordre les dispositions relatives à l’aval”“ ;
 dans le cas prévu au sixième alinéa de cet article, si l’aval n’indique pas pour le compte de qui il a été donné, il est réputé l’avoir été pour le compte du souscripteur du billet à ordre. Le souscripteur d’un billet à ordre est obligé de la même manière que l’accepteur d’une lettre de change. Les billets à ordre payables à un certain délai de vue doivent être présentés au visa du souscripteur dans les délais fixés à l’article 124 ; Le délai de vue court de la date du visa signé du souscripteur sur le billet. Le refus du souscripteur de donner son visa daté est constaté par un protêt”‘” dont la date sert de point de départ au délai de vue expressément prévu par les parties et mentionné sur la facture. Même en ce cas, si le billet à ordre n’est pas parvenu au créancier dans les trente jours qui suivent l’envoi de la facture, le créancier peut émettre une lettre de change que le débiteur est tenu d’accepter selon les conditions prévues aux alinéas 9 et 10 l’article 124. Toute stipulation contraire est réputée non écrite.””
 
-225 Art.117 à123
-
-226 Art 131 à 134
-
-227 Art. 135 à 146
-
-228 Art 147 à 154, 156, 157 et 158 229 Art. 159 à162
-
-230 Art.163 à165
-
-231 Art.166, 168 à 172
-
-232 Art.176 et 177
-
-233 Art.178
-
-24 Art.178
-
-235 Art.179
-
-236 Art. 180, 182
-
-237 Art.111 et 127
-
-238 Art. 112
-
-239 Art.113
-
-240 Art.114
-
-241 Art.130
-
-242 Art.126
-
-243 Art. 183-189. D.L du 30-10-1935
-
 ## SECTION 1. LA PRESCRIPTION
 
 Les obligations nées à l’occasion de leur commerce entre commerçants ou entre commerçants et non-commerçant se prescrivent par dix ans si elles ne sont pas soumises à des prescriptions spéciales plus courtes.““* Sont prescrites toutes actions en paiement : Pour nourriture fournie aux matelots par l’ordre du capitaine, un an après la livraison ;
@@ -2736,8 +2342,6 @@ LE WARRANT
 
 Le warrant constitue une variété de billet à ordre dans laquelle le souscripteur donne en garantie de sa signature des marchandises déposées en magasin général ou mises en gage dans certaines conditions. Transmissible par endossement, il est ainsi libellé : « Bon pour transfert du présent warrant à l’ordre de M... demeurant à... pour garantie de la somme de F..., payable le... » (Signature et date). Les droits du porteur sont ceux d’un créancier gagiste. À l’échéance, le souscripteur paie et recouvre la libre disposition de la chose ou marchandise grevée. Si le warrant -n’est pas honoré, le porteur doit, dès le lendemain de l’échéance, faire dresser protêt défaut de paiement ; dans les huit jours du protêt, il peut alors faire vendre la chose ou marchandise aux enchères sans autre formalité ni décision judiciaire.
 
-LL6ZLEZL9L-E0OZ'9C'0'VS|-GSHO0L688-IHVEESGO L LE-SUON:WIOIXOAIEJOYOS"[BUORELIQIUI
-
 SEPTIÈME PARTIE
 
 LES OPÉRATIONS DE BANQUE
@@ -2748,18 +2352,12 @@ Les Banques sont des entreprises ou établissements qui font profession habituel
 
 Selon la règlementation de la profession bancaire, l’accès de la profession est interdit à certaines catégories de personnes énumérées par la loi : personnes frappées de certaines condamnations, faillis non réhabilités ainsi qu’aux gérants ou administrateurs de sociétés condamnés pour faillite. Le commerçant est appelé à demander au banquier de recouvrer pour lui ses créances (après remise d’effets à l’escompte ou à l’encaissement et de chèques reçus à l’encaissement) et de régler ses dettes (par débit des chèques émis par lui et présentés par ses créanciers et des effets à payer domiciliés à la banque), toutes opérations que le commerçant ne peut effectuer lui-même ou qu’il ne peut effectuer qu’avec une perte de temps et des frais plus importants. Cette collaboration amène le commerçant, titulaire d’un compte courant, à transférer immédiatement à la banque la majeure partie de son encaisse pour y constituer la ou d’un placement. Le commerçant peut également faire appel au banquier pour diverses opérations de banque le permettant de financer ses besoins immédiats ou à longue échéance : son commerce. Nous indiquons ci-dessous les traits principaux du compte courant, du chèque, des opérations de crédit et des opérations sur valeurs mobilières.
 
-246 Loi du 13 juin 1941
-
-LL6ZLEZL9L-E0OZ'9C'0'VS|-GSHO0L688-IHVEESGO L LE-SUON:WIOIXOAIEJOYOS"[BUORELIQIUI
-
 # CHAPITRE I
 
 LE COMPTE COURANT
 
 Le compte en banque, qui est en principe (pour le particulier non commerçant) un simple relevé des opérations intervenues entre le banquier et son client, procède d’une nature juridique particulière lorsque le client est commerçant : il est alors régi par une convention de compte courant, ou contrat par lequel les parties conviennent d’établir une compensation entre leurs remises réciproques. Cette notion a des conséquences juridiques importantes : seul est exigible le solde du compte courant après dénouement de l’arriéré ; chaque créance ou dette, une fois inscrite, perd son efficacité juridique propre au profit du seul solde et devient anonyme ; elle subit une novation juridique. Elle cesse, en particulier, d’être couverte par les sûretés propres dont elle pouvait jouir ou être grevée avant son inscription au compte courant ; inversement, si une sûreté générale a été constituée à l’appui du compte courant, toute créance inscrite bénéficie de cette garantie du seul fait de cette inscription. Les prescriptions particulières à des opérations particulières sont remplacées par la prescription trentenaire du droit commun.
 Enfin, en cas de faillite du commerçant client, cette novation peut procurer au banquier de nombreux avantages.
-
-LL6ZLEZL9L-E0OZ'9C'0'VS|-GSHO0L688-IHVEESGO L LE-SUON:WIOIXOAIEJOYOS"[BUORELIQIUI
 
 # CHAPITRE II
 
@@ -2779,11 +2377,7 @@ Le titulaire d’un compte en banque a en principe toute facilité pour retirer 
 
 6° la signature du tireur.
 
-Le chèque étant payable à vue, la provision doit exister à l’instant même de sa création et non pas seulement au moment de son encaissement, car la propriété de cette provision se transmet par la remise du chèque au bénéficiaire. L’émission de chèque sans provision constitue un délit, exposant son tireur et son bénéficiaire (s’il l’a accepté en connaissance de cause) à une amende fiscale de 6% du montant du chèque (minimum 5000F CFA) et, s’il y a mauvaise foi, aux peines prévues pour l’escroquerie. La répression de ce délit est, de nos jours au Congo, rendue plus rapide sur l’organisation d’un fichier central des chèques impayés, tenu par les soins de la Banque.””’ Le porteur d’un chèque impayé faute de provision peut soit faire dresser un protêt par un huissier, soit faire établir une attestation de non-paiement, qui sera suffisante pour déclencher les poursuites judiciaires. Depuis 1990, les défauts ou incidents de paiements centralisés par la Banque sont communiqués au
-
-247 Décret du 20 mai 1955
-
-procureur de la République, comme c’était déjà le cas, depuis plusieurs années, en matière de chèques postaux.
+Le chèque étant payable à vue, la provision doit exister à l’instant même de sa création et non pas seulement au moment de son encaissement, car la propriété de cette provision se transmet par la remise du chèque au bénéficiaire. L’émission de chèque sans provision constitue un délit, exposant son tireur et son bénéficiaire (s’il l’a accepté en connaissance de cause) à une amende fiscale de 6% du montant du chèque (minimum 5000F CFA) et, s’il y a mauvaise foi, aux peines prévues pour l’escroquerie. La répression de ce délit est, de nos jours au Congo, rendue plus rapide sur l’organisation d’un fichier central des chèques impayés, tenu par les soins de la Banque. Le porteur d’un chèque impayé faute de provision peut soit faire dresser un protêt par un huissier, soit faire établir une attestation de non-paiement, qui sera suffisante pour déclencher les poursuites judiciaires. Depuis 1990, les défauts ou incidents de paiements centralisés par la Banque sont communiqués au procureur de la République, comme c’était déjà le cas, depuis plusieurs années, en matière de chèques postaux.
 
 Il convient de noter que, si le chèque ne peut être accepté, le tiré peut, sur demande du tireur, attester l’existence de la provision et le blocage des fonds jusqu’à la présentation (chèque certifié). La transmission du chèque s’effectue par endossement (ou, s’il est au porteur, par simple tradition de main en main) dans les mêmes conditions et avec les mêmes conséquences que celui de la lettre de change. En pratique, cependant, le chèque n’est transmis ordinairement qu’une fois : le bénéficiaire l’endosse au profit de sa banque, qui le porte au crédit de son compte courant et le transmet à la banque de son créateur (le tiré) par l’intermédiaire de-la compensation quotidienne interbancaire s’il est « sur place », ou par envoi postal s’il est « hors place ».
 Le chèque peut être également transmis à titre de procuration, au moyen de la mention « valeur en recouvrement », «pour encaissement» ou <«par procuration ». Le paiement du chèque peut être garanti par un aval total ou partiel d’un tiers ou de la signature lui-même, à l’exclusion du tiré. Le règlement par chèque résulte non seulement de la remise du titre, mais également de son encaissement sur présentation. Celle-ci doit intervenir dans les huit jours (20 jours ou 70 jours s°il est payable au Congo et émis en dehors du Congo), mais peut avoir lieu le jour même de sa remise. Une présentation tardive ne dispense par le tiré de la payer, s’il y a provision (c’est le cas le plus fréquent) ; si le tireur a, entretemps, retiré ou utilisé la provision, le porteur négligent conserve une créance sur le tireur, mais perd ses recours contre ses garants, endosseurs et donneurs d’aval. Un créancier n’est pas tenu d’accepter, en guise de paiement, le chèque que lui propose son débiteur, sauf en ce qui concerne certains paiements (salaires mensuels, loyers, transports, travaux et achats supérieurs à 100.000F CFA entre commerçants). Le barrement du chèque de deux traits parallèles au recto, avec ou sans mention du nom d’une banque (barrement spécial ou barrement général), a pour effet de le rendre payable seulement par l’intermédiaire de la banque quelconque dans le barrement général. Cette banque intermédiaire ne paye le chèque que si le porteur est son client.
@@ -2919,8 +2513,6 @@ Et intérêt débiteur = = nombreux débiteur x taux d’intérêt débiteur 36 
 
 Le solde des deux montants constituera l’intérêt produit par le compte courant (s’il est créditeur) ou payé par le client (s’il est débiteur). En outre, le compte courant sera débité d’une commission de mouvement, d’une part, proportionnelle au total des écritures passées en débit au cours de la période (à l’exception des mouvements purement financiers ou comptables) et qui rémunère le service de compte procuré par le banquier à son client, et d’une commission de découvert, d’autre part, caleulée sur le montant du plus fort découvert du mois ou du trimestre sans tenir compte de sa durée et qui rémunère la charge imposée à la banque par l’utilisation du découvert de pointe et limitée à la moitié du montant des intérêts débiteurs. Le rétablissement des soldes en valeur, le décompte des nombres et le calcul des intérêts et des commissions sur compte courant, qui constituent traditionnellement des opérations longues à effectuer, peuvent être obtenus très rapidement si les comptes courants sont tenus au moyen d’un ordinateur électronique.
 
-LL6ZLEZL9L-E0OZ'9C'0'VS|-GSHO0L688-IHVEESGO L LE-SUON:WIOIXOAIEJOYOS"[BUORELIQIUI
-
 HUITIÈME PARTIE
 
 LES BOURSES DE COMMERCE
@@ -2934,8 +2526,6 @@ C’est la Bourse des valeurs ;
 
 2. Celles qui portent sur les marchandises, les assurances, le fret ou nolis.
 C’est la Bourse des marchandises. Ces Bourses peuvent se tenir dans les mêmes immeubles.
-
-LL6ZLEZL9L-E0OZ'9C'0'VS|-GSHO0L688-IHVEESGO L LE-SUON:WIOIXOAIEJOYOS"[BUORELIQIUI
 
 # CHAPITRE I
 
@@ -3024,9 +2614,6 @@ Dans ces conditions il est institué un conseil du marché à terme d’instrume
 
 Le règlement général du marché établi par le conseil du marché à terme est approuvé par le ministre chargé de l’économie, des finances et du budeget, après avis de la Commission des opérations de bourse et, pour les dispositions relatives à la négociation de contrats faisant référence à un marché placé sous son contrôle, de la Banque. Il est publié au Journal officiel de la République.
 L’inscription ou la radiation d’un contrat admis à la négociation sur le marché est prononcée par le conseil du marché à terme après avis de la Commission des opérations de bourse et, pour les contrats faisant référence à un marché placé sous son contrôle, de la Banque.”’’ Les agents de change, les établissements de crédit définis à l’article 1 de la loi n°84-46 du 24 janvier 1984 relative l’activité et au contrôle des établissements de crédit, les établissements mentionnés aux articles 69 et 99 de la même loi et la Caisse des dépôt et consignations ont seuls qualité pour participer à la compensation des
-
-250 Art. 1-7 L-du 28-3-1885
-
 contrats négociés sur le marché à terme d’instruments financiers et en désigner les négociateurs, lesquels doivent répondre à des qualités définies par le règlement général du marché et opèrent sous la responsabilité et le contrôle de la personne qui les a désignés. Une chambre de compensation, ayant le statut d’établissement de crédit, enregistre chaque opération et en garantit la bonne fin. À cet effet, chaque opération doit lui être notifiée par la personne qui, conformément à l’article 8, en a désigné le négociateur. À défaut, l’opération est nulle de plein droit. La chambre de compensation assure la surveillance des positions, l’appel des marges et, le cas échéant, la liquidation d’office des positions. Lorsqu’un événement perturbe le fonctionnement normal du marché d’un produit, la chambre de compensation peut prescrire, pour une durée n’excédant pas deux jours de bourse, la suspension des opérations sur cette pension ; au-delà de deux jours, la suspension est prononcée par arrêté du ministre de l’économie, des finances et du budget. Si les opérations sur un produit ont été suspendues pendant plus de deux jours consécutifs, les contrats en cours à la date de la suspension peuvent être compensés et liquidés dans les conditions prévues par le règlement général. Un commissaire du Gouvernement est dans ce cas, désigné auprès de la chambre de compensation. En principe, quelle que soit leur nature, les règles effectuées en couverture ou garantie des positions prises sur le marché à terme d’instruments financiers auprès des personnes mentionnées à l’article 8 ou de la chambre de compensation leur sont acquis dès leur constitution, aux fins de règlement du solde débiteur constaté lors de la liquidation d’office de ces positions.
 
 ## SECTION 1. L’ORGANISATION DE LA PROFESSION
@@ -3086,10 +2673,6 @@ Les titulaires des offices fusionnés peuvent conserver leur qualité d’agent 
 
 La création et la suspension d’une bourse de valeurs sont décidées par arrêté du ministre de l’économie et des finances, après avis de la chambre syndicale des agents de change et de la commission des opérations de bourse.
 
-251 Art.7-12.D. n°68. 336 du 5.04.1968
-
-008 LEZ L9L-E0Z9C'0"HSL-SH00 L688-VEHEESGO L LE-SUON:WIOI"XOAIEJOYOS"[BUONBWIQUUI
-
 # CHAPITRE III
 
 LA CHAMBRE SYNDICALE
@@ -3105,9 +2688,7 @@ L’élection est acquise à la majorité simple. Les bulletins de vote mentionn
 l’une des personnes visées ci-dessus avant l’expiration de son mandat, pour quelque raison que ce soit, son successeur est désigné pour la période restant à courir jusqu’à l’expiration de ce mandat.
 
 #### I. Le syndic peut déléguer ses attributions, notamment en matière
-d’organisation et de surveillance des cotations dans une bourse, à l’un des agents de change râs£dant au siège de cette bourse. Celui-ci prend alors le titre
-
-de syndic délégué.
+d’organisation et de surveillance des cotations dans une bourse, à l’un des agents de change résidant au siège de cette bourse. Celui-ci prend alors le titre. de syndic délégué.
 
 ## SECTION 1. LES DÉLIBÉRATIONS
 
@@ -3122,8 +2703,6 @@ Les attributions générales de la chambre syndicale sont :
 
 2° de prévenir ou concilier tous les différends que les agents de change peuvent avoir à raison de leurs fonctions, soit entre eux, soit avec des tiers et d’émettre, s’il y a lieu, son avis en cas de non-conciliation ;
 
-252 Art.17. d. n° 68-336 du 5-4-1968
-
 3° de représenter collectivement tous les membres de la compagnie pour faire valoir leurs droits, privilèges et intérêts communs, et d’administrer la caisse commune prévue à l’article 26 ;
 
 4° de procéder à l’étude des dossiers d’admission des valeurs mobilières à la cote ou leur radiation et d’en transmettre les conclusions à la commission des opérations de bourse.
@@ -3133,33 +2712,21 @@ La chambre syndicale fixe les conditions dans lesquelles les agents de change do
 Les agents de change ne peuvent recevoir ou détenir des fonds, de tiers ou pour le compte de tiers, qu’en vue d’opérations entrant dans l’exercice de leur ministère. Ces fonds doivent, à tout moment, être représentés par des éléments d’actif dont la liste sera fixée par un arrêté du ministre de finances, pris après avis de la commission des opérations de bourse. La chambre syndicale exerce son contrôle sur les agents de change, notamment au vu des bilans et des situations périodiques. Elle doit faire effectuer sur place, au moins une fois par an, des contrôles complémentaires. Les rapports établis à la suite de ces contrôles sont transmis au ministère des finances sur sa demande. Elle peut, en outre, à tout moment, mander devant elle un agent de change, ordonner la production de son carnet et de ses livres et prescrire toutes mesures de précaution qu’elle juge utiles, et en particulier la constitution, dans la caisse syndicale, d’un dépôt de garantie. Flle ne peut se refuser à cette enquête lorsqu’elle est réclamée par les trois membres de la compagnie.”* La chambre syndicale peut, suivant la gravité des cas, blâmer les membres de la compagnie, les censurer, leur interdire l’entrée de la bourse pendant une durée qui ne peut excéder un mois, provoquer leur suspension ou leur révocation.
 Les sanctions prononcées par la chambres syndicale sont notifiées au ministre chargé des finances en même temps qu’à l’agent de change intéressé. En outre, elles sont notifiées à la Commission des opérations de bourse chaque fois que celle-ci a demandé à la chambre syndicale, en application de l’article 21, d’exercer ses pouvoirs disciplinaires.
 
-253 Art 21-22 du D-n°68-336 du 5-4-1968
-
 La suspension, qui ne peut excéder deux mois et la révocation sont prononcées par arrêté du ministre des finances pris sur proposition de la chambre syndicale ou d’offre après avis de ladite chambre et, en ce cas, même pour des faits ayant donné lieu à une sanction de la part de la chambre syndicale. Le blâme, la censure, l’interdiction d’entrée à la bourse et la suspension peuvent être assortie de l’inéligibilité à la chambre syndicale ; la durée de cette inéligibilité ne peut excéder dix ans, sauf le cas de suspensions où l’inéligibilité peut être prononcée à titre définitif.
 
 Aucune peine disciplinaire ne peut être prononcée ou provoquée par la chambre syndicale qu’à la majorité absolue des membres présents et qu’après que l’agent de change inculpé a été entendu ou dûment convoqué. Dans le cas où un membre de la chambre syndicale se trouve directement intéressé dans une affaire soumise à la chambre, il doit s’abstenir de siéger. Il est institué une caisse commune qui est administrée par la chambre syndicale et dont le mode de gestion est déterminé par le règlement mentionné au premier alinéa de l’article 82. À cette caisse sont versés les prélèvements sur les courtages, contributions diverses, fonds de réserve ou dépôts de garantie prévus soit par décret, soit par le règlement de la compagnie.
 
-Le syndic est chargé de l’exécution des délibérations de la chambre syndicale et de la compagnie. Il représente la compagnie en justice mandant, soit en défendant, qu’en vertu de l’autorisation de la chambre syndicale. Il peut toujours, sans autorisation préalable, faire tous actes conservatoires et interruptifs de prescription. Il peut de même, sans autorisation, interjeter appel de tout jugement et se pourvoir en cassation. Mais il ne peut suivre sur son appel, ni suivre sur le pourvoi, qu’en vertu d’une nouvelle autorisation. En cas d’absence ou d’empêchement, le syndic est remplacé dans ces diverses attributions par un adjoint, dans l’ordre des nominations de la dernière élection. La chambre syndicale peut déléguer à un ou plusieurs de ses membres, désignés sous le nom d’adjoints de service, certaines attributions d’ordre et de police intérieure déterminées par les règlements prévus à l’article
-82. Ces adjoints peuvent, en outre, être appelés à exercer, au lieu et place du
-syndic,2 51468 attributions spéciales déterminées aux articles 53 et 67 du présent décret.
+Le syndic est chargé de l’exécution des délibérations de la chambre syndicale et de la compagnie. Il représente la compagnie en justice mandant, soit en défendant, qu’en vertu de l’autorisation de la chambre syndicale. Il peut toujours, sans autorisation préalable, faire tous actes conservatoires et interruptifs de prescription. Il peut de même, sans autorisation, interjeter appel de tout jugement et se pourvoir en cassation. Mais il ne peut suivre sur son appel, ni suivre sur le pourvoi, qu’en vertu d’une nouvelle autorisation. En cas d’absence ou d’empêchement, le syndic est remplacé dans ces diverses attributions par un adjoint, dans l’ordre des nominations de la dernière élection. La chambre syndicale peut déléguer à un ou plusieurs de ses membres, désignés sous le nom d’adjoints de service, certaines attributions d’ordre et de police intérieure déterminées par les règlements prévus à l’article.
 
 ## SECTION 3. LES ASSEMBLÉES GÉNÉRALES
 
-Les agents de change se réunissent, chaque année, en assemblée générale pour l’élection des membres de la chambre syndicale. En dehors de cette séance annuelle et des cas prévus soit par le règlement, soit par les règlements mentionnés à l’article 82, ils ne peuvent se réunir en assemblée générale, lorsque cette convocation a fait l’objet d’une demande écrite et motivée de la
-
-254 Art. 23-29 D. n°68-336 du 5-4-1968
-
-moitié plus un des membres de la compagnie. L’assemblée générale est constituée lorsque la moitié plus un des membres de la compagnie sont présents. Elle est présidée par le syndic. La chambre syndicale tient un registre particulier des délibérations de l’assemblée générale. Les noms des membres présents sont inscrits en tête de chaque procès-verbal, qui est signé par le présidc:g5 et par les membres de la chambre syndicale qui ont assisté à la séance.
+Les agents de change se réunissent, chaque année, en assemblée générale pour l’élection des membres de la chambre syndicale. En dehors de cette séance annuelle et des cas prévus soit par le règlement, soit par les règlements mentionnés à l’article 82, ils ne peuvent se réunir en assemblée générale, lorsque cette convocation a fait l’objet d’une demande écrite et motivée de la moitié plus un des membres de la compagnie. L’assemblée générale est constituée lorsque la moitié plus un des membres de la compagnie sont présents. Elle est présidée par le syndic. La chambre syndicale tient un registre particulier des délibérations de l’assemblée générale. Les noms des membres présents sont inscrits en tête de chaque procès-verbal, qui est signé par le présidc:g5 et par les membres de la chambre syndicale qui ont assisté à la séance.
 
 ## SECTION 4. LES AUXILIAIRES DES AGENTS DE CHANGE
 
 Tout agent de change peut constituer, pour les actes autres que ceux de la négociation, la signature des bordereaux et les certifications prévues à l’article ‘76, des fondés de pouvoirs en vertu de procurations qui sont soumises à l’approbation de la chambre syndicale et dont une expédition est déposée au tribunal de commerce et affichée dans les bureaux de l’agent de change. Tout les écrits émanés de l’agent de change doivent être revêtus, à défaut de sa propre signature, de la signature de ses fondés de pouvoir précédée de la mention qu’ils agissent en vertu de leur procuration. Les agents de change constituent parmi leurs salariés des mandataires chargés d’effectuer les négociations en bourse au nom et sous la responsabilité de leurs mandants. Il peut être conféré à certains de ces mandataires, dans les conditions fixées par les règlements prévus à l’article 82, le titre de commis principal.
 
-Les commis principaux sont soumis à l’action disciplinaire de la chambre syndicale, qui statue sur leur admission et qui peut prononcer d’office leur suspension ou leur révocation. La chambre syndicale exerce également le pouvoir disciplinaire sur les autres mandataires prévus à l’article 35, et sur le personnel de la chambre syndicale affecté aux cotations et aux négociations. Il est interdit aux agents de change et aux commis principaux de vendre ou de céder les fonctions de commis principal moyennant un prix ou une redevance quelconque. Les agents de change habilités à exercer leurs fonctions auprès de plusieurs bourses en application de l’article 14 bis, alinéa 1”, peuvent désigner un délégué chargé de les représenter auprès de l’une d’elles et d’y effectuer les négociations pour leur compte.”°°
-
-255 Art-31-33-D-n° 68-336 du 5-4-1968 256 Art. 34-37 D. n° 68-336 du 05-04-1968
-
-008 LEZ L9L-E0Z9C'0"HSL-SH00 L688-VEHEESGO L LE-SUON:WIOI"XOAIEJOYOS"[BUONBWIQUUI
+Les commis principaux sont soumis à l’action disciplinaire de la chambre syndicale, qui statue sur leur admission et qui peut prononcer d’office leur suspension ou leur révocation. La chambre syndicale exerce également le pouvoir disciplinaire sur les autres mandataires prévus à l’article 35, et sur le personnel de la chambre syndicale affecté aux cotations et aux négociations. Il est interdit aux agents de change et aux commis principaux de vendre ou de céder les fonctions de commis principal moyennant un prix ou une redevance quelconque. Les agents de change habilités à exercer leurs fonctions auprès de plusieurs bourses en application de l’article 14 bis, alinéa 1”, peuvent désigner un délégué chargé de les représenter auprès de l’une d’elles et d’y effectuer les négociations pour leur compte.
 
 # CHAPITRE IV
 
@@ -3186,29 +2753,19 @@ Les règlements prévus à l’article 82 peuvent appliquer les mêmes règles a
 
 Les négociations ne portent que sur des quantités, sans aucune spécification, par voie d’indication de numéros ou autrement, des titres négociés. Les agents de change ne se livrent entre eux que des valeurs au porteur, soit par tradition, soit par le moyen de virements effectuées à la caisse centrale de dépôts et virements de titres, sauf en ce qui concerne les valeurs qui ne peuvent, d’après les statuts de l’établissement émetteur, affecter d’autre forme que la forme nominative, et les autres valeurs qui seraient spécialement déterminées par les règlement prévus à l’article 82. L’agent de change qui aurait livré un titre irrégulier, amorti, frappé d’opposition entre ses mains ou figurant au bulletin officiel des oppositions est tenu, indépendamment de tous dommages et intérêts, s’il y a lieu, de livrer un autre titre dans les trois jours au plus tard à partir de la réclamation.
 
-Les agents de change peuvent faire effectuer en leur nom, sous la dénomination de transferts d’ordre, des transferts provisoires. Ces transferts ne conservent leur caractère provisoire que pendant un délai de dix jours, non
-
-257 Art. 38-41-D. n° 68-336 du 05-04-1968
-
-compris ceux où la Bourse est fermée et sous réserve des dispositions législatives ou règlementaires qui prévoient une prolongation de ce délai pour certaines catégories de titres. À l’expiration du délai ainsi fixé, les transferts provisoires seront considérés comme définitivement opérés au nom de l’agent de change. Si, avant l’expiration de ce même délai, l’agent de change acheteur a requis de l’établissement émetteur un transfert effectué au nom de cet agent de change sera considéré, à partir du moment où le transfert définitif au nom de son donneur d’ordre, le transfert effectué au nom de cet argent de change sera considéré, à partir du moment où le transfert définitif aura été réalisé au nom du donneur d’ordre ainsi désigné, comme n’ayant jamais été opéré. Les transferts d’ordre peuvent être effectués même au profit des agents de change porteurs de la procuration du vendeur.
+Les agents de change peuvent faire effectuer en leur nom, sous la dénomination de transferts d’ordre, des transferts provisoires. Ces transferts ne conservent leur caractère provisoire que pendant un délai de dix jours, non compris ceux où la Bourse est fermée et sous réserve des dispositions législatives ou règlementaires qui prévoient une prolongation de ce délai pour certaines catégories de titres. À l’expiration du délai ainsi fixé, les transferts provisoires seront considérés comme définitivement opérés au nom de l’agent de change. Si, avant l’expiration de ce même délai, l’agent de change acheteur a requis de l’établissement émetteur un transfert effectué au nom de cet agent de change sera considéré, à partir du moment où le transfert définitif au nom de son donneur d’ordre, le transfert effectué au nom de cet argent de change sera considéré, à partir du moment où le transfert définitif aura été réalisé au nom du donneur d’ordre ainsi désigné, comme n’ayant jamais été opéré. Les transferts d’ordre peuvent être effectués même au profit des agents de change porteurs de la procuration du vendeur.
 
 Le point de départ de la jouissance pour l’acheteur des valeurs négociées est déterminé, suivant le cas, par les règlements prévus à l’article 82, sous la réserve des dispositions arrêtées par le ministre des finances en ce qui touche la négociation des rentes sur l’Etat et autres valeurs du Trésor.”’° Les règlements prévus à l’article 82 déterminent l’époque à partir de laquelle, avant chaque tirage, les valeurs amortissables par voie de tirage au sort ne sont, sauf convention contraire formellement exprimée, négociées que livrables après tirage. En ce qui concerne les valeurs dont la possession vient à comporter, soit un avantage particulier, tel qu’un droit privilégié de souscription, soit une charge déterminée, tel qu’un appel de versement, les mêmes règlements déterminent les époques à partir desquelles les négociations ne peuvent plus porter, sauf convention contraire formellement exprimée, que sur des valeurs ayant bénéficié de cet avantage ou ayant bénéficié satisfaction à cette charge. Ces règlements déterminent de même les époques à partir desquelles, en cas de conversion, les négociations ne peuvent plus porter, sauf convention contraire formellement exprimée, que sur les nouveaux titres.
 
 Les délais de livraison, d’acceptation et de payement, soit en ce qui concerne les rapports des agents de change entre eux, soit en ce qui concerne les rapports entre les agents de change et leurs donneurs d’ordres, sont déterminés par les règlements prévus à l’article 82. Défaut soit d’acceptation ou de payement par l’agent de change acheteur, soit de livraison par l’agent de change vendeur, la revente ou l’achat des valeurs négociées peuvent être, à la requête de l’agent de change avec lequel la négociation a été faite, effectués par l’intermédiaire du syndic ou d’un adjoint de service, aux risques et périls de l’agent de change en défaut. Les formalités et les délais de la revente ou de l’achat d’office, qui peuvent être exécutés suivant conventions particulières, sont déterminés par règlements prévus à l’article 82.
 
-Sauf convention contraire, l’agent de change qui effectue une négociation répond envers son donneur d’ordre de l’exécution de cette négociation par l’agent de change avec lequel elle a été effectuée. Si, en dehors de toute
+Sauf convention contraire, l’agent de change qui effectue une négociation répond envers son donneur d’ordre de l’exécution de cette négociation par l’agent de change avec lequel elle a été effectuée. Si, en dehors de toute contestation sur le fond du droit, la livraison ou le payement n’est pas effectué par l’agent de change dans les délais règlementaires, le donneur d’ordre peut, après l’avoir mis en demeure par acte extrajudiciaire, notifier en la même forme, dans le délai de vingt-quatre heures, cette mise en demeure à la chambre syndicale. Au reçu de cette notification, la chambre syndicale prend à l’égard de l’agent de change les mesures propres à assurer l’exécution du marché. Elle l’exécute elle-même au besoin, au mieux des intérêts du donneur d’ordre et ce pour le compte et aux risques et périls de l’agent de change en défaut. Sous réserve des dispositions de l’article 55, elle ne peut s’y refuser qu’en dénonçant la situation, dans le délai de quinze jours, au président du tribunal de commerce.
 
-258 Art. 48-50 D. n° 68-336 du 05-04-1968
-
-contestation sur le fond du droit, la livraison ou le payement n’est pas effectué par l’agent de change dans les délais règlementaires, le donneur d’ordre peut, après l’avoir mis en demeure par acte extrajudiciaire, notifier en la même forme, dans le délai de vingt-quatre heures, cette mise en demeure à la chambre syndicale. Au reçu de cette notification, la chambre syndicale prend à l’égard de l’agent de change les mesures propres à assurer l’exécution du marché. Elle l’exécute elle-même au besoin, au mieux des intérêts du donneur d’ordre et ce pour le compte et aux risques et périls de l’agent de change en défaut. Sous réserve des dispositions de l’article 55, elle ne peut s’y refuser qu’en dénonçant la situation, dans le délai de quinze jours, au président du tribunal de commerce.
-
-La chambre syndicale ne peut se refuser à exécuter le marché pour le compte de l’agent de change en défaut, dans la limite de la valeur totale tant des offices de la compagnie calculée d’après les dernières cessions que du fonds commun et du montant des cautionnements. Dans la même limite, la chambre syndicale garantit l’exécution des engagements contractés par l’agent de change défaillant envers ses confrères.”’’ Lorsque la chambre syndicale, ayant constaté qu’un agent de change cesse d’exécuter les marchés qui le lient à ses confrères, n’exécute pas elle-même ces marchés, ceux-ci sont liquidés dans les conditions déterminées par les règlements prévus à l’article 82, en prenant pour base le cours moyen du jour de cette constatation. Les créances que cette liquidation peut faire ressortir en faveur de l’agent de change défaillant ne sont exigibles qu’à l’échéance primitive de chacune des opérations liquidées. Les donneurs d’ordre sont soumis par l’administrateur provisoire de la charge en demeure d’opter sans délai entre la liquidation de leur marché dans les conditions ci-dessus spécifiées et le maintien de leur position chez l’agent de change défaillant.*“°
+La chambre syndicale ne peut se refuser à exécuter le marché pour le compte de l’agent de change en défaut, dans la limite de la valeur totale tant des offices de la compagnie calculée d’après les dernières cessions que du fonds commun et du montant des cautionnements. Dans la même limite, la chambre syndicale garantit l’exécution des engagements contractés par l’agent de change défaillant envers ses confrères.”’’ Lorsque la chambre syndicale, ayant constaté qu’un agent de change cesse d’exécuter les marchés qui le lient à ses confrères, n’exécute pas elle-même ces marchés, ceux-ci sont liquidés dans les conditions déterminées par les règlements prévus à l’article 82, en prenant pour base le cours moyen du jour de cette constatation. Les créances que cette liquidation peut faire ressortir en faveur de l’agent de change défaillant ne sont exigibles qu’à l’échéance primitive de chacune des opérations liquidées. Les donneurs d’ordre sont soumis par l’administrateur provisoire de la charge en demeure d’opter sans délai entre la liquidation de leur marché dans les conditions ci-dessus spécifiées et le maintien de leur position chez l’agent de change défaillant.
 
 ### Paragraphe 2. Les règles spéciales aux marchés au comptant
 
-L’agent de change est en droit d’exiger que le donneur d’ordre lui mette, avant toute négociation, les effets à négocier ou les fonds destinés à acquitter le montant de la négociation. Dans le cas où, après avertissement par lettre recommandée, le donneur d’ordre n’a pas, dans le délai de trois jours à partir de l’envoi de cette lettre, remis soit les valeurs accompagnées, s’il y a lieu, d’une déclaration de transfert, soit les fonds destinés à acquitter le montant de la négociation, et accompagnés, le cas échéant, de son acceptation, l’agent de change a le droit de procéder sans autre mise en demeure, aux risques et périls du donneur, aux risques et périls du donneur d’ordre, à l’achat de valeurs semblables ou à la vente des valeurs acquises.”°
-
-259 Art. 51-55. D n° 68 336 du 05-04. 1968 260 Art. 56. D. n° 68 336 du 05- 04-1968 261 Art-58-59 D. n°68-336 du 05-04-1968
+L’agent de change est en droit d’exiger que le donneur d’ordre lui mette, avant toute négociation, les effets à négocier ou les fonds destinés à acquitter le montant de la négociation. Dans le cas où, après avertissement par lettre recommandée, le donneur d’ordre n’a pas, dans le délai de trois jours à partir de l’envoi de cette lettre, remis soit les valeurs accompagnées, s’il y a lieu, d’une déclaration de transfert, soit les fonds destinés à acquitter le montant de la négociation, et accompagnés, le cas échéant, de son acceptation, l’agent de change a le droit de procéder sans autre mise en demeure, aux risques et périls du donneur, aux risques et périls du donneur d’ordre, à l’achat de valeurs semblables ou à la vente des valeurs acquises.
 
 ### Paragraphe 3. Les règles spéciales aux marchés à terme autre que
 les options négociables
@@ -3218,15 +2775,7 @@ L’inobservation de cette disposition rend l’agent de change passible des san
 
 Sauf convention contraire, tous les titres reposant sous le dossier du donneur d’ordre sont affectés de plein droit à titre de couverture à la garantie de ses opérations à terme ; l’agent de change a le droit de les aliéner sans préavis et de s’appliquer le prix de cette vente, faute de livraison ou de payement à l’échéance par le donneur d’ordre. Si, avant l’échéance, la valeur de la couverture est réduite au-delà d’une proportion déterminée par les règlements prévus à l’article 82, l’agent de change est en droit, par télégramme avec récépissé de dépôt, de reconstituer sa couverture dans les limites règlementaires. Faute par le donneur d’ordre d’avoir, dans le délai de deux jours de bourse à partir du jour de l’envoi de ce télégramme, versé le supplément de couverture demandé dans les caisses de l’agent de change, celui-ci peut, sans autre mise en demeure, procéder à la liquidation des engagements et à l’aliénation partielle ou totale de la couverture.
 
-Les titres de couverture sont également affectés de plein droit à la garantie des opérations au comptant faites pour le compte du donneur d’ordre. L’agent de change a le droit de les aliéner à tout moment pour couvrir le débit provenant de ces opérations, après accomplissement des formalités prévues à l’article 59° Lorsque le donneur d’ordre s’est réservé la faculté d’abandonner le marché moyennant une prime, la couverture exigée ne peut être supérieure au montant de la prime, sauf à l’agent de change à exiger qu’il lui soit remise, le jour de la réponse et dans un délai déterminé avant l’heure fixée, comme il est dit à l’article 64, un supplément de couverture. Faute par le donneur d’ordre de satisfaire à cette demande, l’agent de change est en droit de liquider l’opération à l’expiration du délai imparti au donneur d’ordre. Les règlements prévus à l’article 82 fixent les jours et les heures auxquels les
-
-“
-
-déclarations de consolidation ou d’abandon des marchés à prime doivent
-
-262 Art. 60 et 61 D. n° 68-336 du 05-04-1968
-
-intervenir. Du moment où le marché est consolidé, la convention est, sous réserve des dispositions prévues à l’article 62, soumise à toutes les règles des négociations fermes. À chacune des échéances fixées comme il est dit à l’article 60, il est procédé, dans les délais déterminés par les règlements prévus à l’article 82, à la liquidation générale des opérations engagées pour cette échéance.
+Les titres de couverture sont également affectés de plein droit à la garantie des opérations au comptant faites pour le compte du donneur d’ordre. L’agent de change a le droit de les aliéner à tout moment pour couvrir le débit provenant de ces opérations, après accomplissement des formalités prévues à l’article 59° Lorsque le donneur d’ordre s’est réservé la faculté d’abandonner le marché moyennant une prime, la couverture exigée ne peut être supérieure au montant de la prime, sauf à l’agent de change à exiger qu’il lui soit remise, le jour de la réponse et dans un délai déterminé avant l’heure fixée, comme il est dit à l’article 64, un supplément de couverture. Faute par le donneur d’ordre de satisfaire à cette demande, l’agent de change est en droit de liquider l’opération à l’expiration du délai imparti au donneur d’ordre. Les règlements prévus à l’article 82 fixent les jours et les heures auxquels les déclarations de consolidation ou d’abandon des marchés à prime doivent intervenir. Du moment où le marché est consolidé, la convention est, sous réserve des dispositions prévues à l’article 62, soumise à toutes les règles des négociations fermes. À chacune des échéances fixées comme il est dit à l’article 60, il est procédé, dans les délais déterminés par les règlements prévus à l’article 82, à la liquidation générale des opérations engagées pour cette échéance.
 
 Toutes les opérations engagées chez chaque agent de change par un même donneur d’ordre sont compensées en derniers, et en titres de même nature. Les opérations engagées chez plusieurs agents de change par un ou plusieurs donneurs d’ordres peuvent être compensées, si les diverses parties intéressées y consentent.”’’ Les compensations sont établies d’après un cours uniforme déterminé par la chambre syndicale en s’inspirant des cours cotés pendant les dix dernières bourses précédent la liquidation. Le cours ainsi fixé est également celui sur lequel s’effectuent les reports. Il est immédiatement publié par les soins de la chambre syndicale. Toutes les opérations entre agents de change sont soumises à une liquidation centrale effectuée par les soins de la chambre syndicale. Par l’effet de cette liquidation, toutes les opérations entre agents de change sont compensées de façon à faire ressortir le solde en derniers ou en titres à la charge ou au profit de chacun d’eux. Les différents soldes débiteurs ou créditeurs sont réglés par l’intermédiaire de la chambre syndicale.
 
@@ -3234,26 +2783,18 @@ Lorsque le donneur d’ordre n’à point, le premier jour de liquidation des di
 
 ### Paragraphe 4. Les règles spéciales aux marchés d’options négociables
 
-L’agent de change est tenu d’exiger de ses donneurs d’ordre la remise d’une couverture exclusivement affectée aux opérations qu’ils effectuent sur les marchés d’options négociables selon les modalités déterminées par les règlements prévus l’article 82. Faute d’exécution complète par le donneur d’ordre de ses obligation de couverture, l’agent de change est tenu de procéder immédiatement à la liquidation des positions du donneur d’ordre, et, le cas
-
-263 Art. 62-66 D-n°68-336 du 05-05-1968 264 Art-67-69-D-n° 68-336 du 05-04-1968
-
-échéant, à l’aliénation partielle ou totale de la couverture préalablement affectée à ces opérations.
+L’agent de change est tenu d’exiger de ses donneurs d’ordre la remise d’une couverture exclusivement affectée aux opérations qu’ils effectuent sur les marchés d’options négociables selon les modalités déterminées par les règlements prévus l’article 82. Faute d’exécution complète par le donneur d’ordre de ses obligation de couverture, l’agent de change est tenu de procéder immédiatement à la liquidation des positions du donneur d’ordre, et, le cas échéant, à l’aliénation partielle ou totale de la couverture préalablement affectée à ces opérations.
 
 La chambre syndicale doit, selon des modalités déterminées par les règlements prévus à l’article 82, exiger des intermédiaires qu’elle admet à la compensation de leurs opérations sur les marchés d’options négociables la remise d’une couverture exclusivement affectée à ces opérations que celle-ci soient effectuées pour le compte de leurs clients ou pour leur compte propre.
 Faute d’exécution complète de leurs obligations en matière de couverture par les intermédiaires qu’elle admet à la compensation de leurs opérations sur les marchés d’options négociables, la chambre syndicale est tenue de procéder à la liquidation de leurs positions et, le cas échéant, à l’aliénation partielle ou totale de la couverture préalablement affectée à ces opérations.*°
 
-### Paragraphe 5. Les dispositions spéciales aux négociations judiciaires ou forcées et à la négociation de valeurs appartenant à des
-mineurs ou à des interdits
+### Paragraphe 5. Les dispositions spéciales aux négociations judiciaires ou forcées et à la négociation de valeurs appartenant à des mineurs ou à des interdits
 
 Lorsqu’un agent de change est commis par justice à l’effet de négocier des valeurs, il doit faire apposer, vingt-quatre heures au moins avant la négociation, une affiche signée de lui dans l’intérieur de la bourse, dans ses bureaux ou dans tout autre endroit désigné par le juge. Cette affiche indique la nature des valeurs à négocier, leurs quantités, la décision en vertu de laquelle la négociation est effectuée, le nom de l’agent de change chargé de la négociation et les jours auxquels cette négociation aura lieu. Pour les valeurs qui ne figurent pas à la partie officielle de la cote, des enchères sont ouvertes et reçues avec la faculté de surenchère pendant les délais et sous les conditions déterminées par la chambre syndicale. La chambre syndicale peut toujours décider que cette procédure sera appliquée même à des valeurs figurant à la partie officielle de la cote.”’ Les formalités prescrites par les deux premiers paragraphes de l’article précédent s’appliquent :
 
 1° à la négociation des valeurs réalisées en vertu de l’article 93 du Code de commerce, après que l’agent de change s’est fait justifier de l’accomplissement des formalités prévues par cet article.
 
 2° à la négociation des valeurs réalisées pour défaut de versement des termes appelés, à moins que les statuts de l’établissement qui exige la réalisation ne contiennent sur ce point, des dispositions particulières”’. La chambre syndicale peut toujours, pour ces diverses négociations, autoriser ou ordonner l’emploi de la procédure spéciale indiquée au paragraphe 3 de l’article 70.
-
-265 Art. 69-D-n° 68-336 du 05-04-1968 266 D. n°68.336 du 5.4.1968.
-267 D. n°68.336 du 5.4.1968
 
 Avant de procéder à la négociation de valeurs appartenant à des mineurs ou à des interdits, l’agent de change doit s’assurer que la négociation a été autorisée dans les conditions déterminées par la loi du 27 février 18807*
 
@@ -3271,14 +2812,6 @@ Il mentionne, en outre, les autres indications propres à intéresser le public 
 268 C, civ. Art. 453, 456 et D. n° 65.961 du 5.11.1965
 
 269 D. n°81.502 du 125.1881. Les agents de change de nationalité congolaise délivrent les certifications exigées pour le transfert des inscriptions au grand livre de la dette publique, dans les conditions prévues par l’arrêté des conclus du 27 prairial an X, l’ordonnance royale du 14 avril 1819, les décrets des 12 juillet 1883 et 10 juin 1884 et la loi du 11 juin 1909.
-
-(D. n°49.718 du 275.1949).
-
-770 Art 77 (D. n°49.718 du 275.1949 ; D. n°67.264 du 30.3.1967
-
-*" Art 77 D. n°49.718 du 275. 1949 ; D. n°67. 264 du 30.3.1967
-
-7.? Art 78. (D. n°68.336 du 5.4.1968).
 
 mentionner le cours moyen des effets cotés au comptant. Ce cours moyen est établi en prenant la moyenne entre le cours le plus haut et le cours le plus bas.
 Il n’est pas dérogé aux règlements actuels en ce qui concerne les valeurs étrangères.
@@ -3318,68 +2851,32 @@ Instituant un répertoire des opérations de change
 
 275 Art 9. (Ord. n°45. 2440 du 18.10.1945). II n’est pas dérogé aux lois concernant les agents de change, sous réserve des dispositions qui font l’objet du présent titre et des articles 14 et 20 bis ci-dessous.
 
-276 Art 10. (D. n°67.264 du 30.3.1967
-
-71. D. n°67.264 du 30.3.1967
-
 L’admission des valeurs mobilières à la cote officielle des bourses de valeurs mobilières à la cote officielle des bourses où elles sont négociées et la radiation des valeurs précédemment inscrites sont décidées, après avis de la chambre syndicale des agents de change, par la commission des opérations de bourse, sous réserve des dispositions concernant l’introduction des valeurs étrangères. Les fonds d’Etat français sont portés de droit à la cote officielle et négociés à la Bourse de Paris. En ce qui concerne les valeurs françaises, l’émetteur est tenu de fournir, à la requête de la chambre syndicale, tous renseignements et documents nécessaires à la cotation de ses titres. Les infractions à cette disposition exposent l’émetteur à payer au Trésor une astreinte qui est prononcée, sur la plainte de la chambre syndicale, par le tribunal de grande instance du lieu du siège de l’émetteur et dont le montant ne peut être inférieur à 10.000F CFA, ni supérieur à 100.000F CFA par jour.””° La commission peut décider, après avis de la chambre syndicale, d’admettre d’office à la cote ou de refuser de rayer de la cote une valeur mobilière, nonobstant l’avis contraire de l’émetteur. Dans le cas de création d’une nouvelle bourse de valeurs, la commission des opérations de bourse, après avis de la chambre syndicale des agents de change, dresse la première liste des valeurs admises à la cote officielle qui seront négociées à cette bourse.””°
 
 ## SECTION 7. LES DISPOSITIONS DIVERSES
 
 ‘’Les adjudications publiques volontaires ou forcées de valeurs mobilières négociables sont faites, si les titres sont inscrits à la cote officielle, par les agents de change auprès de la bourse où ces titres sont négociés et, dans le cas contraire, par un agent de change ou par un notaire’’.” Les agents de change peuvent constituer des sociétés dont l’objet exclusif est l’exploitation de l’office. Ces sociétés revêtent la forme soit de la société en commandite simple, soit de la société anonyme. L’article 28 de la loi n°66-537 du 24.07.1966 sur les sociétés commerciales n’est pas applicable aux actes effectués, dans la limite de leur procuration, par les fondés de pouvoir et les commis principaux lorsqu’ils sont commanditaires.”*
 
-La désignation de toutes personnes autres qu’un agent de change aux fonctions de président du conseil d’administration ou de membre du directoire d’une société anonyme constituée pour l’exploitation d’un office d’agent de change est subordonnée à l’agrément du- ministre de l’économie et des finances, sur proposition de la chambre syndicale. Les interdictions prévues pour les agents de change par les dispositions législatives et réglementaires en
+La désignation de toutes personnes autres qu’un agent de change aux fonctions de président du conseil d’administration ou de membre du directoire d’une société anonyme constituée pour l’exploitation d’un office d’agent de change est subordonnée à l’agrément du- ministre de l’économie et des finances, sur proposition de la chambre syndicale. Les interdictions prévues pour les agents de change par les dispositions législatives et réglementaires en vigueur leur sont applicables de plein droit. Elles sont passibles, en cas d’infraction à ses dispositions, des mêmes peines, à l’exception de la destitution, prononcées selon les mêmes procédures.“* Les actes relatifs aux sociétés anonymes constituées pour l’exploitation des offices d’agent de change ainsi que les cessions d’actions sont soumis à l’approbation de la chambre syndicale et communiqués au ministre de l’économie et des finances.
 
-278 Art 12. (D. n°68.30 du 3.1.1968.
-279 Art 13. (D. n°68.30 du 3.1.1968).
-280 Art 20 bis. (D. n°68-336 du 5.4.1968 281 Art 75. (L. n°72-650 du 11.07.1972).
-
-vigueur leur sont applicables de plein droit. Elles sont passibles, en cas d’infraction à ses dispositions, des mêmes peines, à l’exception de la destitution, prononcées selon les mêmes procédures.“* Les actes relatifs aux sociétés anonymes constituées pour l’exploitation des offices d’agent de change ainsi que les cessions d’actions sont soumis à l’approbation de la chambre syndicale et communiqués au ministre de l’économie et des finances.”*
-
-Les agents de change, constitués de la manière prescrite par la loi, ont seuls le droit de faire les négociations des effets publics et autres susceptibles d’être côtés ; de faire pour le compte d’autrui les négociations des lettres de change ou billets, et de tous papiers commerçables et d’en constater le cours. Les courtiers interprètes et conducteurs de navires font le courtage des affrètements ; ils ont, en outre, seuls le droit de traduite, en cas de contestations portées devant les tribunaux, les déclarations, Chartes-parties, connaissements, contrats, et tous actes de commerce dont la traduction serait nécessaire ; enfin, de constater le cours du fret ou du nolis. Dans les affaires contentieuses de commerce, et pour le service des douanes, ils serviront seuls de truchement à tous étrangers, maîtres de navires, marchands, équipages de vaisseau et autres personnes de mer. Le même individu peut si l’acte du Gouvernement qui l’institue l’y autorise, cumuler les fonctions d’agent de change, de courtier de marchandises, et de courtier interprète et conducteur de navires. ***
+Les agents de change, constitués de la manière prescrite par la loi, ont seuls le droit de faire les négociations des effets publics et autres susceptibles d’être côtés ; de faire pour le compte d’autrui les négociations des lettres de change ou billets, et de tous papiers commerçables et d’en constater le cours. Les courtiers interprètes et conducteurs de navires font le courtage des affrètements ; ils ont, en outre, seuls le droit de traduite, en cas de contestations portées devant les tribunaux, les déclarations, Chartes-parties, connaissements, contrats, et tous actes de commerce dont la traduction serait nécessaire ; enfin, de constater le cours du fret ou du nolis. Dans les affaires contentieuses de commerce, et pour le service des douanes, ils serviront seuls de truchement à tous étrangers, maîtres de navires, marchands, équipages de vaisseau et autres personnes de mer. Le même individu peut si l’acte du Gouvernement qui l’institue l’y autorise, cumuler les fonctions d’agent de change, de courtier de marchandises, et de courtier interprète et conducteur de navires.
 
 Les courtiers de transport par terre et par eau, constitués selon la loi, ont seuls dans les lieux où ils sont établis, le droit de faire le courtage des transports par terre et eau ; ils ne peuvent cumuler, dans aucun cas et sous aucun prétexte, les fonctions de courtiers de marchandises, ou de courtiers conducteurs de navires, désignées aux articles 78 et 80.”* Ceux qui ont été frappés de tout ou partie des déchéances de la faillite personnelle ne peuvent être agents de change s’ils n’ont pas été réhabilités.?*°
 
 Les agents de change et les courtiers interprètes conducteurs de navires sont tenus d’avoir un livre revêtu des formes prescrites par l’article 11. IIs sont tenus de mentionner dans ce livre, jour par jour, et par ordre de dates, sans ratures, interlignes ni transpositions, et sans abréviations ni chiffres, toutes les conditions des négociations et, en général, de toutes les opérations faites par leur entremise.*”
 
-Un agent de change ou courtier ne peut, dans aucun cas et sous aucun prétexte, faire des opérations de commerce ou de banque pour son compte. Il ne peut s’intéresser directement ni indirectement, sous son nom, ou sous un
+Un agent de change ou courtier ne peut, dans aucun cas et sous aucun prétexte, faire des opérations de commerce ou de banque pour son compte. Il ne peut s’intéresser directement ni indirectement, sous son nom, ou sous un nom interposé, dans aucune entreprise commerciale. Les interdictions cidessus ne font pas obstacle à ce que les agents de change, dans les conditions fixées par le règlement de leur compagnie, assurent la gestion de portefeuilles de valeurs mobilières et fassent la contrepartie des opérations qui leur sont confiées sur les titres inscrits à la cote ou figurant au relevé quotidien des valeurs non admises à la cote. Ils peuvent également constituer des sociétés ayant pour objet principal de vendre ou d’acheter des titres en contrepartie, y compris dans les transactions où ils sont mandataires, ou y prendre des participations. Ils peuvent diriger ou administrer ces sociétés. Les conditions de constitution de ces dernières ainsi que les dispositions obligatoires de leurs statuts sont fixées par décret.”“’ Toute contravention aux dispositions énoncées dans les deux articles précédents entraîne la peine de destitution, et une condamnation d’amende, qui sera prononcée par le tribunal de police correctionnelle, et qui ne peut être au dessus de 200. 000F CFA, sans préjudice de l’action des parties en dommages-intérêts. Tout agent de change ou courtier destitué en vertu de l’article précédent n’être peut réintégrer dans ses fonctions.
 
-282 Art 75-2. (L. n°72-650 du 11.07.1972).
-283 Art 75-3. (L. n°72-650 du 11.07.1972).
-284 Art 81. (L. n°78-1170 du 16.12.1978).
-285 Art 82. (L. n°78-1170 du 16.12.1978.
-286 Art 83. (L. n°67-563 du 13.07.1967).
-287 Art 84. (L. du 18.01.1929).
+Un décret en Conseil des ministres fixe les conditions relatives à la négociation et à la transmission de la propriété des effets publics et autres susceptibles d’être cotés ainsi que les conditions d’exécution par les agents de change des marchés à terme portant sur une valeur mobilière déterminée et des marchés portant sur la livraison à terme d’une valeur mobilière déterminée, et généralement à l’exécution des dispositions contenues dans le présent titre.””° Le gage constitué soit par un commerçant, soit par un individu non commerçant, pour un acte de commerce, se constate à l’égard des tiers, comme à l’égard des parties contractantes, conformément aux dispositions de l’article 109 du Code de commerce. Le gage, à l’égard des valeurs négociables, peut aussi être rétabli par un endossement régulier, indiquant que les valeurs ont été remises en garantie.”’ A l’égard des actions, des parts d’intérêts et des obligations nominatives des sociétés financières, industrielles, commerciales ou civiles, dont la transmission s’opère par un transfert sur les registres de la société, ainsi qu’à l’égard des inscriptions nominatives sur le grand-livre de la dette publique, le gage peut également être établi par un transfert, à titre de garantie, inscrit sur lesdits registres. Il n’est pas dérogé aux dispositions de l’article 2075 du Code civil en ce qui concerne les créances mobilières, dont le cessionnaire ne peut être saisi à l’égard des tiers que par la signification du transport faite au débiteur. Les effets de commerce donnés en gage sont recouvrables par le créancier gagiste.
 
-nom interposé, dans aucune entreprise commerciale.* Les interdictions cidessus ne font pas obstacle à ce que les agents de change, dans les conditions fixées par le règlement de leur compagnie, assurent la gestion de portefeuilles de valeurs mobilières et fassent la contrepartie des opérations qui leur sont confiées sur les titres inscrits à la cote ou figurant au relevé quotidien des valeurs non admises à la cote. Ils peuvent également constituer des sociétés ayant pour objet principal de vendre ou d’acheter des titres en contrepartie, y compris dans les transactions où ils sont mandataires, ou y prendre des participations. Ils peuvent diriger ou administrer ces sociétés. Les conditions de constitution de ces dernières ainsi que les dispositions obligatoires de leurs statuts sont fixées par décret.”“’ Toute contravention aux dispositions énoncées dans les deux articles précédents entraîne la peine de destitution, et une condamnation d’amende, qui sera prononcée par le tribunal de police correctionnelle, et qui ne peut être au dessus de 200. 000F CFA, sans préjudice de l’action des parties en dommages-intérêts. Tout agent de change ou courtier destitué en vertu de l’article précédent n’être peut réintégrer dans ses fonctions.
-
-Un décret en Conseil des ministres fixe les conditions relatives à la négociation et à la transmission de la propriété des effets publics et autres susceptibles d’être cotés ainsi que les conditions d’exécution par les agents de change des marchés à terme portant sur une valeur mobilière déterminée et des marchés portant sur la livraison à terme d’une valeur mobilière déterminée, et généralement à l’exécution des dispositions contenues dans le présent titre.””° Le gage constitué soit par un commerçant, soit par un individu non commerçant, pour un acte de commerce, se constate à l’égard des tiers, comme à l’égard des parties contractantes, conformément aux dispositions de l’article 109 du Code de commerce. Le gage, à l’égard des valeurs négociables, peut aussi être rétabli par un endossement régulier, indiquant que les valeurs ont été remises en garantie.”’ A l’égard des actions, des parts d’intérêts et des obligations nominatives des sociétés financières, industrielles, commerciales ou civiles, dont la transmission s’opère par un transfert sur les registres de la société, ainsi qu’à l’égard des inscriptions nominatives sur le grand-livre de la dette publique, le gage peut également être établi par un transfert, à titre de garantie, inscrit sur lesdits registres. Il n’est pas dérogé aux dispositions de l’article 2075 du Code civil en ce qui concerne les créances mobilières, dont le cessionnaire ne peut être saisi à l’égard des tiers que par la signification du transport faite au débiteur. Les effets de commerce donnés en gage sont recouvrables par le créancier gagiste.“”
-
-288 (L. n°72-650 du 11.07. 1972).
-
-259 (L. n°85-695 du 11.07.1985).
-
-20 Art 90. (L. n°85-695 du 11.07.1985).
-?! D. L. du 25.08.1937
-
-22 Art 91. (L. du 23.05.1863).
-
-Dans tous les cas, le privilège ne subsiste sur le gage qu’autant que ce gage a été mis et est resté en la possession du créancier ou d’un tiers convenu entre les parties. Le créancier est réputé avoir les marchandises en sa possession lorsqu’elles sont à sa disposition dans ses magasins ou navires, à la Douane ou dans un dépôt public, ou si, avant qu’elles soient arrivées il en est saisi par un connaissement ou par une lettre de voiture.”’’ A défaut de payement à l’échéance, le créancier peut, huit jours après une simple signification faite au débiteur et au tiers bailleur de gage, s’il y en a un, faire procéder à la vente publique des objets donnés en gage.”“* Les ventes autres que celles dont les agents de change et les courtiers en valeurs mobilières sont chargés sont faites par les courtiers. Toutefois, sur la requête des parties, le président du tribunal de commerce peut désigner pour y procéder une autre classe d’officiers publics. Les dispositions des articles 2 à 7 inclusivement de la loi du 28 mai 1858 sur les ventes publiques sont applicables aux ventes prévues par le paragraphe précédent. Toute clause qui autoriserait le créancier à s’approprier le gage ou à en disposer sans les formalités ci-dessus prescrites est nulle. ””
+Dans tous les cas, le privilège ne subsiste sur le gage qu’autant que ce gage a été mis et est resté en la possession du créancier ou d’un tiers convenu entre les parties. Le créancier est réputé avoir les marchandises en sa possession lorsqu’elles sont à sa disposition dans ses magasins ou navires, à la Douane ou dans un dépôt public, ou si, avant qu’elles soient arrivées il en est saisi par un connaissement ou par une lettre de voiture.”’’ A défaut de payement à l’échéance, le créancier peut, huit jours après une simple signification faite au débiteur et au tiers bailleur de gage, s’il y en a un, faire procéder à la vente publique des objets donnés en gage.”“* Les ventes autres que celles dont les agents de change et les courtiers en valeurs mobilières sont chargés sont faites par les courtiers. Toutefois, sur la requête des parties, le président du tribunal de commerce peut désigner pour y procéder une autre classe d’officiers publics. Les dispositions des articles 2 à 7 inclusivement de la loi du 28 mai 1858 sur les ventes publiques sont applicables aux ventes prévues par le paragraphe précédent. Toute clause qui autoriserait le créancier à s’approprier le gage ou à en disposer sans les formalités ci-dessus prescrites est nulle.
 
 Le commissionnaire est celui qui agit en son propre nom ou sous un social pour le compte d’un commettant. Les devoirs et les droits du commissionnaire qui agit au nom d’un commettant sont déterminés par le Code civil, livre III, titre XIIL. ” Tout commissionnaire a privilège sur la valeur des marchandises à lui expédiées, déposées ou consignées, par le fait seul de l’expédition, du dépôt ou de la consignation, pour tous les prêts, avances ou payements faits par lui, soit avant pendant le temps qu’elles sont en sa possession. Ce privilège ne subsiste que sous la condition prescrite par l’article 92 qui précède. Dans la créance privilégiée du commissionnaire sont compris, avec le principal, les intérêts, commissions et frais. Si les marchandises ont été vendues et livrées pour le compte du commettant, le commissionnaire se rembourse, sur le produit de la vente, du montant de sa créance, par préférence aux créanciers du commettant. ””
 
 ## SECTION 8. LES COMMISSIONNAIRES POUR LES TRANSPORTS
 PAR TERRE ET PAR FAU
 
-Le commissionnaire qui se charge d’un transport par terre ou par eau est tenu d’inscrire sur son livre-journal la déclaration de la nature et de la qualité des marchandises, et, s’il en est requis, de leur valeur. Il est garant de l’arrivée des marchandises et effets dans le délai déterminé par la lettre de voiture, hors
-
-293 Art 92. (L. du 23.05.1863).
-24 (Ord. n°45-2440 du 17.10.1945).
-295 Art 93. (L. du 23.05.1963).
-296 Art 94. (L. du 23.05.1863).
-297 Art 95. (L. du 23.05.1863).
-
-les cas de la force majeure légalement constatée. Il est garant des avaries ou pertes de marchandises et effets, s’il n’y a stipulation contraire dans la lettre de voiture, ou force majeure. Il est garant des faits du commissionnaire intermédiaire auquel il adresse les marchandises. La marchandise sortie du magasin du vendeur ou de l’expéditeur voyage, s’il n’y a convention contraire, aux risques et périls de celui à qui elle appartient, sauf son recours contre le commissionnaire et le voiturier chargés du transport. La lettre de voiture forme un contrat entre l’expéditeur et le voiturier, ou entre l’expéditeur, le commissionnaire et le voiturier. La lettre de voiture doit être datée. Elle doit exprimer :
+Le commissionnaire qui se charge d’un transport par terre ou par eau est tenu d’inscrire sur son livre-journal la déclaration de la nature et de la qualité des marchandises, et, s’il en est requis, de leur valeur. Il est garant de l’arrivée des marchandises et effets dans le délai déterminé par la lettre de voiture, hors les cas de la force majeure légalement constatée. Il est garant des avaries ou pertes de marchandises et effets, s’il n’y a stipulation contraire dans la lettre de voiture, ou force majeure. Il est garant des faits du commissionnaire intermédiaire auquel il adresse les marchandises. La marchandise sortie du magasin du vendeur ou de l’expéditeur voyage, s’il n’y a convention contraire, aux risques et périls de celui à qui elle appartient, sauf son recours contre le commissionnaire et le voiturier chargés du transport. La lettre de voiture forme un contrat entre l’expéditeur et le voiturier, ou entre l’expéditeur, le commissionnaire et le voiturier. La lettre de voiture doit être datée. Elle doit exprimer :
 
 La nature et le poids ou la contenancedes objets à transport doit être effectué. Elle indique :
 
@@ -3390,22 +2887,12 @@ Le nom de celui à qui la marchandise est adressée, le nom et domicile du voitu
 Le voiturier est garant de la perte des objets à transporter, hors les cas de la force majeure. Il est garant des avaries autres que celles qui proviennent du vice propre de la chose ou de la force majeure. Toute clause contraire insérée dans toute lettre de voiture, tarif ou autre pièce quelconque, est nulle.”” Si, par l’effet de la force majeure, le transport n’est pas effectué dans le délai convenu, il n’y a pas lieu à indemnité contre le voiturier pour cause de retard.
 Si, par l’effet de la force majeure, le transport n’est pas effectué dans le délai convenu, il n’y a pas lieu à indemnité contre le voiturier pour cause de retard.
 
-La réception des objets transportés éteint toute action contre le voiturier pour avarie ou perte partielle si dans les trois jours, non compris les jours fériés, qui suivent celui de cette réception, de destinataire n’a pas notifié au voiturier, par acte extrajudiciaire ou par lettre recommandée, sa protestation motivée. Si dans le délai ci-dessus prévu il est formé une demande d’expertise en application de l’article 106, cette demande vaudra protestation sans qu’il soit nécessaire de procéder comme il est dit au premier alinéa.”’’ Toutes stipulations contraires sont nulles et de nul effet. Cette dernière disposition n’est pas applicable aux transports internationaux. ””
-
-28 Art 96-102L. du 23-05-1863
-
-299 . du 17.03.1905
-
-300 (L. du 11.04.1888).
-
-301 Art 105. (D. n°59-662 du 19.05.1959).
+La réception des objets transportés éteint toute action contre le voiturier pour avarie ou perte partielle si dans les trois jours, non compris les jours fériés, qui suivent celui de cette réception, de destinataire n’a pas notifié au voiturier, par acte extrajudiciaire ou par lettre recommandée, sa protestation motivée. Si dans le délai ci-dessus prévu il est formé une demande d’expertise en application de l’article 106, cette demande vaudra protestation sans qu’il soit nécessaire de procéder comme il est dit au premier alinéa. Toutes stipulations contraires sont nulles et de nul effet. Cette dernière disposition n’est pas applicable aux transports internationaux. 
 
 En cas de refus des objets transportés ou présentés pour être transportés ou de contestation de quelque nature qu’elle soit, sur la formation ou l’exécution du contrat de transport, ou à raison d’un incident survenu au cours même et à l’occasion du transport, l’état des objets transportés ou présentés pour être transportés et, en tant que de besoin, leur conditionnement, leur poids, leur conditionnement, leur poids, leur nature, etc…, sont vérifiés et constatés par un ou plusieurs experts nommés par le président du tribunal de commerce ou, à son défaut, par le juge du tribunal d’instance et par ordonnance au pied d’une requête.”
 
 Le requérant est tenu, sous sa responsabilité, d’appeler à cette expertise, même par simple lettre recommandée ou- par télégramme, toutes parties susceptibles d’être mises en cause, notamment l’expéditeur, le destinataire, le voiturier et le commissaire, et les experts doivent prêter serment, sans formalité d’audience, devant le juge du tribunal d’instance du canton où ils procéderont : toutefois, en cas d’urgence, le juge saisi de la requête pourra dispenser de l’accomplissement de tout ou partie des formalités prévues au présent paragraphe ; mention sera faite de cette dispense dans l’ordonnance.
-Le dépôt ou séquestre des objets en litige et ensuite leur transport dans un dépôt public peut être ordonné. La vente peut être ordonnée jusqu’à concurrence des frais de voiture ou autres déjà faits. Le juge attribuera le produit de la vente à celle des parties qui aura fait l’avance desdits frais. Les dispositions contenues dans le présent titre sont communes aux maîtres de bateaux, entrepreneurs de diligences et voitures publiques. À l’égard des commerçants, les actes de commerce peuvent se prouver par tous les moyens à moins qu’il n’en soit autrement disposé par la loi. ””
-
-302 Art 106. (L. du 12.02.1927) 303 Art 108. (D. L. du 30.10.1935).
+Le dépôt ou séquestre des objets en litige et ensuite leur transport dans un dépôt public peut être ordonné. La vente peut être ordonnée jusqu’à concurrence des frais de voiture ou autres déjà faits. Le juge attribuera le produit de la vente à celle des parties qui aura fait l’avance desdits frais. Les dispositions contenues dans le présent titre sont communes aux maîtres de bateaux, entrepreneurs de diligences et voitures publiques. À l’égard des commerçants, les actes de commerce peuvent se prouver par tous les moyens à moins qu’il n’en soit autrement disposé par la loi.
 
 NEUVIÈME PARTIE
 
@@ -3437,12 +2924,6 @@ Tout affrètement ou nolisement, emprunt ou prêt à la grosse ;
 
 Toutes assurances et autres contrats concernant le commerce de mer ;
 
-304 (L.31.12.1925
-
-305 L. n°67-563 du 13.07.1967 306 [. n°70-601 du 970
-
-307 [. n°67-563 du 13.07.1967 308 L 7.06.1894
-
 Tous accords et conventions pour salaires et loyers d’équipages ;
 
 Tous engagements de gens de mer, pour le service de bâtiments de commerce. Les tribunaux de commerce connaîtront également :
@@ -3450,8 +2931,6 @@ Tous engagements de gens de mer, pour le service de bâtiments de commerce. Les 
 2° des billets faits par les receveurs, payeurs, percepteurs ou autres comptables des derniers publics. Lorsque les billets à ordre ne porteront que des signatures d’individus non négociants et n’auront pas pour occasion des opérations de commerce, trafic, change, banque ou courtage, le tribunal de commerce sera tenu de renvoyer au tribunal de grande instance, s’il en est requis par le défendeur.*”
 
 Lorsque ces billets à ordre porteront en même temps des signatures d’individus négociants et d’individus non négociants, le tribunal de commerce en connaîtra. Ne seront point de la compétence des tribunaux de commerce les actions intentées contre un propriétaire, cultivateur ou vigneron, pour vente de denrées provenant de son cru, les actions intentées contre un commerçant, pour payement de denrées et marchandises achetées pour son usage particulier. Néanmoins les billets souscrits par un commerçant seront censés faits pour son commerce, et ceux des receveurs, payeurs, percepteurs ou autres comptables de deniers publics, seront censés faits pour leur gestion, lorsqu’une autre cause n’y sera point énoncée.‘'° Dans les localités où il n’y aura pas de tribunaux de commerce, les juges du tribunal de grande instance exerceront les fonctions et connaîtront des matières attribuées aux juges de commerce.
-
-309 Art 636. (D. L. 30.10.1935 310 Art 637. (D. L.30.10.1935
 
 # CHAPITRE II
 
@@ -3670,7 +3149,7 @@ convention de vente d’un immeuble ou d’une cession de fonds de commerce, est
 
 29°. À qui est ouvert le droit d’opposition lors d’une vente de fonds de commerce ?
 
-—Jle droit d’opposition est ouvert, aussi bien aux créanciers chirographaires qu’aux créanciers privilégiés du fonds de commerce.
+le droit d’opposition est ouvert, aussi bien aux créanciers chirographaires qu’aux créanciers privilégiés du fonds de commerce.
 
 30°. Quelles sont les obligations du vendeur du fonds de commerce à l’égard de l’acquéreur ?
 
