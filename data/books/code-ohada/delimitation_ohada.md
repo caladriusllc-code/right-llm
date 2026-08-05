@@ -1,7 +1,10 @@
-la législation de l’Ohada paraît être la première à constituer le droit communautaire dans le domaine des affaires en Afrique francophone. Comme d’autres pays du monde qui ont entrepris des regroupements politiques et économiques pour faire face à la mondialisation des réalités économiques, les États de la Zone Franc CFA, rejoints par les Comores et la Guinée, ont décidé d’harmoniser leur droit des affaires pour offrir aux opérateurs économiques, étrangers et locaux, une législation moderne, adaptée aux nouveaux défis de l’économie. Ils ont pour ce faire créé par le Traité de Port-Louis du 17 octobre 1993 (révisé le 17 octobre 2008 à Québec, Canada), l’Organisation pour l’harmonisation en Afrique du droit des affaires (OHADA). Le système juridique et judiciaire de l’Ohada vise à garantir la sécurité juridique des affaires en adoptant un droit commun des affaires dont l’interprétation est confiée à une seule instance juridictionnelle, la Cour commune de justice et d’arbitrage (CCJA).
+la législation de l’Ohada paraît être la première à constituer le droit communautaire dans le domaine des affaires en Afrique francophone. Comme d’autres pays du monde qui ont entrepris des regroupements politiques et économiques pour faire face à la mondialisation des réalités économiques, les États de la Zone Franc CFA, rejoints par les Comores et la Guinée, ont décidé d’harmoniser leur droit des affaires pour offrir aux opérateurs économiques, étrangers et locaux, une législation moderne, adaptée aux nouveaux défis de l’économie. (Done)
 
-Dans l’espace Ohada l’activité d’affaires comprend, principalement : l’activité du commerçant, l’activité de l’entreprenant, l’activité des sociétés commerciales et des groupements d’intérêt
-économique.
+Ils ont pour ce faire créé par le Traité de Port-Louis du 17 octobre 1993 (révisé le 17 octobre 2008 à Québec, Canada), l’Organisation pour l’harmonisation en Afrique du droit des affaires (OHADA) (Done).
+
+Le système juridique et judiciaire de l’Ohada vise à garantir la sécurité juridique des affaires en adoptant un droit commun des affaires dont l’interprétation est confiée à une seule instance juridictionnelle, la Cour commune de justice et d’arbitrage (CCJA).
+
+Dans l’espace Ohada l’activité d’affaires comprend, principalement : l’activité du commerçant, l’activité de l’entreprenant, l’activité des sociétés commerciales et des groupements d’intérêt économique.
 
 Il est vrai, cette activité présente un poids économique important qui n’est pas l’objet de cet ouvrage de droit et qui se présente sous deux aspects : l’un purement économique qui se réalise par la production et la distribution de biens ou la fourniture de services, et l’autre humain qui concerne le statut des acteurs qui assurent le bon fonctionnement de l’activité concernée. C’est que dans la vie des affaires, dans la vision qui est celle de l OHADA et dont le but est l’assainissement de l’environnement juridique des affaires et la sécurisation des investissements, les biens ou les services sont destinés à être vendus ou rémunérés, donc à être offerts sur le marché dans le but de réaliser un bénéfice.
 
@@ -12,8 +15,8 @@ où cette activité est entreprise, dans l’un des Etats signataires du Traité
 l’activité dite du commerce est celle qui se propose de mettre les
 produits naturels ou fabriqués à la disposition de ceux qui en ont besoin. Le commerçant se propose de faire arriver un produit, étape par étape, aux endroits où il sera recherché, pour sa mise en œuvre, pour sa mise en marché ou pour sa consommation (intervient ici l’importance du droit des transports dont le présent ouvrage n’a fait qu’effleurer).
 
-* l’entreprenant par contre est une personne physique, qui sur simple
-déclaration, exerce une activité professionnelle, civile, commerciale ou agricole.'
+l’entreprenant par contre est une personne physique, qui sur simple
+déclaration, exerce une activité professionnelle, civile, commerciale ou agricole.
 
 Quand aux sociétés commerciales, plusieurs distinctions sont possibles, notamment celles les distinguant entre sociétés de personnes et sociétés de capitaux, sociétés faisant appel public à l’épargne et celles ne le faisant pas, sociétés unipersonnelles et sociétés pluripersonnelles que nous avons estimées étudier en profondeur. Reste donc la distinction entre les sociétés privées et les sociétés publiques. Nous nous contentons ici, d’une présentation brève en réservant les détails dans la première partie de l’ouvrage.
 
@@ -33,54 +36,48 @@ Les sociétés d’économie mixte appelées encore entreprises nationales sont 
 
 D’une manière générale, les sociétés privées qui sont des contrats par lesquels deux ou plusieurs personnes conviennent de mettre quelque chose en commun, dans le but de partager le bénéfice ou de profiter de l’économie qui peut en résulter sont caractérisées par :
 
-1. la mise en commun d’apports de la part des associés : espèces (apport
+la mise en commun d’apports de la part des associés : espèces (apport
 en numéraire), meubles ou immeubles (apport en nature). Ces apports constituent le patrimoine social, ou le capital social.
 
-2. la recherche et le partage de bénéfice ou de l’économie est le caractère
+la recherche et le partage de bénéfice ou de l’économie est le caractère
 qui distingue la société de l’Association ;
 
-3. l’intention de collaborer au but commun sur un pied d’égalité. Les
+l’intention de collaborer au but commun sur un pied d’égalité. Les
 associés participent aux bénéfices et aux pertes.
 
 Organisation des sociétés. Cette organisation est étudiée à travers les fonctions et les services que remplissent les sociétés commerciales :
 
 Les fonctions. La fonction principale des sociétés commerciale est :
 
-* soit la distribution des produits fabriqués ou achetés ;
+soit la distribution des produits fabriqués ou achetés ;
 
-* soit la prestation de services : transports, facilités de caisse ou de crédit,
+soit la prestation de services : transports, facilités de caisse ou de crédit,
 couverture de certains risques ; etc.
 
 La fonction commerciale : vendre des produits ou des services”’ est la fonction primordiale des sociétés commerciales. Suivant l’importance de la société et la nature de ses activités, la fonction commerciale est complétée par des fonctions annexes :
 
-* la fonction technique, si les ventes portent sur les produits de sa
+la fonction technique, si les ventes portent sur les produits de sa
 fabrication ;
 
-* la fonction administrative et financière qui assure les relations suivies
+la fonction administrative et financière qui assure les relations suivies
 avec les banques, les assurances, les administrations publiques, etc.
 
-Les services. À chacune des fonctions correspond un ou plusieurs services ayant chacun à leur tête un chef responsable placé sous l’autorité d’une direction unique qui, à tout moment, doit pouvoir connaître :
-
-* la situation de la société ;
-
-* les résultats de son activité.
+Les services. À chacune des fonctions correspond un ou plusieurs services ayant chacun à leur tête un chef responsable placé sous l’autorité d’une direction unique qui, à tout moment, doit pouvoir connaîtla situation de la sociéles résultats de son activité.
 
 La liaison entre les différents services et la direction est assurée par les instructions de la direction générale qui descendent échelon par échelon jusqu’à la base et par les rapports qui, suivant le même chemin, montent vers la direction générale qui les étudie (liaison verticale). La relation entre les différents services est assurée par la réunion, sous la surveillance du directeur général ou d’un des représentants, des responsables des différents services (liaison horizontale). Le personnel lui-même est tenu au courant de l’activité de la société par ses délégués élus et aussi, de plus en plus, par un bulletin intérieur diffusé parmi des employés de toutes catégories. Enfin, dans les sociétés, les dirigeants sont tenus de tenir les associés au courant de la vie et de la politique commerciale de la société : assemblées générales, rapport du directeur général et des Organismes de contrôle, communication des pièces comptables, etc.
-
-Emboli, le 26 janvier 2014
 
 # PREMIÈRE PARTIE
 
 CADRE JURIDIQUE ET PRINCIPES GÉNÉRAUX DU DROIT DES AFFAIRES OHADA
 
 En droit positif, le domaine de l’harmonisation suppose non seulement l’ensemble des matières auxquelles s’applique le droit harmonisé, mais aussi des limites territoriales à l’intérieur desquelles le droit OHADA est applicable.
-Ce cadre, comprenant à la fois les États parties (chap. 1); ensuite les personnes ainsi que les matières auxquelles ce droit communautaire s’applique
+Ce cadre, comprenant à la fois les États parties; ensuite les personnes ainsi que les matières auxquelles ce droit communautaire s’applique
 
 # CHAPITRE I
 
 LA DÉLIMITATION TERRITORIALE ET LES ETATS-PARTIES
 
-De treize pays à la signature du Traité en 1993, ce nombre est porté à dixsept aujourd’hui.
+De treize pays à la signature du Traité en 1993, ce nombre est porté à dix-sept aujourd’hui.
 
 ## SECTION 1. LES ETATS FRANCOPHONES
 
@@ -90,11 +87,11 @@ Sur les dix-sept pays signataires du Traité de l’Ohada, il existe seize qui f
 
 Le plus grand nombre des Etats parties de l’Ohada se trouve en Afrique de l’Ouest ; en Afrique centrale et en Afrique de l’Est.
 
-#### a. Les Etats de l’Afrique de l’Ouest
+Les Etats de l’Afrique de l’Ouest
 
 De 1994 à 1995, différents pays francophones de l’Afrique de l’Ouest ont ratifié le traité de l’Ohada. Il s’agit du Sénégal qui a adhéré à l’Ohada le 14 juin 1994 ; le Mali à son tour, adhère à l’Ohada le 07 février 1995 ; l’adhésion du Burkina Faso est intervenue le 06 mars 1995 ; deux jours après, le Bénin devient signataire du Traité de l’Ohada ; alors que le Niger a attendu le 05 juin 1995 ; ensuite la Côte d’Ivoire, le 29 septembre ; la République de Guinée, il y a onze ans, c’est-à-dire, le 5 mai 2000 ; enfin le Togo a approuvé le Traité de l’Ohada le 27 septembre 1995 ; période au cours de laquelle, on a constaté l’adhésion massive des Etats de l’Afrique centrale et du sud-est à l’organisation pour l’harmonisation en Afrique du droit des affaires.
 
-#### b. Les Etats de l’Afrique centrale et du sud-est
+Les Etats de l’Afrique centrale et du sud-est
 
 Huit pays de l’Afrique centrale et du sud ont ratifié le Traité. À savoir la République centrafricaine qui a ratifié le Traité de l’Ohada dès le 13 janvier 1995 ; le Cameroun (le 20 octobre 1995); le Tchad, une année après,
 
@@ -111,10 +108,6 @@ Ces Etats appartiennent à d’autres groupes linguistiques distincts de la fran
 Parmi les pays ayant déjà ratifié le Traité de l’Ohada, il existe un Etat lusophone : la Guinée Bissau qui est anglophone et qui a ratifié ce Traité dès le 15 janvier 1994 ; un Etat bilingue, le Cameroun dont la partie nord est anglophone et la partie sud francophone et un Etat hispanophone, la Guinée Equatoriale. D’autres pays non francophones souhaiteraient appartenir à la communauté Ohada, au regard des dispositions de l’art. 53 du Traité révisé qui permet à tout Etat membre de l’Union africaine et à tout autre Etat non membre de l’UA de ratifier ce Traité. C’est pourquoi, le Ghana, le Nigeria, le Liberia, Säo Tomé et principe, le Mozambique, l’Angola… ont annoncé leur intérêt pour l’Ohada.
 
 Pour favoriser l’adhésion des pays non francophones à l’organisation pour l’harmonisation en Afrique du droit des affaires, la Conférence des chefs d’Etat et de gouvernement de l’Ohada, qui en est l’organe suprême, lors de sa réunion tenue à Québec le 17 octobre 2008 à l’occasion du quinzième anniversaire de cette institution, a procédé à la révision du Traité de l’Ohada, et en a profité pour introduire une disposition capitale selon laquelle « les langues de travail de l’Ohada sont : le français, l’anglais, l’espagnol et le portugais ».* Raison pour laquelle plusieurs ouvrages portant sur l’Ohada font l’objet des traductions”, sinon sont directement rédigés en ces diverses langues de travail. Néanmoins, l’ambassadeur Alhouseini Mouloul précise qu’« en cas de divergence entre les traductions, la version en français fait foi ».* Toutefois, malgré l’ouverture accordée par le législateur à tout Etat africain ou non de devenir membre de l’espace Ohada, on note jusqu’à présent des hésitations quant à l’application régulière des dispositions de l’art 53 du Traité révisé.
-
-- V. Alhousseini Mouloul, Fascicule comprendre l’Ohada, 2° édition, décembre 2008, p. 21 et s.
-- C’est le cas du Code Ohada qui fait l’objet des traductions en anglais et en portugais
-- Idem. P. 366
 
 #### b. La réticence des Etats non francophones
 
@@ -179,13 +172,13 @@ DE L’OHADA
 
 Elles portent à la fois sur les difficultés linguistiques et l’incompatibilité des cultures juridiques.
 
-### Paragraphe 1. Les difficultés d’ordre linguistique
+Les difficultés d’ordre linguistique
 
 Certes l’art. 53 du Traité révisé de l’Ohada permet à tout Etat africain ou non de devenir membre de l’Ohada. Mais les pesanteurs demeurent en ce qui concerne la langue de travail que nous avons évoquée plus haut. C’est la raison pour laquelle l’ouverture géographique envisagée”“ nécessite une ouverture linguistique. Et l’admission de trois autres langues de travail en dehors du français considéré naguère comme seule langue de travail de l’Ohada paraît répondre à l’exigence.
 
-Mais cette ouverture linguistique n’est pas sans difficultés comme l’a déjà relevé la doctrine”*, c’est le cas du problème de concordance des textes en cas de traduction des Actes uniformes, celui des procédures devant la CCJA, l’augmentation des charges financières, pouvant entraîner certains blocages dans le fonctionnement de l’Ohada et l’application effective du droit unifié, les problèmes en termes d’équivalence des mots et expressions”* malgré les précautions prises au niveau des traductions peuvent déboucher sur des conflits juridiques. L’on pense néanmoins que le français peut servir de langue de référence et primer en cas de divergence entre les différentes traductions.
+Mais cette ouverture linguistique n’est pas sans difficultés comme l’a déjà relevé la doctrine, c’est le cas du problème de concordance des textes en cas de traduction des Actes uniformes, celui des procédures devant la CCJA, l’augmentation des charges financières, pouvant entraîner certains blocages dans le fonctionnement de l’Ohada et l’application effective du droit unifié, les problèmes en termes d’équivalence des mots et expressions”* malgré les précautions prises au niveau des traductions peuvent déboucher sur des conflits juridiques. L’on pense néanmoins que le français peut servir de langue de référence et primer en cas de divergence entre les différentes traductions.
 Certains Etats parties y voyaient déjà un problème « quasi politique » en développant autour de cette question de langue une théorie dite de l’exclusion.
 
-### Paragraphe 2. L’incompatibilité des cultures juridiques
+L’incompatibilité des cultures juridiques
 
 Elle se traduit par le choc des cultures juridiques, entre les Etats de tradition civiliste” et ceux de la Common Law. Si les sources directes du droit Ohada pouvaient être les mêmes dans les différents pays membres de l’espace Ohada, il en va autrement en ce qui concerne le poids des sources indirectes dans l’application et l’efficacité du droit unifié. Car les usages et coutumes peuvent différer d'un espace linguistique et juridique à un autre. Quoi qu’il en soit, malgré ces critiques sur la politique expansionniste de l'Ohada, cette institution est appelée à s’imposer pour atteindre ses objectifs qui profitent également aux personnes assujetties.

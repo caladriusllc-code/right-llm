@@ -1,0 +1,12 @@
+[
+    {
+        "instruction": "Donne la définition de la législation de l'OHADA", 
+        "input": "C'est quoi la legislation de l'OHADA?",
+        "output": "la législation de l’Ohada paraît être la première à constituer le droit communautaire dans le domaine des affaires en Afrique francophone. Comme d’autres pays du monde qui ont entrepris des regroupements politiques et économiques pour faire face à la mondialisation des réalités économiques, les États de la Zone Franc CFA, rejoints par les Comores et la Guinée, ont décidé d’harmoniser leur droit des affaires pour offrir aux opérateurs économiques, étrangers et locaux, une législation moderne, adaptée aux nouveaux défis de l’économie. "
+    },
+    {
+        "instruction": "Donne la date de création de l'OHADA?", 
+        "input": "Quand a été créée l'OHADA?",
+        "output": "l'OHADA a été créée par le Traité de Port-Louis du 17 octobre 1993 (révisé le 17 octobre 2008 à Québec, Canada), l’Organisation pour l’harmonisation en Afrique du droit des affaires (OHADA)"
+    }
+]
