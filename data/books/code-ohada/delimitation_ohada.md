@@ -2,86 +2,86 @@ la législation de l’Ohada paraît être la première à constituer le droit c
 
 Ils ont pour ce faire créé par le Traité de Port-Louis du 17 octobre 1993 (révisé le 17 octobre 2008 à Québec, Canada), l’Organisation pour l’harmonisation en Afrique du droit des affaires (OHADA) (Done).
 
-Le système juridique et judiciaire de l’Ohada vise à garantir la sécurité juridique des affaires en adoptant un droit commun des affaires dont l’interprétation est confiée à une seule instance juridictionnelle, la Cour commune de justice et d’arbitrage (CCJA).
+Le système juridique et judiciaire de l’Ohada vise à garantir la sécurité juridique des affaires en adoptant un droit commun des affaires dont l’interprétation est confiée à une seule instance juridictionnelle, la Cour commune de justice et d’arbitrage (CCJA) (Done).
 
-Dans l’espace Ohada l’activité d’affaires comprend, principalement : l’activité du commerçant, l’activité de l’entreprenant, l’activité des sociétés commerciales et des groupements d’intérêt économique.
+Dans l’espace Ohada l’activité d’affaires comprend, principalement : l’activité du commerçant, l’activité de l’entreprenant, l’activité des sociétés commerciales et des groupements d’intérêt économique (Done).
 
-Il est vrai, cette activité présente un poids économique important qui n’est pas l’objet de cet ouvrage de droit et qui se présente sous deux aspects : l’un purement économique qui se réalise par la production et la distribution de biens ou la fourniture de services, et l’autre humain qui concerne le statut des acteurs qui assurent le bon fonctionnement de l’activité concernée. C’est que dans la vie des affaires, dans la vision qui est celle de l OHADA et dont le but est l’assainissement de l’environnement juridique des affaires et la sécurisation des investissements, les biens ou les services sont destinés à être vendus ou rémunérés, donc à être offerts sur le marché dans le but de réaliser un bénéfice.
+Il est vrai, cette activité présente un poids économique important qui n’est pas l’objet de cet ouvrage de droit et qui se présente sous deux aspects : l’un purement économique qui se réalise par la production et la distribution de biens ou la fourniture de services, et l’autre humain qui concerne le statut des acteurs qui assurent le bon fonctionnement de l’activité concernée. C’est que dans la vie des affaires, dans la vision qui est celle de l OHADA et dont le but est l’assainissement de l’environnement juridique des affaires et la sécurisation des investissements, les biens ou les services sont destinés à être vendus ou rémunérés, donc à être offerts sur le marché dans le but de réaliser un bénéfice. (ignored)
 
-Les notions de bénéfice et de marché, entrent aussi dans cette étude, plus précisément dans les chapitres consacrés aux opérations de Banque et de Bourse et dont les règles applicables sont bien anciennes. Mais quel que soit sa taille, la qualité et le nombre des personnes qui interviennent dans la vie des affaires, parmi les catégories énumérées ici haut, et quelle que soit la localité
+Les notions de bénéfice et de marché, entrent aussi dans cette étude, plus précisément dans les chapitres consacrés aux opérations de Banque et de Bourse et dont les règles applicables sont bien anciennes. Mais quel que soit sa taille, la qualité et le nombre des personnes qui interviennent dans la vie des affaires, parmi les catégories énumérées ici haut, et quelle que soit la localité (ignored)
 
 où cette activité est entreprise, dans l’un des Etats signataires du Traité de Port Louis, l’activité des affaires obéit à une forme juridique nommée, connue du public par son nom ou par sa raison sociale. L’on distingue le commerçant de l’entreprenant d’abord :
 
 l’activité dite du commerce est celle qui se propose de mettre les
-produits naturels ou fabriqués à la disposition de ceux qui en ont besoin. Le commerçant se propose de faire arriver un produit, étape par étape, aux endroits où il sera recherché, pour sa mise en œuvre, pour sa mise en marché ou pour sa consommation (intervient ici l’importance du droit des transports dont le présent ouvrage n’a fait qu’effleurer).
+produits naturels ou fabriqués à la disposition de ceux qui en ont besoin. Le commerçant se propose de faire arriver un produit, étape par étape, aux endroits où il sera recherché, pour sa mise en œuvre, pour sa mise en marché ou pour sa consommation (intervient ici l’importance du droit des transports dont le présent ouvrage n’a fait qu’effleurer) (Done).
 
 l’entreprenant par contre est une personne physique, qui sur simple
-déclaration, exerce une activité professionnelle, civile, commerciale ou agricole.
+déclaration, exerce une activité professionnelle, civile, commerciale ou agricole.(Done)
 
-Quand aux sociétés commerciales, plusieurs distinctions sont possibles, notamment celles les distinguant entre sociétés de personnes et sociétés de capitaux, sociétés faisant appel public à l’épargne et celles ne le faisant pas, sociétés unipersonnelles et sociétés pluripersonnelles que nous avons estimées étudier en profondeur. Reste donc la distinction entre les sociétés privées et les sociétés publiques. Nous nous contentons ici, d’une présentation brève en réservant les détails dans la première partie de l’ouvrage.
+Quand aux sociétés commerciales, plusieurs distinctions sont possibles, notamment celles les distinguant entre sociétés de personnes et sociétés de capitaux, sociétés faisant appel public à l’épargne et celles ne le faisant pas, sociétés unipersonnelles et sociétés pluripersonnelles que nous avons estimées étudier en profondeur. Reste donc la distinction entre les sociétés privées et les sociétés publiques. Nous nous contentons ici, d’une présentation brève en réservant les détails dans la première partie de l’ouvrage. (Done)
 
-Les sociétés privées. Lorsque la société est la propriété d’une seule personne, elle est dite société unipersonnelle ou individuelle. L’unique propriétaire (associé ou actionnaire) en assure la direction soit personnellement, soit par l’intermédiaire d’un gérant. Lorsqu’elle est la propriété de plusieurs personnes associées, elle est dite en société. Sa direction est assurée soit par un ou plusieurs gérants, soit par un directeur général assisté d’un conseil d’administration constitué par un nombre variable d’associés.
+Les sociétés privées. Lorsque la société est la propriété d’une seule personne, elle est dite société unipersonnelle ou individuelle. L’unique propriétaire (associé ou actionnaire) en assure la direction soit personnellement, soit par l’intermédiaire d’un gérant. Lorsqu’elle est la propriété de plusieurs personnes associées, elle est dite en société. Sa direction est assurée soit par un ou plusieurs gérants, soit par un directeur général assisté d’un conseil d’administration constitué par un nombre variable d’associés. (Done)
 
 Les sociétés publiques. Ce sont les exploitations industrielles et commerciales que l’Etat a prises à son compte :
 
-pour assurer un service public indispensable à la population dont les besoins primordiaux doivent être assurés d’une façon continue et désintéressée. Ex : exploitation des sources d’énergie, mines, gaz, électricité, transports publics ;
+pour assurer un service public indispensable à la population dont les besoins primordiaux doivent être assurés d’une façon continue et désintéressée. Ex : exploitation des sources d’énergie, mines, gaz, électricité, transports publics (Done);
 
 pour créer un service public monopolisé dont il entend tirer des recettes,
-exemple : P.T.T, carburants, allumettes, tabac ;
+exemple : P.T.T, carburants, allumettes, tabac ;(ignored)
 
 pour contrôler les branches d’activités présentant un grand intérêt
-économique, Exemples : Banque, compagnies d’assurances.
+économique, Exemples : Banque, compagnies d’assurances. (ignored)
 
-Les sociétés d’économie mixte appelées encore entreprises nationales sont des sociétés dans lesquelles l’Etat n’est que partiellement actionnaire en restant toutefois majoritaire. Exemples: Chemin de Fer Congo Océan (CFCO), Air Congo…
+Les sociétés d’économie mixte appelées encore entreprises nationales sont des sociétés dans lesquelles l’Etat n’est que partiellement actionnaire en restant toutefois majoritaire. Exemples: Chemin de Fer Congo Océan (CFCO), Air Congo… (Done)
 
-D’une manière générale, les sociétés privées qui sont des contrats par lesquels deux ou plusieurs personnes conviennent de mettre quelque chose en commun, dans le but de partager le bénéfice ou de profiter de l’économie qui peut en résulter sont caractérisées par :
+D’une manière générale, les sociétés privées qui sont des contrats par lesquels deux ou plusieurs personnes conviennent de mettre quelque chose en commun, dans le but de partager le bénéfice ou de profiter de l’économie qui peut en résulter sont caractérisées par : (Done)
 
 la mise en commun d’apports de la part des associés : espèces (apport
-en numéraire), meubles ou immeubles (apport en nature). Ces apports constituent le patrimoine social, ou le capital social.
+en numéraire), meubles ou immeubles (apport en nature). Ces apports constituent le patrimoine social, ou le capital social. (Done)
 
 la recherche et le partage de bénéfice ou de l’économie est le caractère
-qui distingue la société de l’Association ;
+qui distingue la société de l’Association ; (Done)
 
 l’intention de collaborer au but commun sur un pied d’égalité. Les
-associés participent aux bénéfices et aux pertes.
+associés participent aux bénéfices et aux pertes. (Done)
 
-Organisation des sociétés. Cette organisation est étudiée à travers les fonctions et les services que remplissent les sociétés commerciales :
+Organisation des sociétés. Cette organisation est étudiée à travers les fonctions et les services que remplissent les sociétés commerciales : (ignored)
 
 Les fonctions. La fonction principale des sociétés commerciale est :
 
 soit la distribution des produits fabriqués ou achetés ;
 
 soit la prestation de services : transports, facilités de caisse ou de crédit,
-couverture de certains risques ; etc.
+couverture de certains risques ; etc. (Done)
 
 La fonction commerciale : vendre des produits ou des services”’ est la fonction primordiale des sociétés commerciales. Suivant l’importance de la société et la nature de ses activités, la fonction commerciale est complétée par des fonctions annexes :
 
 la fonction technique, si les ventes portent sur les produits de sa
-fabrication ;
+fabrication;
 
 la fonction administrative et financière qui assure les relations suivies
-avec les banques, les assurances, les administrations publiques, etc.
+avec les banques, les assurances, les administrations publiques, etc. (Done)
 
-Les services. À chacune des fonctions correspond un ou plusieurs services ayant chacun à leur tête un chef responsable placé sous l’autorité d’une direction unique qui, à tout moment, doit pouvoir connaîtla situation de la sociéles résultats de son activité.
+Les services. À chacune des fonctions correspond un ou plusieurs services ayant chacun à leur tête un chef responsable placé sous l’autorité d’une direction unique qui, à tout moment, doit pouvoir connaîtla situation de la sociéles résultats de son activité. 
 
-La liaison entre les différents services et la direction est assurée par les instructions de la direction générale qui descendent échelon par échelon jusqu’à la base et par les rapports qui, suivant le même chemin, montent vers la direction générale qui les étudie (liaison verticale). La relation entre les différents services est assurée par la réunion, sous la surveillance du directeur général ou d’un des représentants, des responsables des différents services (liaison horizontale). Le personnel lui-même est tenu au courant de l’activité de la société par ses délégués élus et aussi, de plus en plus, par un bulletin intérieur diffusé parmi des employés de toutes catégories. Enfin, dans les sociétés, les dirigeants sont tenus de tenir les associés au courant de la vie et de la politique commerciale de la société : assemblées générales, rapport du directeur général et des Organismes de contrôle, communication des pièces comptables, etc.
+La liaison entre les différents services et la direction est assurée par les instructions de la direction générale qui descendent échelon par échelon jusqu’à la base et par les rapports qui, suivant le même chemin, montent vers la direction générale qui les étudie (liaison verticale). La relation entre les différents services est assurée par la réunion, sous la surveillance du directeur général ou d’un des représentants, des responsables des différents services (liaison horizontale). Le personnel lui-même est tenu au courant de l’activité de la société par ses délégués élus et aussi, de plus en plus, par un bulletin intérieur diffusé parmi des employés de toutes catégories. Enfin, dans les sociétés, les dirigeants sont tenus de tenir les associés au courant de la vie et de la politique commerciale de la société : assemblées générales, rapport du directeur général et des Organismes de contrôle, communication des pièces comptables, etc. (ignored)
 
 # PREMIÈRE PARTIE
 
 CADRE JURIDIQUE ET PRINCIPES GÉNÉRAUX DU DROIT DES AFFAIRES OHADA
 
 En droit positif, le domaine de l’harmonisation suppose non seulement l’ensemble des matières auxquelles s’applique le droit harmonisé, mais aussi des limites territoriales à l’intérieur desquelles le droit OHADA est applicable.
-Ce cadre, comprenant à la fois les États parties; ensuite les personnes ainsi que les matières auxquelles ce droit communautaire s’applique
+Ce cadre, comprenant à la fois les États parties; ensuite les personnes ainsi que les matières auxquelles ce droit communautaire s’applique.(Done)
 
 # CHAPITRE I
 
 LA DÉLIMITATION TERRITORIALE ET LES ETATS-PARTIES
 
-De treize pays à la signature du Traité en 1993, ce nombre est porté à dix-sept aujourd’hui.
+De treize pays à la signature du Traité en 1993, ce nombre est porté à dix-sept aujourd’hui.(Done)
 
 ## SECTION 1. LES ETATS FRANCOPHONES
 
-Sur les dix-sept pays signataires du Traité de l’Ohada, il existe seize qui font usage du français comme langue officielle qu’il convient d’énumérer, mais l’Ohada demeure ouverte également aux Etats non francophones.
+Sur les dix-sept pays signataires du Traité de l’Ohada, il existe seize qui font usage du français comme langue officielle qu’il convient d’énumérer, mais l’Ohada demeure ouverte également aux Etats non francophones. (Done)
 
 ### Paragraphe 1. La délimitation suivant les zones géographiques
 
