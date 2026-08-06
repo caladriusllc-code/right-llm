@@ -507,6 +507,7 @@ l
 rembourser un produit retourné par l’acheteur dans les conditions légales constitue une contravention (loi française du 6 janvier 1988).
 77. Ces atteintes peuvent concerner la violation du droit de grève, du règlement intérieur, le
 marchandage, le prêt de main-d’œuvre dans un but lucratif, le non-respect des stipulations dérogatoires contenues dans une convention, le refus d’engager la négociation annuelle obligatoire, les conditions du travail des enfants, l’égalité professionnelle entre femmes et hommes étrangers et nationaux, valides et handicapés, le travail clandestin, le statut juridique des syndicats, les conditions d’hygiène et de sécurité.
+
 # DEUXIÈME PARTIE
 LES INSTITUTIONS DU DROIT DEFS AFFAIRES OHADA
 # CHAPITRE I
