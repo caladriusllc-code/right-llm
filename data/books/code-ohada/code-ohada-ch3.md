@@ -133,7 +133,7 @@ Au cours de cette décennie, trois Actes uniformes furent également adoptés pa
 
 #### A. L’Acte uniforme portant droit comptable des entreprises
 
-Cette loi uniforme de l’Ohada fut adoptée le 1” janvier 2001 pour les comptes personnels des entreprises et le 1” janvier 2002 pour les comptes consolidés et les comptes combinés.” Elle compte 113 articles en plus du plan comptable général commun, répartis sur trois titres. Le titre 1 porte sur les comptes personnels des entreprises, le titre 2 sur les comptes consolidés et le titre 3 sur les dispositions finales.
+Cette loi uniforme de l’Ohada fut adoptée le 1” janvier 2001 pour les comptes personnels des entreprises et le 1” janvier 2002 pour les comptes consolidés et les comptes combinés.” Elle compte 113 articles en plus du plan comptable général commun, répartis sur trois titres. Le titre 1 porte sur les comptes personnels des entreprises, le titre 2 sur les comptes consolidés et le titre 3 sur les dispositions finales. (Done)
 
 Les comptes du syscohada sont classés comme suit :
 
@@ -160,8 +160,8 @@ Par contre, les banques, les établissements financiers et les assurances sont a
 #### B. L’Acte uniforme portant contrat de transport de marchandises par
 route
 
-Adopté le 22 mars 2003 à Yaoundé et entré en vigueur le 1” janvier 2004 ;
-il comporte 31 articles pour sept chapitres portant sur le champ d’application et les définitions, le contrat et les documents de transport, l’exécution du contrat de transport, la responsabilité du transporteur, le contentieux, les dispositions diverses et transitoires. ”
+Adopté le 22 mars 2003 à Yaoundé et entré en vigueur le 1er janvier 2004 ;
+il comporte 31 articles pour sept chapitres portant sur le champ d’application et les définitions, le contrat et les documents de transport, l’exécution du contrat de transport, la responsabilité du transporteur, le contentieux, les dispositions diverses et transitoires. ” (Done)
 
 #### C. L’Acte uniforme sur les sociétés coopératives
 
@@ -353,11 +353,11 @@ Les infractions relatives à l’organisation et à l’harmonisation des compta
 
 1. Le défaut d’établissement ou de présentation de documents comptables
 
-Encourent une sanction pénale les entrepreneurs individuels et les dirigeants sociaux qui n’auront pas, pour chaque exercice social, dressé l’inventaire et établi les états financiers annuels ainsi que le cas échéant, le rapport de gestion et le bilan social.En d’autres termes il s’agit d’une part, du défaut d’établissement de la comptabilité ; et d’autre part, du défaut de présentation de la comptabilité ou des comptes annuels.
+Encourent une sanction pénale les entrepreneurs individuels et les dirigeants sociaux qui n’auront pas, pour chaque exercice social, dressé l’inventaire et établi les états financiers annuels ainsi que le cas échéant, le rapport de gestion et le bilan social.En d’autres termes il s’agit d’une part, du défaut d’établissement de la comptabilité ; et d’autre part, du défaut de présentation de la comptabilité ou des comptes annuels. (Done)
 
 ### Paragraphe 2. La présentation des documents inexacts
 
-Encourent une sanction pénale les entrepreneurs individuels et les dirigeants sociaux qui auront sciemment, établis et communiqués des états financiers ne délivrant pas une image fidèle du patrimoine, de la situation financière et du résultat de l’exercice. Il s’agit en réalité de l’inexactitude des comptes annuels qui peut résulter d’une erreur matérielle, d’une erreur de classement ou d’une erreur d’évaluation ; ensuite de la présentation ou de la publication, par exemple par la communication des comptes à l’assemblée générale des actionnaires ou associés ou encore d’un envoi à ceux-ci dans les quinze jours avant l’assemblée générale d’approbation des comptes. Ces différentes infractions sont punies conformément aux dispositions du droit pénal en vigueur dans chaque Etat partie. À ce sujet, l’article 38 de la loi camerounaise du 10 juillet 2003 dispose que les infractions relatives à l’harmonisation de la comptabilité des. entreprises sont punies d’un emprisonnement de trois mois à trois ans et d’une amende de 500.000F CFA à 5.000.000F CFA ou de l’une de ces deux peines seulement.
+Encourent une sanction pénale les entrepreneurs individuels et les dirigeants sociaux qui auront sciemment, établis et communiqués des états financiers ne délivrant pas une image fidèle du patrimoine, de la situation financière et du résultat de l’exercice. Il s’agit en réalité de l’inexactitude des comptes annuels qui peut résulter d’une erreur matérielle, d’une erreur de classement ou d’une erreur d’évaluation ; ensuite de la présentation ou de la publication, par exemple par la communication des comptes à l’assemblée générale des actionnaires ou associés ou encore d’un envoi à ceux-ci dans les quinze jours avant l’assemblée générale d’approbation des comptes. Ces différentes infractions sont punies conformément aux dispositions du droit pénal en vigueur dans chaque Etat partie. À ce sujet, l’article 38 de la loi camerounaise du 10 juillet 2003 dispose que les infractions relatives à l’harmonisation de la comptabilité des. entreprises sont punies d’un emprisonnement de trois mois à trois ans et d’une amende de 500.000F CFA à 5.000.000F CFA ou de l’une de ces deux peines seulement. (Done)
 
 #### A. L’Acte uniforme sur le droit des sociétés commerciales
 
@@ -366,23 +366,21 @@ Le législateur Ohada distingue diverses infractions qui portent sur la constitu
 1. Les infractions liées à la constitution de la société commerciale
 
 Elles sont prévues par les articles 886 et suivants AUSCGIE ; il s’agit plus précisément de la simulation de souscription ou de versement, la publication des faits faux, l’établissement du certificat de dépôt des souscriptions ou de versements, la surévaluation des apports en nature, l’émission irrégulière d’action ou de valeurs mobilières, les négociations interdites d’actions.
-Concernant la modification du capital social, il y a l’augmentation du capital dont les articles 893 et 894 AUSCGIE envisagent les actes et comportements prohibés en la matière.
+Concernant la modification du capital social, il y a l’augmentation du capital dont les articles 893 et 894 AUSCGIE envisagent les actes et comportements prohibés en la matière. (Done)
 
 2. Les infractions relatives au fonctionnement des sociétés commerciales
 
 Il existe des infractions liées à la gestion de la société, celles portant sur sa comptabilité. Pour la première catégorie, on retient : l’abus des biens et du crédit de la société”Î les atteintes aux droits des associés.” En dehors de ces infractions liées aux abus dans la gestion de la société, d’autres relèvent du contrôle de gestion. C’est ainsi qu’on peut citer : l’obstacle à la désignation ou
 
-ou le refus de communication de documentsl49, les informations mensongères'”°’, la non-révélation de faits délictieux'*', car d’après l’article 899 AUSCGIE « encourt une sanction pénale, tout commissaire aux comptes qui, soit en son nom personnel, soit à titre d’associé d’une société de commissaires aux comptes, aura sciemment donné ou confirmé des informations mensongères sur la situation de la société ou qui n’aura pas révélé au ministère public les faits délictueux dont il aura eu connaissance ».
+ou le refus de communication de documentsl49, les informations mensongères, la non-révélation de faits délictieux, car d’après l’article 899 AUSCGIE « encourt une sanction pénale, tout commissaire aux comptes qui, soit en son nom personnel, soit à titre d’associé d’une société de commissaires aux comptes, aura sciemment donné ou confirmé des informations mensongères sur la situation de la société ou qui n’aura pas révélé au ministère public les faits délictueux dont il aura eu connaissance ».
 
 A côté de ces infractions qui portent sur la gestion de la société
 
 “
 
-commerciale, il existe d’autres délits liés à la comptabilité de la société, à savoir : la distribution de dividendes ﬁctifslSî, la communication de la comptabilité, l’infidélité des états financiers de synthèse.'* Concernant la modification du capital social, il y a l’augmentation du capital dont les articles 893 et 894 AUSCGIE envisagent les actes et comportements prohibés en la
+commerciale, il existe d’autres délits liés à la comptabilité de la société, à savoir : la distribution de dividendes ﬁctifslSî, la communication de la comptabilité, l’infidélité des états financiers de synthèse. Concernant la modification du capital social, il y a l’augmentation du capital dont les articles 893 et 894 AUSCGIE envisagent les actes et comportements prohibés en la matière. (Done)
 
-matière.
-
-3. Les infractions liées à la disparition des sociétés
+1. Les infractions liées à la disparition des sociétés
 
 Une société naît, vit et peut disparaître. Sa disparition suppose sa dissolution et sa liquidation. Au cours de ces deux moments, des infractions pénales peuvent être commises par les dirigeants, les tiers, les parents ou conjoint du débiteur, les commissaires aux comptes.
 
@@ -398,7 +396,7 @@ commerciales, inscrit au registre du commerce et du crédit mobilier et publié 
 
 
 
-Eu égard à ce qui précède, on constate que trois infractions peuvent être commises pendant la dissolution de la société ; la perte de la moitié du capital social, le refus de consultation des associés, le défaut de publication de la décision de nomination du liquidateur.'*
+Eu égard à ce qui précède, on constate que trois infractions peuvent être commises pendant la dissolution de la société ; la perte de la moitié du capital social, le refus de consultation des associés, le défaut de publication de la décision de nomination du liquidateur.'* (Done)
 
 #### b. Les infractions liées aux opérations de liquidation
 
@@ -411,7 +409,7 @@ société en liquidation'“ ;
 
 * l’obligation de clôturer également la liquidation ;
 
-* l’obligation de ne pas faire certaines cessions d’actif.
+* l’obligation de ne pas faire certaines cessions d’actif. (Done)
 
 #### B. L’Acte uniforme sur les procédures collectives
 
@@ -419,7 +417,7 @@ On distingue les infractions de banqueroute, les infractions assimilées aux ban
 
 1. Les infractions de banqueroute
 
-Le délit de banqueroute suppose que le commerçant est en état de cessation des paiements. En fonction de la gravité des fautes commises, la banqueroute est dite simple ou frauduleuse."”
+Le délit de banqueroute suppose que le commerçant est en état de cessation des paiements. En fonction de la gravité des fautes commises, la banqueroute est dite simple ou frauduleuse."” (Done)
 
 #### a. La banqueroute simple
 
@@ -432,7 +430,6 @@ engagements jugés trop importants eu égard à sa situation lorsqu’elle les a
 paiements, elle a fait des achats en vue d’une revente au-dessous du cours ou si, dans la même intention, elle a employé des moyens ruineux pour se procurer des fonds ;
 
 
-
 3. si, sans excuse légitime, elle ne fait pas au greffe de la juridiction
 compétente la déclaration de son état de cessation des paiements dans le délai de trente jours ;
 
@@ -440,7 +437,7 @@ compétente la déclaration de son état de cessation des paiements dans le dél
 tenu aucune comptabilité conforme aux règles comptables et aux usages reconnus de la profession eu égard à l’importance de l’entreprise ;
 
 5. si, ayant été déclarée deux fois en état de cessation des paiements dans
-un délai de cinq ans, ces procédures ont été clôturées pour insuffisance d’actif (art. 228 AUCAP)"°
+un délai de cinq ans, ces procédures ont été clôturées pour insuffisance d’actif. (art. 228 AUCAP)"° (Done)
 
 #### b. La banqueroute frauduleuse
 

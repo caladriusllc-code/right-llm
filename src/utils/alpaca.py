@@ -1,8 +1,8 @@
 import json
 
 # Noms de vos fichiers d'entrée et de sortie
-fichier_entree = 'C:\\Users\\adnco\\Documents\\projects\\right-llm\\data\\train-data\\ohada-full.jsonl'
-fichier_sortie = 'alpaca_ohada.jsonl'
+fichier_entree = 'C:\\Users\\adnco\\Documents\\projects\\right-llm\\data\\train-data\\ohada-three.jsonl'
+fichier_sortie = 'C:\\Users\\adnco\\Documents\\projects\\right-llm\\data\\train-data\\ohada-three_alpaca.jsonl'
 
 def convertir_en_alpaca():
     try:
