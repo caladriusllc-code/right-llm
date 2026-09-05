@@ -93,7 +93,7 @@ def chunk_text_by_structure(text):
 # ==========================================
 if __name__ == "__main__":
     
-    chemin_livre = r"/Users/mac/Documents/Ma recherche scientifique/rigth-data/OHADA act-f.pdf" 
+    chemin_livre = r"/Users/mac/Documents/Ma recherche scientifique/Loi n° 2015-532 du 20 juillet 2015 portant code du Travail.pdf" 
     
     # 1. Extraction 
     texte_brut = extract_full_book_safely(chemin_livre)
@@ -104,7 +104,7 @@ if __name__ == "__main__":
         morceaux_texte = chunk_text_by_structure(texte_brut)
         
         # 3. Sauvegarde en .md
-        chemin_sauvegarde = r"/Users/mac/Documents/Ma recherche scientifique/rosaria/data/books/OHADA-act-f.md"
+        chemin_sauvegarde = r"/Users/mac/Documents/Ma recherche scientifique/rosaria/data/books/code_de_travail.md"
         print(f"💾 Sauvegarde de {len(morceaux_texte)} blocs dans {chemin_sauvegarde}...")
         
         with open(chemin_sauvegarde, 'w', encoding='utf-8') as f:

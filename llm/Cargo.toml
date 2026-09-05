@@ -1,0 +1,11 @@
+[package]
+name = "llm"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rusty-tesseract = "1.1.10" # L'équivalent de pytesseract
+regex = "1.10"             # Pour les expressions régulières
+indicatif = "0.17"         # L'équivalent de tqdm (barre de progression)
+anyhow = "1.0"             # Pour une gestion simplifiée des erreurs
+tempfile = "3.8"
