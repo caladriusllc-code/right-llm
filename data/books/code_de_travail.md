@@ -20,7 +20,6 @@ INTERPROFESSIONNEL
 
 (Édition 2021)
 
-= POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 Table des matières
 
@@ -80,12 +79,10 @@ TITRE VII : COMMISSION PARITAIRE D'INTERPRETATION ET DE CONCILIATION 510
 
 ANNEXES ne enreerneennneeenneeneneennseeeenseeeeneeeeeseeeeseeeeneeeneees 512
 
-4 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 LE CODE DU TRAVAIL
 IVOIRIEN
 
-= POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 I- PARTIE LEGISLATIVE
 
@@ -282,7 +279,6 @@ L'ouverture de bureaux ou d'offices privés de placement ayant pour objet
 exclusif ou principal d'agir comme intermédiaires entre employeurs et
 travailleurs est autorisée dans des conditions déterminées par décret.
 
-= POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 Art. 11.3
 
@@ -350,7 +346,6 @@ l'entreprise.
 L'interruption temporaire de l'activité de l'entreprise ne fait pas, par
 elle-même, obstacle à l'application des dispositions précédentes.
 
-14 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 Art. 11.9
 
@@ -597,8 +592,6 @@ Art. 13.20
 Les modalités pratiques de mise en œuvre du contrat stage de qualification
 ou d'expérience professionnelle sont déterminées par voie réglementaire.
 
-ce POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
-
 ---
 
 ## Bloc 12
@@ -661,7 +654,6 @@ l'échec du travailleur à cet examen ne peut être la cause d'un licenciement ;
 le travailleur est réintégré dans son emploi précédant et bénéficie de tous les
 avantages qui s'y rattachent.
 
-24 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 Art. 13.25
 
@@ -853,8 +845,6 @@ par l'arrivée du terme, soit, s'il s'agit de contrat à durée indéterminée, 
 l'expiration du préavis ou si un délai de quinze jours s'était écoulé depuis la
 rupture dudit contrat.
 
-e POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
-
 ---
 
 ## Bloc 17
@@ -964,7 +954,6 @@ rémunération au moins équivalente ;
 - Lorsqu'une rupture anticipée du contrat est le fait du salarié ou lorsqu'elle
 est consécutive à une faute lourde du travailleur.
 
-34 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 Art. 15.9
 
@@ -1284,7 +1273,6 @@ délégués du personnel.
 Les explications verbales fournies sont transcrites par l'employeur en
 présence des délégués du personnel qui ont assisté à l'audition du travailleur.
 
-44 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 Ses explications sont lues, signées par lui et contresignées par
 l'employeur et les personnes ayant assisté les parties.
@@ -1348,7 +1336,6 @@ reclassement du travailleur ;
 
 - inaptitude à tout emploi constatée par un médecin du travail.
 
-46 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 Dans ces cas, le travailleur perçoit l'intégralité de ses droits de rupture
 de son contrat de travail.
@@ -1640,7 +1627,6 @@ Une durée de travail inférieure à la durée normale peur être stipulée
 dans le cadre du travail à temps partiel. Dans ce cas, le contrat doit être
 constaté par un écrit, ou une lettre d'embauche mentionnant la durée du
 
-54 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 travail. Des heures complémentaires peuvent être accomplies dans des
 conditions et limites prévues par décret.
@@ -2022,7 +2008,6 @@ sur les bases suivantes :
 - 2 jours ouvrables de congé supplémentaires par enfant à charge si elle a
 moins de 21 ans au dernier jour de la période de référence ;
 
-64 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 - 2 jours ouvrables de congé supplémentaires par enfant à charge à compter
 du 4e si elle a plus de 21 ans au dernier jour de la période de référence.
@@ -2366,7 +2351,6 @@ dispositions qui précèdent, à l'exception des coopératives ouvrières.
 La vente des alcools et spiritueux est interdite dans les économats ainsi
 que sur le lieu d'emploi du travailleur.
 
-74 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 Art. 27.2
 
@@ -2694,7 +2678,6 @@ La prescription commence à courir à la date à laquelle les salaires sont
 dus. Le dernier jour du délai est celui qui porte le même quantième que le
 jour du point de départ de la prescription.
 
-84 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 Art. 33.6
 La prescription a lieu quoiqu'il y ait eu continuation de travail.
@@ -2997,7 +2980,6 @@ Art. 43.4
 Des décrets déterminent les modalités d'application des dispositions du
 présent chapitre.
 
-94 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 CRAPITRE 4
 SERVICES SOCIAUX DES ENTREPRISES
@@ -3317,7 +3299,6 @@ Art. 53.5
 Les groupements de syndicats professionnels jouissent de tous les droits
 conférés aux syndicats professionnels par le présent titre.
 
-104 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 CHAPTTRE 4
 SYNDICATS REPRESENTATIFS
@@ -3544,7 +3525,6 @@ La décision de l'inspecteur du travail et des lois sociales peut faire
 l'objet des recours prévus, par le droit commun, contre les décisions
 administratives.
 
-ce POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 Art. 61.9
 
@@ -3687,7 +3667,6 @@ organiser avec les délégués du personnel, il peut y prendre la parole.
 Pour l'exercice de son mandat, le délégué syndical bénéficie des mêmes
 heures de délégation que les délégués du personnel.
 
-2e POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 Art. 62.3
 
@@ -3947,7 +3926,6 @@ durée indéterminée.
 La Convention à durée indéterminée peut cesser par la volonté d'une
 des parties.
 
-124 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 Art 72.6
 
@@ -4306,7 +4284,6 @@ points sur lesquels l'accord des parties est intervenu et s'il y a lieu, les
 sommes convenues pour chaque chef de demande, et, d'autre part, les chefs
 de demande dont il a été fait abandon.
 
-134 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 En cas de règlement partiel le procès-verbal contient également les
 chefs de demande sur lesquels il n'a pu y avoir d'accord des parties. Aucune
@@ -4662,7 +4639,6 @@ demande reconventionnelle en dommages-intérêts, fondée exclusivement sur
 la demande principale, dépasse sa compétence en dernier ressort. Il statue
 également sans appel, en cas de défaut du défendeur, si seules les demandes
 
-144 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 reconventionnelles formées par celui-ci dépassent le taux de sa compétence
 en dernier ressort, quels que soient la nature et le montant de cette demande.
@@ -4909,7 +4885,6 @@ parties en conviennent ;
 des deux dernières procédures, le conseil national du dialogue social peut
 être saisi.
 
-Te POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 ---
 
@@ -5019,7 +4994,6 @@ manifesté son opposition, les recommandations, sous réserve du dépôt prévu
 L'opposition à peine de nullité est formée dans les délais ci-dessus
 indiqués par lettre recommandée adressée à l'inspecteur du travail et des lois
 
-154 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 sociales. Le récépissé de l'expédition fait foi de l'opposition. En cas
 d'opposition, les conclusions de la recommandation sont rendues publiques.
@@ -5317,7 +5291,6 @@ sociales doit informer de sa présence l'employeur ou son représentant, à
 moins qu'il n'estime qu'un tel avertissement risque de porter préjudice à
 l'efficacité du contrôle.
 
-164 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 Sur réquisition écrite constatant les difficultés rencontrées dans
 l'exercice de leur mission, les inspecteurs du travail et des lois sociales
@@ -5643,7 +5616,6 @@ Les employeurs sont civilement responsables des condamnations
 prononcées contre leurs fondés de pouvoir ou préposés pour fautes
 commises dans l'exercice ou à l'occasion de l'exercice de leurs fonctions.
 
-174 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 ---
 
@@ -5949,7 +5921,6 @@ la traite des enfants, la servitude pour dettes et le servage ainsi que le trava
 forcé ou obligatoire y compris le recrutement et l'utilisation des enfants dans
 les conflits armés ;
 
-184 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 - l'utilisation, le recrutement ou l'offre d'un enfant à des fins d'exploitation
 sexuelle, de production de matériels pornographiques ou de spectacles
@@ -6439,7 +6410,6 @@ particuliers ayant assuré le transport de la victime en violation des
 dispositions de l'article 17 alinéa 2 sont tenus de couvrir les charges liées à
 son rapatriement.
 
-194 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 A défaut, le moyen de transport est saisi par l'Autorité Administrative, mis
 en fourrière ou confisqué.
@@ -6749,7 +6719,6 @@ services ;
 
 3° La Médaille d'Or, qui est accordée après trente années de services ;
 
-204 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 4° La Grande Médaille d'Or, qui est accordée après trente-cinq années de
 services.
@@ -7017,7 +6986,6 @@ qui sera publié au Journal officiel de la République de Côte d’Ivoire.
 Fait à Abidjan, le 9 février 1963
 Félix HOUPHOUET-BOIGNY
 
-ee POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 DECRET N° 94-218 DU 20 AVRIL 1994 PORTANT CREATION ET
 ORGANISATION DU FONDS D'INSERTION DES JEUNES
@@ -7186,21 +7154,20 @@ e le suivi et l'encadrement des micro-projets financés par le Fonds.
 ARTICLE 9
 
 Il est créé un Comité de Suivi composé comme suit :
-e deux députés à l'Assemblée nationale ;
+deux députés à l'Assemblée nationale ;
 
-e un membre du Conseil économique et social, ainsi que des
+un membre du Conseil économique et social, ainsi que des
 représentants ;
 
-e du ministre chargé de l'Economie et des Finances ;
+du ministre chargé de l'Economie et des Finances ;
 
-e de l'Agence générale pour la Promotion de l'Emploi ;
+de l'Agence générale pour la Promotion de l'Emploi ;
 
-214 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
-e de l'Association professionnelle des Banques ;
-e de la Caisse autonome d'Amortissement ;
+de l'Association professionnelle des Banques ;
+de la Caisse autonome d'Amortissement ;
 
-e des bailleurs de fonds.
+des bailleurs de fonds.
 
 ---
 
@@ -7615,13 +7582,12 @@ e les nom, prénoms ou la raison sociale, l'adresse et le numéro
 d'affiliation de l'employeur, à la Caisse nationale de Prévoyance
 sociale ;
 
-e la référence et la date de réception de l'offre ;
+la référence et la date de réception de l'offre ;
 
-224 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
-e les caractéristiques du poste du travail ;
+les caractéristiques du poste du travail ;
 
-e la qualification et les connaissances professionnelles requises.
+la qualification et les connaissances professionnelles requises.
 
 ---
 
@@ -8086,21 +8052,18 @@ ARTICLE 25
 La convention de prestation de service conclue entre l'entrepreneur et
 l'utilisateur, doit être passée par écrit et préciser :
 
-e la durée de la mission ;
-e la nature du service à assurer ;
+la durée de la mission ;
+la nature du service à assurer ;
 
-e le motif précis justifiant le recours au travailleur temporaire ;
+le motif précis justifiant le recours au travailleur temporaire ;
 
-234 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
-e la qualification professionnelle du travailleur exécutant la mission ;
+la qualification professionnelle du travailleur exécutant la mission ;
 
-e le lieu d'exécution de la mission, l'horaire et les caractéristiques
+le lieu d'exécution de la mission, l'horaire et les caractéristiques
 particulières du travail à exécuter ;
 
-e les modalités de la prestation de service fournie à l'utilisateur (coût de
-
-a mission).
+les modalités de la prestation de service fournie à l'utilisateur (coût de la mission).
 
 ---
 
@@ -8546,7 +8509,6 @@ Fait à Abidjan, le 7 mars 1996
 
 Henri Konan BEDIE
 
-244 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 DECRET N° 96-197 DU 7 MARS 1996 RELATIF AU REGLEMENT
 INTERIEUR
@@ -8997,7 +8959,6 @@ contrat pour maladie, en lieu et place de la rémunération, une allocation
 Cette allocation est valable pour toute la période de suspension du contrat
 telle que prévue à l'article premier.
 
-254 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 ---
 
@@ -9387,8 +9348,6 @@ de la République de Côte d'Ivoire.
 Fait à Abidjan, le 7 mars 1996
 
 Henri Konan BEDIE
-
-264 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 DECRET N° 96-202 DU 7 MARS 1996 RELATIF AU TRAVAIL A
 TEMPS PARTIEL
@@ -9820,8 +9779,6 @@ les modalités particulières d'application de ces équivalences.
 moyen mentionné à l'alinéa premier, seules les équivalences prévues à
 l'article 3 sont applicables.
 
-274 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
-
 ---
 
 ## Bloc 355
@@ -10148,7 +10105,6 @@ soit aux bâtiments de l'entreprise.
 
 Les heures effectuées à ce titre seront rémunérées au tarif normal.
 
-Le POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 ---
 
@@ -10282,7 +10238,6 @@ L'employeur qui envisage un système d'horaire individualisé de travail doit
 réquérir l'avis favorable des délégués du personnel et en informer
 l'inspecteur du Travail et des Lois sociales.
 
-284 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 Si l'établissement ne compte pas de délégués du personnel, l'employeur doit
 consulter ses travailleurs, obtenir, le cas échéant, leur accord écrit et en
@@ -10667,7 +10622,6 @@ e les travailleurs rémunérés au mois ont droit à leur salaire normal qui
 ne peut subir aucune modification à la hausse en raison du travail
 effectué le jour férié.
 
-294 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 ---
 
@@ -11065,7 +11019,6 @@ Fait à Abidjan, le 7 mars 1996
 
 Henri Konan BEDIE
 
-304 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 DECRET N° 96-207 DU 7 MARS 1996 RELATIF AUX DELEGUES
 
@@ -11516,7 +11469,6 @@ Le délégué syndical est désigné avec l'approbation de la majorité des
 travailleurs membres dudit syndicat qui en informe le chef d'entreprise ou
 son représentant et l'inspecteur du Travail du ressort.
 
-314 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 ---
 
@@ -11947,7 +11899,6 @@ Fait à Abidjan, le 7 mars 1996
 
 Henri Konan BEDIE
 
-324 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 ANNEXE
 
@@ -12301,7 +12252,6 @@ peut solliciter l'organisation professionnelle concernée.
 Le maître doit satisfaire aux exigences prévues aux articles 12.4, 12.5, et
 12.6 du Code du Travail.
 
-334 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 ---
 
@@ -12757,10 +12707,10 @@ susceptible de preuve, le contenu du contrat.
 ARTICLE 5
 Dès sa conclusion, l'employeur devra :
 
-e faire la mention de tout contrat ou de toute lettre d'embauche, sur le
+faire la mention de tout contrat ou de toute lettre d'embauche, sur le
 registre d'employeur prévu à l'article 93.2 du Code du Travail ;
 
-e remettre un exemplaire du contrat ou de la lettre d'embauche au
+remettre un exemplaire du contrat ou de la lettre d'embauche au
 travailleur intéressé.
 
 ---
@@ -12774,7 +12724,6 @@ et de Promotion de l'Emploi, les exemplaires de tous contrats et lettres
 d'embauche établis au cours du même mois, et remis aux travailleurs
 embauchés pendant cette période.
 
-344 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 ---
 
@@ -13198,7 +13147,6 @@ Fait à Abidjan, le 28 janvier 1998
 
 Henri Konan BEDIE
 
-354 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 DECRET N° 98-39 DU 28 JANVIER 1998 RELATIF AU REGIME
 DES CONGES PAYES RELEVANT DU CODE DU TRAVAIL
@@ -13594,23 +13542,20 @@ e de représentants des employeurs.
 Sont membres fonctionnaires, outre le directeur de l'Inspection médicale du
 Travail, président du Comité, représentant le ministre chargé du Travail :
 
-e le représentant du ministre chargé de la Santé publique ;
+le représentant du ministre chargé de la Santé publique ;
 
-e le représentant du ministre chargé des Travaux publics ;
+le représentant du ministre chargé des Travaux publics ;
 
-364 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
+le représentant du ministre chargé de l'Agriculture ;
 
-e le représentant du ministre chargé de l'Agriculture ;
+le représentant du ministre chargé de l'Enseignement technique et de la Formation professionnelle ;
 
-e le représentant du ministre chargé de l'Enseignement technique et de
-a Formation professionnelle ;
+le représentant du ministre chargé de l'Environnement ;
 
-e le représentant du ministre chargé de l'Environnement ;
+le représentant du ministre chargé de la Justice ;
 
-e le représentant du ministre chargé de la Justice ;
-
-e le représentant du ministre chargé de l'Industrie ;
-e un administrateur du Travail et des Lois sociales.
+le représentant du ministre chargé de l'Industrie ;
+un administrateur du Travail et des Lois sociales.
 
 Les représentants des employeurs et les représentants des travailleurs sont
 nommés par arrêté du ministre chargé du Travail sur proposition des
@@ -13979,7 +13924,6 @@ peut, en outre, dans les mêmes conditions extraire de la Convention, sans en
 modifier l'économie, les clauses qui ne répondraient pas à la situation de la
 ou des branches d'activité dans le champ territorial considéré.
 
-374 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 ---
 
@@ -14396,8 +14340,6 @@ traitement de cette aide ;
 de conseils, privilégiant les échanges entre les différents partenaires, le
 traitement d’informations primaires disponibles, l’analyse et la diffusion des
 informations.
-
-384 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 ---
 
@@ -14904,7 +14846,6 @@ Les prêts consentis par les institutions financières à leurs clients retrait�
 dont les pensions sont gérées par la Caisse Nationale de Prévoyance Sociale
 sont soumis aux mêmes taux que ceux mentionnés à l’article précédent.
 
-394 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 ---
 
@@ -15313,7 +15254,6 @@ salariés depuis 1998 ainsi que les « à valoirs » sur augmentations légales 
 conventionnelles sont à prendre en compte dans l'application du nouveau
 barème.
 
-404 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 ---
 
@@ -15701,7 +15641,6 @@ que les contributions d'organismes publics ou privés ;
 - toutes autres recettes qui peuvent lui être attribuées ultérieurement par les
 dispositions législatives ou réglementaires.
 
-414 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 ---
 
@@ -16265,7 +16204,6 @@ internationalement reconnues ;
 - d'accompagner les processus de qualité et de normalisation de l'Agence
 Emploi Jeunes.
 
-424 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 ---
 
@@ -16653,7 +16591,6 @@ l'article 6.
 Cependant, la première révision ne pourra intervenir avant un délai de deux
 ans.
 
-434 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 ---
 
@@ -17053,7 +16990,6 @@ Lorsqu'une affectation à un poste, inférieur, par suite de la situation
 travailleur, celui-ci bénéficie pendant deux ans d'une priorité pour réoccuper
 son poste antérieur dans le cas où ce poste serait rétabli.
 
-444 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 ---
 
@@ -17496,7 +17432,6 @@ A l'occasion du service militaire et des périodes obligatoires d'instruction
 militaire auxquelles le travailleur est astreint, l'employeur est tenu de lui
 verser, avant son départ, une indemnité égale au salaire qu'il aurait perçu
 
-454 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 dans la limite de l'indemnité compensatrice de préavis dont la durée est
 déterminée à l'article 34 de la présente convention.
@@ -17904,7 +17839,6 @@ habituelle, à condition que les ayants droit en formulent la demande dans la
 limite maximale de deux ans, après l'expiration du délai réglementaire prévu
 pour le transfert des restes mortels.
 
-464 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 ---
 
@@ -18315,8 +18249,6 @@ au jour et à l'heure fixés pour la réunion, la commission peut néanmoins
 décider de siéger mais en s'organisant pour que la représentation des
 employeurs et des travailleurs demeure paritaire.
 
-474 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
-
 Le rôle de la commission est de déterminer la catégorie dans laquelle doit
 être classé l'emploi assuré par le travailleur dans l'entreprise ou 1
 établissement.
@@ -18717,7 +18649,6 @@ salissants tels que définis par les articles 4 D 83 à 4 D 95 du Code du
 Travail, une prime de salissure leur est versée mensuellement. Son montant
 mensuel est égal à 13 fois le S.M.IG. horaire.
 
-484 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 ---
 
@@ -19139,7 +19070,6 @@ transport à la charge de l'employeur sont les suivantes :
 CATEGORIES ROUTE CHEMIN DE FER AVION
 D'EMPLOIS
 
-494 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 Ouvriers et employés
 
@@ -19521,7 +19451,6 @@ hospitalisé à la suite d'un accident non professionnel survenu soit par sa
 faute soit à l'occasion de jeux ou d'épreuves sportives non organisés par
 l'employeur auxquels il aurait participé.
 
-504 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 ---
 
@@ -19783,7 +19712,6 @@ La présente convention prend effet à compter du 20 juillet 1977.
 
 ANNEXES
 
-CE POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 EXTENSION DES DISPOSITIONS
 DE LA CONVENTION COLLECTIVE
@@ -19841,7 +19769,6 @@ Elles sont applicables aux employeurs et aux travailleurs des secteurs
 d'activité précités non signataires de la Convention collective
 interprofessionnelle pour compter de la publication au présent arrêté.
 
-514 POUR REVENIR A LA TABLE DES MATIERES, CLIQUEZ ICI
 
 ANNEXE 1
 
